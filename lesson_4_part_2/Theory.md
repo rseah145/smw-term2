@@ -25,11 +25,11 @@ GP in Win Server 2016 allows standardization of working environment of clients a
 * Can be set up to affect all user accounts and PCs
 * When GP is updated, old policies are removed or updated for all clients
 
-PC configuration applies to computers
-![[../images/Pasted image 20230629173324.png]]
+PC configuration applies to computers  
+[[../images/Pasted image 20230629173324.png]]
 
-User configuration applies to users
-![[../images/Pasted image 20230629173342.png]]
+User configuration applies to users  
+[[../images/Pasted image 20230629173342.png]]
 
 
 ### Win Server 2016 using Security Policies
