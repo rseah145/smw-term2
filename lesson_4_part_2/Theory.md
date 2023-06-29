@@ -18,3 +18,9 @@ GP in Win Server 2016 allows standardization of working environment of clients a
 * GPOs can be local and nonlocal
 * Can be set up to affect all user accounts and PCs
 * When GP is updated, old policies are removed or updated for all clients
+
+PC configuration applies to computers
+![[Pasted image 20230629173324.png]]
+
+User configuration applies to users
+![[Pasted image 20230629173342.png]]
