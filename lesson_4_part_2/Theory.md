@@ -64,4 +64,14 @@ Specific pw security options
 
 Acc Lockout, where the OS can employ acc lockout to bar access to an account (including true account owner) after a number of failed login attempts
 
-Lockout can be set to released 
+Lockout can be set to released after a specified period of time, or by intervention from the server admin
+
+Common policy is to have a lockout after 5 to 10 failed logon attempts, admin can set lockout to release after a designated time
+
+Acccount lockout parameters
+* Acc lockout duration
+* Acc lockout threshold
+* Reset acc lockout count after
+
+Acc Lockout is mainly used to prevent brute force attacks on passwords, but it can cause Denial of Service attacks
+* With a lockout of 30 mins, an attacker can lockout all user accounts with incorrect pws to cause a DoS to the system via unable to login 
