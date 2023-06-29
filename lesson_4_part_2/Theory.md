@@ -26,10 +26,10 @@ GP in Win Server 2016 allows standardization of working environment of clients a
 * When GP is updated, old policies are removed or updated for all clients
 
 PC configuration applies to computers  
-![image](../images/Pasted image 20230629173324.png)
+![image](./images/Pasted image 20230629173324.png)
 
 User configuration applies to users  
-![image](../images/Pasted image 20230629173342.png)
+![image](./images/Pasted image 20230629173342.png)
 
 
 ### Win Server 2016 using Security Policies
