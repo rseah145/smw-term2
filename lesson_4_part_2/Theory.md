@@ -1,5 +1,6 @@
 # Continuation from slide 44 of lecture 4 slides (theory)  
 
+
 ## Objectives
 Intro to GP  
 
@@ -7,7 +8,9 @@ Intro to GP
 [link](https://www.youtube.com/watch?v=orQns7K-brM)
 
 ## Navigation
-* [Intro to GP](#introduction-to-group-policy-\(gp\))
+* [Intro to GP](#introduction-to-group-policy-gp)
+* [Securing Win Server 2016 using Security Policies](#win-server-2016-using-security-policies)
+
 
 ### Introduction to Group Policy (GP)
 
@@ -25,6 +28,9 @@ GP in Win Server 2016 allows standardization of working environment of clients a
 PC configuration applies to computers
 ![image](https://github.com/b00tl04d/smw-term2/assets/108401257/ed79f424-aa32-4adb-aae8-8d1b8b19544f)
 
-
 User configuration applies to users
 ![image](https://github.com/b00tl04d/smw-term2/assets/108401257/90641d16-23ea-4193-ba7e-99b53305ab75)
+
+
+### Win Server 2016 using Security Policies
+
