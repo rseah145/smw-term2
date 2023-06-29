@@ -10,7 +10,7 @@ Intro to GP
 
 GP in Win Server 2016 allows standardization of working environment of clients and servers via policies in AD.
 
-Characteristics of GP
+### Characteristics of GP
 
 * Can be set for a <b>site</b>, <b>domain</b>, <b>OU</b>, or <b>local computer</b>
 * Cannot be set for non-OU folder containers
