@@ -11,11 +11,9 @@
             "id": "89906d3397c27b3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "lesson_4_part_2/Theory.md",
-                "mode": "source",
-                "source": true
+                "file": "images/Pasted image 20230629173324.png"
               }
             },
             "group": "5eef144896898bb0"
@@ -30,11 +28,9 @@
             "id": "db7b879669388c07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "lesson_4_part_2/Theory.md",
-                "mode": "preview",
-                "source": true
+                "file": "images/Pasted image 20230629173324.png"
               }
             },
             "group": "5eef144896898bb0"
@@ -105,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lesson_4_part_2/Theory.md",
+                "file": "images/Pasted image 20230629173324.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lesson_4_part_2/Theory.md",
+                "file": "images/Pasted image 20230629173324.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lesson_4_part_2/Theory.md"
+                "file": "images/Pasted image 20230629173324.png"
               }
             }
           }
@@ -166,12 +162,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db7b879669388c07",
+  "active": "74c8e04efcc26611",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "lesson_4_part_2/Theory.md",
-    "Pasted image 20230629173324.png",
-    "Pasted image 20230629173342.png",
+    "images/Pasted image 20230629173324.png",
+    "images",
+    "conflict-files-obsidian-git.md",
+    "images/Pasted image 20230629173342.png",
     "lesson_4_part_2/Practical.md",
     "README.md",
     "lesson_7",
