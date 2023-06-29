@@ -84,3 +84,13 @@ Acc Lockout is mainly used to prevent brute force attacks on passwords, but it c
 
 #### Establishing Audit Policies
 
+Examples of events an org can audit
+* Account logon (and logoff) events
+* Acc management
+* Directory service access
+* Logon (and logoff) events at the local computer
+* Object access
+* Policy change
+* Privilege use
+* Process tracking
+* System events
