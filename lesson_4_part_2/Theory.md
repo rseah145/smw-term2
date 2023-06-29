@@ -102,4 +102,4 @@ Passive defensive measure
 
 Enable an acc or grp to perform predefined tasks  
 
-The most basic right is the ability to access a server
+The most basic right is the ability to access a server, more advanced rights give privs to create accs and manager server functions
