@@ -49,3 +49,4 @@ Security policies are a subset of individual policies within a larger GP for a s
 Acc policies == all security measures set up in GP that applies to all accs or to all accs in a container when AD is installed.  
 <br>
 
+Acc policies affect 3 main areas
