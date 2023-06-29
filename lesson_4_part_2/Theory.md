@@ -1,2 +1,7 @@
-## Continuation from slide 44 of lecture 4 slides (theory)  
+# Continuation from slide 44 of lecture 4 slides (theory)  
+
+## Objectives
+
+### Introduction to Group policy  
+
 
