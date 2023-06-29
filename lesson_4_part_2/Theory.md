@@ -82,4 +82,5 @@ Acccount lockout parameters
 Acc Lockout is mainly used to prevent brute force attacks on passwords, but it can cause Denial of Service attacks
 * With a lockout of 30 mins, an attacker can lockout all user accounts with incorrect pws to cause a DoS to the system via unable to login  
 
-#### 
+#### Establishing Audit Policies
+
