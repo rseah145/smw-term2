@@ -100,4 +100,6 @@ Passive defensive measure
 
 #### Configuring User Rights
 
+Enable an acc or grp to perform predefined tasks  
 
+The most basic right is the ability to access a server
