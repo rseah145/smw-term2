@@ -12,6 +12,7 @@ Intro to GP
 * [Securing Win Server 2016 using Security Policies](#win-server-2016-using-security-policies)
 * [Establishing Account policies](#establishing-account-policies)
 * [Establishing Audit policies](#establishing-audit-policies)
+* [Configuring User Rights](#configuring-user-rights)
 
 
 <br>
@@ -96,3 +97,5 @@ Examples of events an org can audit
 * System events
 
 Passive defensive measure
+
+
