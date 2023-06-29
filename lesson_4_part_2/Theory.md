@@ -11,6 +11,7 @@ Intro to GP
 * [Intro to GP](#introduction-to-group-policy-gp)
 * [Securing Win Server 2016 using Security Policies](#win-server-2016-using-security-policies)
 * [Establishing Account policies](#establishing-account-policies)
+* [Establishing Audit policies](#establishing-audit-policies)
 
 
 <br>
