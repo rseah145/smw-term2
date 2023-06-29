@@ -3,6 +3,8 @@
 ## Objectives
 Intro to GP  
 
+## Supplimentary video for GPO precedence
+
 ### Introduction to Group Policy  (GP)  
 
 GP in Win Server 2016 allows standardization of working environment of clients and servers via policies in AD.
