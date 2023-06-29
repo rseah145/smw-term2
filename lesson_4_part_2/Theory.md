@@ -53,3 +53,11 @@ Acc policies affect 3 main areas. Password, Account, and Kerberos security.
 PW security
 * 1 option is to set a pw expiration period, requiring users to change pws at regular intervals
 * Some orgs require that all pws have a minimum length
+
+Specific pw security options
+* Enforce pw history
+* Max. password age
+* Min. password age
+* Min. password length
+* Pws must meet complexity requirements
+* Store pw using reversible encryption
