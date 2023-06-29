@@ -24,11 +24,4 @@ PC configuration applies to computers
 
 
 User configuration applies to users
-<<<<<<< HEAD
-![[Pasted image 20230629173342.png]]
-
-
-###
-=======
 ![image](https://github.com/b00tl04d/smw-term2/assets/108401257/90641d16-23ea-4193-ba7e-99b53305ab75)
->>>>>>> origin/main
