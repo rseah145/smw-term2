@@ -12,7 +12,7 @@ Intro to GP
 * [Securing Win Server 2016 using Security Policies](#win-server-2016-using-security-policies)
 
 
-<br
+<br>
 ### Introduction to Group Policy (GP)
 
 GP in Win Server 2016 allows standardization of working environment of clients and servers via policies in AD.  <br>
