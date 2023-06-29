@@ -7,7 +7,7 @@ Intro to GP
 [link](https://www.youtube.com/watch?v=orQns7K-brM)
 
 ## Navigation
-* [Intro to GP](##Introduction-to-Group-Policy-\(GP\))
+* [Intro to GP](#[introduction-to-group-policy])
 
 ### Introduction to Group Policy (GP)  
 
