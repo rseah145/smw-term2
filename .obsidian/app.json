@@ -3,5 +3,6 @@
   "spellcheck": false,
   "vimMode": true,
   "livePreview": false,
-  "useTab": false
+  "useTab": false,
+  "alwaysUpdateLinks": true
 }
