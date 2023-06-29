@@ -46,6 +46,6 @@ Security policies are a subset of individual policies within a larger GP for a s
 
 #### Establishing Account Policies
 
-All security measures set up in GP that applies to all acs or to all accs in a container when AD is installed.  
+Acc policies are all security measures set up in GP that applies to all accs or to all accs in a container when AD is installed.  
 <br>
 
