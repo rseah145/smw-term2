@@ -98,4 +98,6 @@ Examples of events an org can audit
 
 Passive defensive measure
 
-#### Configuring 
+#### Configuring User Rights
+
+
