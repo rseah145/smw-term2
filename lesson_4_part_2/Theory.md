@@ -29,7 +29,7 @@ PC configuration applies to computers
 ![image](https://github.com/b00tl04d/smw-term2/assets/108401257/ed79f424-aa32-4adb-aae8-8d1b8b19544f)
 
 User configuration applies to users
-![image](/images/)
+![image](../images/Pasted image 20230629173324.png)
 
 
 ### Win Server 2016 using Security Policies
