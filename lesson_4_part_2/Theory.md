@@ -4,6 +4,7 @@
 Intro to GP  
 
 ## Supplimentary video for GPO precedence
+[link](https://www.youtube.com/watch?v=orQns7K-brM)
 
 ### Introduction to Group Policy  (GP)  
 
