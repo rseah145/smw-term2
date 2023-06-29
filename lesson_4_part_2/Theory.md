@@ -61,3 +61,7 @@ Specific pw security options
 * Min. password length
 * Pws must meet complexity requirements
 * Store pw using reversible encryption
+
+Acc Lockout, where the OS can employ acc lockout to bar access to an account (including true account owner) after a number of failed login attempts
+
+Lockout can be set to released 
