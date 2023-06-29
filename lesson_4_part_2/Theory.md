@@ -32,6 +32,7 @@ User configuration applies to users
 ![image](../images/Pasted_image_20230629173342.png)
 
 
+<br>
 ### Win Server 2016 using Security Policies
 
 Security policies are a subset of individual policies within a larger GP for a site, domain, OU, or local PC
