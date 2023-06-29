@@ -24,3 +24,6 @@ PC configuration applies to computers
 
 User configuration applies to users
 ![[Pasted image 20230629173342.png]]
+
+
+###
