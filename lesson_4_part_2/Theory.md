@@ -7,9 +7,9 @@ Intro to GP
 [link](https://www.youtube.com/watch?v=orQns7K-brM)
 
 ## Navigation
-* [Intro to GP](#introduction-to-group-policy)
+* [Intro to GP](###introduction-to-group-policy)
 
-### Introduction to Group Policy (GP)  (#introduction-to-group-policy)
+### Introduction to Group Policy
 
 GP in Win Server 2016 allows standardization of working environment of clients and servers via policies in AD.  <br>
 
