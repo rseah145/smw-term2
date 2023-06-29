@@ -20,10 +20,15 @@ GP in Win Server 2016 allows standardization of working environment of clients a
 * When GP is updated, old policies are removed or updated for all clients
 
 PC configuration applies to computers
-![[Pasted image 20230629173324.png]]
+![image](https://github.com/b00tl04d/smw-term2/assets/108401257/ed79f424-aa32-4adb-aae8-8d1b8b19544f)
+
 
 User configuration applies to users
+<<<<<<< HEAD
 ![[Pasted image 20230629173342.png]]
 
 
 ###
+=======
+![image](https://github.com/b00tl04d/smw-term2/assets/108401257/90641d16-23ea-4193-ba7e-99b53305ab75)
+>>>>>>> origin/main
