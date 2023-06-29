@@ -29,7 +29,7 @@ PC configuration applies to computers
 ![image](Pasted-image-20230629173324.png)
 
 User configuration applies to users  
-![image](Pasted-image-20230629173342.png)
+![image](Pasted_image_20230629173342.png)
 
 
 ### Win Server 2016 using Security Policies
