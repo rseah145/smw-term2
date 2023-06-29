@@ -35,3 +35,12 @@ User configuration applies to users
 ### Win Server 2016 using Security Policies
 
 Security policies are a subset of individual policies within a larger GP for a site, domain, OU, or local PC
+
+#### Security policies
+
+* <b>Account Policies</b>
+* Audit Policy
+* <b>User Rights</b>
+* Security Options
+* IP Security Policies (IPSec)
+
