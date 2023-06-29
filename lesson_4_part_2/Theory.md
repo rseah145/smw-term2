@@ -94,3 +94,5 @@ Examples of events an org can audit
 * Privilege use
 * Process tracking
 * System events
+
+Passive defensive measure
