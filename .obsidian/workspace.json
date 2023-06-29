@@ -13,11 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "lesson_4_part_2/Theory.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "5eef144896898bb0"
+          }
+        ]
+      },
+      {
+        "id": "4a067f92783da65f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db7b879669388c07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lesson_4_part_2/Theory.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "5eef144896898bb0"
           }
         ]
       }
@@ -85,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "lesson_4_part_2/Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "lesson_4_part_2/Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "lesson_4_part_2/Theory.md"
               }
             }
           }
@@ -146,10 +166,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74c8e04efcc26611",
+  "active": "89906d3397c27b3a",
   "lastOpenFiles": [
-    "Untitled",
-    "conflict-files-obsidian-git.md",
-    "README.md"
+    "README.md",
+    "lesson_4_part_2/Theory.md",
+    "lesson_7",
+    "lesson_6",
+    "lesson_5",
+    "lesson_4_part_2",
+    "conflict-files-obsidian-git.md"
   ]
 }
