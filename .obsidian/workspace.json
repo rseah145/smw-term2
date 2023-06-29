@@ -11,9 +11,11 @@
             "id": "89906d3397c27b3a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted-image-20230629173324.png"
+                "file": "lesson_4_part_2/Theory.md",
+                "mode": "source",
+                "source": true
               }
             },
             "group": "59576c5c52a7f79d"
@@ -28,9 +30,11 @@
             "id": "845759ba23db69a2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted-image-20230629173324.png"
+                "file": "lesson_4_part_2/Theory.md",
+                "mode": "source",
+                "source": true
               }
             },
             "group": "59576c5c52a7f79d"
@@ -101,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted-image-20230629173324.png",
+                "file": "lesson_4_part_2/Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Pasted-image-20230629173324.png",
+                "file": "lesson_4_part_2/Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Pasted-image-20230629173324.png"
+                "file": "lesson_4_part_2/Theory.md"
               }
             }
           }
@@ -162,11 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74c8e04efcc26611",
+  "active": "89906d3397c27b3a",
   "lastOpenFiles": [
-    "images/Pasted image 20230629173342.png",
-    "images/Pasted-image-20230629173342.png.md",
     "images/Pasted-image-20230629173324.png",
+    "images/Pasted-image-20230629173342.png",
+    "images/Pasted-image-20230629173342.png.md",
     "lesson_4_part_2/Theory.md",
     "conflict-files-obsidian-git.md",
     "images",
