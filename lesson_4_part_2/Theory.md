@@ -4,8 +4,6 @@
 # Objectives
 Intro to GP  
 
-# Supplimentary video for GPO precedence
-
 
 # Navigation
 * [Intro to GP](#introduction-to-group-policy-gp)
