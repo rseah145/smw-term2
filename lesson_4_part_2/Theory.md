@@ -253,6 +253,7 @@ Note
 In Win Server 2003 and previous versions, settings related to Acc Policies can only be set at the domain level
 
 From Win Server 2008, its possible to have different password policies and acc lockout policies for different OUs
+<br>
 
 Special Config Options
 * Blocking GP inheritance
@@ -262,4 +263,10 @@ Special Config Options
 * Multiple GP Link Order Setting
 <br>
 
-More [reference](https://www.youtube.com/watch?v=iS_DV_zH5aU) material for Blocking Policy Inheritance and Enforced Policies
+More [reference](https://learn.microsoft.com/en-us/archive/blogs/musings_of_a_technical_tam/group-policy-basics-part-2-understanding-which-gpos-to-apply) material for Blocking Policy Inheritance and Enforced Policies
+
+Blocking inheritance and enforced GPO are the features that may override or alter the normal policy application order effect
+
+Keep in mind that Block Inheritance is a Container option
+
+Enforced GPO is an attribute of GPO
