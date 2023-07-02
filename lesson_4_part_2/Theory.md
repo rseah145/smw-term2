@@ -254,6 +254,7 @@ Note
 In Win Server 2003 and previous versions, settings related to Acc Policies can only be set at the domain level
 
 From Win Server 2008, its possible to have different password policies and acc lockout policies for different OUs
+
 <br>
 
 ### Policy Application Order
