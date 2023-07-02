@@ -150,3 +150,5 @@ Examples of logon rights
 * Deny logon as a service
 * Deny logon locally
 * Deny logon through RDP
+
+User rights is generally any option under "User Rights Assignment" from 
