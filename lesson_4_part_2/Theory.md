@@ -322,3 +322,5 @@ There is no Sales OU GP
 Scenario 5
 
 Domain Admin can enforce his policy, lower level admins cannot block the policy
+
+![image](../images/Pasted%20image%2020230702173846.png)
