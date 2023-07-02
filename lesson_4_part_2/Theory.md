@@ -231,4 +231,20 @@ Settings that conflict will be applied based on the usual order of application
 
 [Another supplimentary video](https://www.youtube.com/watch?v=iS_DV_zH5aU)
 
-Policy Application Order AKA GP precedence determines final setting that is used when there are setting conflicts
+Policy Application Order AKA GP precedence determines final setting that is used when there are GPO setting conflicts
+
+<br>
+
+From the example
+* Policy at Domain level states that only Admins can shutdown PCs
+* Policy at Sales OU level states that Admins and Mgr1 can shutdown PCs
+<br>
+
+The Policy at Sales OU level will be applied last
+* Admins and Mgr1 can shutdown PCs in the Sales OU
+* Only Admins can shutdown PCs that are not in Sales OU
+<br>
+
+Note
+* This only applies to PCs that receive the GPO
+* Since PCs that are not in the Sales OU will not receive the particular GPO thus Mgr1 only has limited shutdown privs on certain grps of PCs
