@@ -107,3 +107,8 @@ The most basic right is the ability to access a server, more advanced rights giv
 2 general categories of rights
 * Privileges, relate to the ability to manage server or AD functions
 * Logon rights, to how accs, PCs, and services are accessed
+
+Becareful to not mix up user rights with permissions, e.g.
+* Right to read from file vs perm to read from file
+* Right to logon to server vs perm to logon to server
+* Right to 
