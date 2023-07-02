@@ -282,3 +282,5 @@ Enforced GPO is an attribute of GPO
 ABC Company has a Policy at domain level that sets every user's desktop wallpaper to their logo
 
 Domain policies will be inherited by all objects
+
+![[Pasted image 20230702172827.png]]
