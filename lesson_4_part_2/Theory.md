@@ -50,7 +50,7 @@ Security policies are a subset of individual policies within a larger GP for a s
 * <b>User Rights</b>
 * Security Options
 * IP Security Policies (IPSec)
-
+<br>
 #### Establishing Account Policies
 
 Acc policies == all security measures set up in GP that applies to all accs or to all accs in a container when AD is installed.  
@@ -62,7 +62,6 @@ PW security
 * Some orgs require that all pws have a minimum length
 
 <br>
-
 Specific pw security options
 * Enforce pw history
 * Max. password age
