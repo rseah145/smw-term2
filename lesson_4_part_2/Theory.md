@@ -187,4 +187,5 @@ Right below "User Rights Assignment" in GP management editor
 
 Further reference for user configurations of GP
 
-Link: 
+Link: https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/bb742376(v=technet.10)?redirectedfrom=MSDN
+
