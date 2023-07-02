@@ -294,3 +294,5 @@ Scenario 2
 If there are 2 Policies at domain level to set different desktop wallpaper
 
 Policy with lowest Link Order number is applied last
+
+![[Pasted image 20230702173037.png]]
