@@ -296,3 +296,9 @@ If there are 2 Policies at domain level to set different desktop wallpaper
 Policy with lowest Link Order number is applied last
 
 ![image](../images/Pasted%20image%2020230702173037.png)
+
+<br>
+
+Scenario 3
+
+Sales OU Admin creates a Policy for Sales OU to put latest sales figures as desktop wallpaper
