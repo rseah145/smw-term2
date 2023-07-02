@@ -5,7 +5,7 @@
 Intro to GP  
 
 # Supplimentary video for GPO precedence
-[link](https://www.youtube.com/watch?v=orQns7K-brM)
+
 
 # Navigation
 * [Intro to GP](#introduction-to-group-policy-gp)
@@ -212,3 +212,13 @@ The actual number has been kept growing for every major release of newer windows
 Fortunately, each of these entries can be in one of the two states: defined or not defined.  <br>
 The domain controller only send the 'defined' entries to the target machine, thus, sending a GPO to a system may not involve a lot of network bandwidth.  <br>
 Policy settings conflict only occurs when two different GPOs have defined the same entries (but with different definitions) , and both of them are received by the same domain client system.  
+
+<br>
+
+Important to understand the order in which settings in the GP should be configured
+
+Usual order in which GPs are applied is <b>LSDOU</b>
+1. Local
+2. Site
+3. Domain
+4. OU
