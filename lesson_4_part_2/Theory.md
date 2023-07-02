@@ -1,13 +1,13 @@
 # Continuation from slide 44 of lecture 4 slides (theory)  
 
 
-## Objectives
+# Objectives
 Intro to GP  
 
-## Supplimentary video for GPO precedence
+# Supplimentary video for GPO precedence
 [link](https://www.youtube.com/watch?v=orQns7K-brM)
 
-## Navigation
+# Navigation
 * [Intro to GP](#introduction-to-group-policy-gp)
 * [Securing Win Server 2016 using Security Policies](#win-server-2016-using-security-policies)
 * [Establishing Account policies](#establishing-account-policies)
@@ -17,11 +17,11 @@ Intro to GP
 
 <br>
 
-### Introduction to Group Policy (GP)
+## Introduction to Group Policy (GP)
 
 GP in Win Server 2016 allows standardization of working environment of clients and servers via policies in AD.  <br>
 
-#### Characteristics of GP
+### Characteristics of GP
 
 * Can be set for a <b>site</b>, <b>domain</b>, <b>OU</b>, or <b>local computer</b>
 * Cannot be set for non-OU folder containers
@@ -39,11 +39,11 @@ User configuration applies to users
 
 <br>
 
-### Win Server 2016 using Security Policies
+## Win Server 2016 using Security Policies
 
 Security policies are a subset of individual policies within a larger GP for a site, domain, OU, or local PC
 
-#### Security policies
+### Security policies
 
 * <b>Account Policies</b>
 * Audit Policy
@@ -52,7 +52,7 @@ Security policies are a subset of individual policies within a larger GP for a s
 * IP Security Policies (IPSec)
 <br>
 
-#### Establishing Account Policies
+### Establishing Account Policies
 
 Acc policies == all security measures set up in GP that applies to all accs or to all accs in a container when AD is installed.  
 
@@ -89,7 +89,7 @@ Acc Lockout is mainly used to prevent brute force attacks on passwords, but it c
 * With a lockout of 30 mins, an attacker can lockout all user accounts with incorrect pws to cause a DoS to the system via unable to login  
 <br>
 
-#### Establishing Audit Policies
+### Establishing Audit Policies
 
 Examples of events an org can audit
 * Account logon (and logoff) events
@@ -105,7 +105,7 @@ Examples of events an org can audit
 Audit policies are a passive defensive measure (wait and see)
 <br><br>
 
-#### Configuring User Rights
+### Configuring User Rights
 
 Enable an acc or grp to perform predefined tasks  
 
