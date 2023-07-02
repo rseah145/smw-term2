@@ -111,4 +111,3 @@ The most basic right is the ability to access a server, more advanced rights giv
 Becareful to not mix up user rights with permissions, e.g.
 * Right to read from file vs perm to read from file
 * Right to logon to server vs perm to logon to server
-* Right to 
