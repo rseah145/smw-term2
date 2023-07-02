@@ -152,8 +152,8 @@ Examples of logon rights
 * Deny logon locally
 * Deny logon through RDP
 
-User rights is generally any option under "User Rights Assignment" from 
-PC config -> Policies -> Windows Settings -> Security Settings -> Local Policies -> User Rights Assignment 
+User rights is generally any option under "User Rights Assignment" from  
+PC config -> Policies -> Windows Settings -> Security Settings -> Local Policies -> User Rights Assignment  
 within GP management editor
 
 <br>
