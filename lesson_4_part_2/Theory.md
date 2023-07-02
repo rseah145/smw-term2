@@ -324,3 +324,24 @@ Scenario 5
 Domain Admin can enforce his policy, lower level admins cannot block the policy
 
 ![image](../images/Pasted%20image%2020230702173846.png)
+
+
+#### Conclusion for Policy Application Order
+
+To avoid complexity in GPs
+* Limit no. of GPOs (Can a single domain policy apply to all?)
+* Minimize use of Block Inheritance and Enforced to avoid complexity
+<br>
+
+
+### Resultant Set of Policy and gpresult
+
+<b>Resultant Set of Policy</b>
+* Used to make the implementation and troubleshooting of GPs much simpler for an admin
+* Can query the existing policies that are in place and then provide reports and the results of policy changes
+* RSoP supports 2 modes, planning and logging
+* Available within Group Management Policy Console (GMPC) & Command Line Interface (CLI)
+
+
+GPRESULT
+* Is a command to be ran on a workstation to check its current accepted and active GPOs
