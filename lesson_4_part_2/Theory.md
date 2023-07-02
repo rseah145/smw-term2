@@ -259,3 +259,7 @@ Special Config Options
 	* Container option to prevent objects from inheriting GPO
 * Enforced
 	* GPO option to force policies to all child containers and win all setting conflicts (highest precedence)
+* Multiple GP Link Order Setting
+<br>
+
+More reference material for Blocking Policy Inheritance and Enforced Policies
