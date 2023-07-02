@@ -306,3 +306,11 @@ Sales OU Admin creates a Policy for Sales OU to put latest sales figures as desk
 By <b>LSDOU</b>, OU policy is applied last
 
 ![image](../images/Pasted%20image%2020230702173338.png)
+
+<br>
+
+Scenario 4
+
+Sales OU Admin can also choose to block Inheritance, meaning policies will not be inherited
+
+There is no Sales OU GP
