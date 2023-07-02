@@ -102,7 +102,7 @@ Examples of events an org can audit
 * System events
 
 Audit policies are a passive defensive measure (wait and see)
-<br>
+<br><br>
 
 #### Configuring User Rights
 
