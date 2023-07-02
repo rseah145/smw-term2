@@ -275,3 +275,10 @@ Keep in mind that Block Inheritance is a Container option
 
 Enforced GPO is an attribute of GPO
 
+<br>
+
+#### Case study
+
+ABC Company has a Policy at domain level that sets every user's desktop wallpaper to their logo
+
+Domain policies will be inherited by all objects
