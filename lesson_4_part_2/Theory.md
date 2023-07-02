@@ -13,6 +13,7 @@ Intro to GP
 * [Establishing Account policies](#establishing-account-policies)
 * [Establishing Audit policies](#establishing-audit-policies)
 * [Configuring User Rights](#configuring-user-rights)
+* [Configuring Security Options](#configuring-security-options)
 
 
 <br>
