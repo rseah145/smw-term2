@@ -14,6 +14,7 @@ Intro to GP
 * [Establishing Audit policies](#establishing-audit-policies)
 * [Configuring User Rights](#configuring-user-rights)
 * [Configuring Security Options](#configuring-security-options)
+* [List of settings under "User Configuration"](#list-of-settings-under-user-configuration)
 
 
 <br>
