@@ -277,10 +277,20 @@ Enforced GPO is an attribute of GPO
 
 <br>
 
-#### Case study
+#### Case studies
+
+Scenario 1
 
 ABC Company has a Policy at domain level that sets every user's desktop wallpaper to their logo
 
 Domain policies will be inherited by all objects
 
 ![image](../images/Pasted%20image%2020230702172827.png)
+
+<br>
+
+Scenario 2
+
+If there are 2 Policies at domain level to set different desktop wallpaper
+
+Policy with lowest Link Order number is applied last
