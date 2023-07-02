@@ -15,6 +15,7 @@ Intro to GP
 * [Configuring User Rights](#configuring-user-rights)
 * [Configuring Security Options](#configuring-security-options)
 * [List of settings under "User Configuration"](#list-of-settings-under-user-configuration)
+* [Policy Application Order and Troubleshooting](#policy-application-order-and-troubleshooting)
 
 
 <br>
@@ -195,3 +196,15 @@ Link: https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows
 
 ### Policy Application Order and Troubleshooting
 
+Policies can be applied at Domain level, at OU level, etc
+
+Any settings that do not conflict with other settings will be applied
+
+What about policy settings that conflict?
+
+Example
+* Policy at Domain level states that only Admins can shutdown PCs
+* Policy at Sales OU level states that Admins and Mgr1 can shutdown PCs
+
+Every GPO contains the same no. of possible system config setting entries  
+There wew
