@@ -180,3 +180,8 @@ Specialized security options divided into categories
 
 UAC is the most common feature a user can encounter out of the listed categories  
 Right below "User Rights Assignment" in GP management editor
+
+<br>
+
+### List of settings under "User Configuration"
+
