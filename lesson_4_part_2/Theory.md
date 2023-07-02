@@ -157,3 +157,6 @@ PC config -> Policies -> Windows Settings -> Security Settings -> Local Policies
 within GP management editor
 
 <br>
+
+### Configuring Security Options
+
