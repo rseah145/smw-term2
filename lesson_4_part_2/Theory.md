@@ -170,3 +170,9 @@ Specialized security options divided into categories
 * Microsoft Network Client
 * Network access
 * Network security
+* Recovery console
+* Shutdown
+* System cryptography
+* System objects
+* System settings
+* User Account Control (UAC)
