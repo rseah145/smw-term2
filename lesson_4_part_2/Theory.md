@@ -305,4 +305,4 @@ Sales OU Admin creates a Policy for Sales OU to put latest sales figures as desk
 
 By <b>LSDOU</b>, OU policy is applied last
 
-![[Pasted image 20230702173338.png]]
+![image](../images/Pasted%20image%2020230702173338.png)
