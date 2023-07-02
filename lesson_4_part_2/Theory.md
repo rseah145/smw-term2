@@ -185,3 +185,6 @@ Right below "User Rights Assignment" in GP management editor
 
 ### List of settings under "User Configuration"
 
+Further reference for user configurations of GP
+
+Link: 
