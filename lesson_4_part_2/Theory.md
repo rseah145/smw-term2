@@ -56,7 +56,7 @@ Security policies are a subset of individual policies within a larger GP for a s
 Acc policies == all security measures set up in GP that applies to all accs or to all accs in a container when AD is installed.  
 
 Acc policies affect 3 main areas. Password, Account, and Kerberos security.  
-
+<br>
 PW security
 * 1 option is to set a pw expiration period, requiring users to change pws at regular intervals
 * Some orgs require that all pws have a minimum length
