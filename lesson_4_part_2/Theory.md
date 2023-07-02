@@ -302,3 +302,5 @@ Policy with lowest Link Order number is applied last
 Scenario 3
 
 Sales OU Admin creates a Policy for Sales OU to put latest sales figures as desktop wallpaper
+
+By <b>LSDOU</b>, OU policy is applied last
