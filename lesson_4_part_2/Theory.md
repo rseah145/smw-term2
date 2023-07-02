@@ -254,3 +254,8 @@ In Win Server 2003 and previous versions, settings related to Acc Policies can o
 
 From Win Server 2008, its possible to have different password policies and acc lockout policies for different OUs
 
+Special Config Options
+* Blocking GP inheritance
+	* Container option to prevent objects from inheriting GPO
+* Enforced
+	* GPO option to force policies to all child containers and win all setting conflicts (highest precedence)
