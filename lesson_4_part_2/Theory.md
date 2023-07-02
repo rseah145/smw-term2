@@ -207,4 +207,8 @@ Example
 * Policy at Sales OU level states that Admins and Mgr1 can shutdown PCs
 
 Every GPO contains the same no. of possible system config setting entries  
-There wew
+There were at least  5000 plus entries during the Windows 7 and Windows Server 2008 era.  
+The actual number has been kept growing for every major release of newer windows systems.  
+Fortunately, each of these entries can be in one of the two states: defined or not defined.  
+The domain controller only send the 'defined' entries to the target machine, thus, sending a GPO to a system may not involve a lot of network bandwidth.  
+Policy settings conflict only occurs when two different GPOs have defined the same entries (but with different definitions) , and both of them are received by the same domain client system.  
