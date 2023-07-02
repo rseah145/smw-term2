@@ -14,6 +14,7 @@ Intro to GP
 * [Configuring Security Options](#configuring-security-options)
 * [List of settings under "User Configuration"](#list-of-settings-under-user-configuration)
 * [Policy Application Order and Troubleshooting](#policy-application-order-and-troubleshooting)
+* [Policy Application Order](#policy-application-order)
 
 
 <br>
