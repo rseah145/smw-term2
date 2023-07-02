@@ -176,3 +176,5 @@ Specialized security options divided into categories
 * System objects
 * System settings
 * User Account Control (UAC)
+
+UAC is the most commonly 
