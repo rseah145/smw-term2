@@ -121,3 +121,5 @@ Becareful to not mix up user rights with permissions, e.g.
 * Load and unload device drivers
 * Perform volume maintenance tasks
 * Shutdown system
+
+Perms may work with user rights side by side, some operational task may need both perm and user right to enable users to carry out tasks
