@@ -15,6 +15,7 @@ Intro to GP
 * [List of settings under "User Configuration"](#list-of-settings-under-user-configuration)
 * [Policy Application Order and Troubleshooting](#policy-application-order-and-troubleshooting)
 * [Policy Application Order and Example](#policy-application-order-and-example)
+* [Resultant Set of Policy and gpresult](#resultant-set-of-policy-and-gpresult)
 
 
 <br>
