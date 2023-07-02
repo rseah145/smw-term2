@@ -79,6 +79,7 @@ Acc Lockout, where the OS can employ acc lockout to bar access to an account (in
 Lockout can be set to released after a specified period of time, or by intervention from the server admin
 
 Common policy is to have a lockout after 5 to 10 failed logon attempts, admin can set lockout to release after a designated time
+
 <br>
 
 Acccount lockout parameters
