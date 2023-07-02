@@ -139,3 +139,14 @@ Becareful to not mix up user rights with permissions, e.g.
 * Shutdown system
 
 Perms may work with user rights side by side, some operational task may need both perm and user right to enable users to carry out tasks
+
+<br>
+
+Examples of logon rights
+* Access this PC from network
+* Allow logon locally
+* Allow logon through Remote Desktop Services (RDP)
+* Deny access to this PC from network
+* Deny logon as a service
+* Deny logon locally
+* Deny logon through RDP
