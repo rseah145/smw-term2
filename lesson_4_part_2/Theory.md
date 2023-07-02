@@ -105,4 +105,5 @@ Enable an acc or grp to perform predefined tasks
 The most basic right is the ability to access a server, more advanced rights give privs to create accs and manager server functions
 
 2 general categories of rights
-* Pri
+* Privileges, relate to the ability to manage server or AD functions
+* Logon rights, to how accs, PCs, and services are accessed
