@@ -229,4 +229,4 @@ Settings that conflict will be applied based on the usual order of application
 
 <b>Last setting</b> applied will take effect
 
-[](https://www.youtube.com/watch?v=orQns7K-brM)
+[Supplimentary video for GPO precedence](https://www.youtube.com/watch?v=orQns7K-brM)
