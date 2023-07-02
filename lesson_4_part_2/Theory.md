@@ -160,3 +160,13 @@ within GP management editor
 
 ### Configuring Security Options
 
+Specialized security options divided into categories
+* Accounts
+* Audit
+* DCOM
+* Devices
+* Domain Controller
+* Interactive Logon
+* Microsoft Network Client
+* Network access
+* Network security
