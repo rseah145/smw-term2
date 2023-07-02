@@ -14,7 +14,7 @@ Intro to GP
 * [Configuring Security Options](#configuring-security-options)
 * [List of settings under "User Configuration"](#list-of-settings-under-user-configuration)
 * [Policy Application Order and Troubleshooting](#policy-application-order-and-troubleshooting)
-* [Policy Application Order](#policy-application-order)
+* [Policy Application Order and Example](#policy-application-order-and-example)
 
 
 <br>
@@ -257,7 +257,7 @@ From Win Server 2008, its possible to have different password policies and acc l
 
 <br>
 
-### Policy Application Order
+### Policy Application Order and Example
 
 Special Config Options
 * Blocking GP inheritance
