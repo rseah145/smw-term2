@@ -177,4 +177,4 @@ Specialized security options divided into categories
 * System settings
 * User Account Control (UAC)
 
-UAC is the most commonly 
+UAC is the most common feature a user can encounter out of the above
