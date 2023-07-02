@@ -283,4 +283,4 @@ ABC Company has a Policy at domain level that sets every user's desktop wallpape
 
 Domain policies will be inherited by all objects
 
-![image](../images/Pasted%20image%2020230702165607.png)
+![image](../images/Pasted%20image%2020230702172827.png)
