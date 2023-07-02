@@ -274,3 +274,4 @@ Blocking inheritance and enforced GPO are the features that may override or alte
 Keep in mind that Block Inheritance is a Container option
 
 Enforced GPO is an attribute of GPO
+
