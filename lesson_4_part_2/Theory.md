@@ -314,3 +314,10 @@ Scenario 4
 Sales OU Admin can also choose to block Inheritance, meaning policies will not be inherited
 
 There is no Sales OU GP
+
+![image](../images/Pasted%20image%2020230702173744.png)
+
+<br>
+
+Scenario 5
+
