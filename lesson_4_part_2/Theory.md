@@ -111,3 +111,13 @@ The most basic right is the ability to access a server, more advanced rights giv
 Becareful to not mix up user rights with permissions, e.g.
 * Right to read from file vs perm to read from file
 * Right to logon to server vs perm to logon to server
+
+<b>Examples of privs</b> (* important)
+* Add workstations to domain
+* Back up files and directories
+* Change system time
+* Create permanent shared objects
+* Generate security audits
+* Load and unload device drivers
+* Perform volume maintenance tasks
+* Shutdown system
