@@ -248,3 +248,9 @@ The Policy at Sales OU level will be applied last
 Note
 * This only applies to PCs that receive the GPO
 * Since PCs that are not in the Sales OU will not receive the particular GPO thus Mgr1 only has limited shutdown privs on certain grps of PCs
+<br>
+
+In Win Server 2003 and previous versions, settings related to Acc Policies can only be set at the domain level
+
+From Win Server 2008, its possible to have different password policies and acc lockout policies for different OUs
+
