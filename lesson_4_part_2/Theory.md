@@ -263,7 +263,7 @@ Special Config Options
 * Multiple GP Link Order Setting
 <br>
 
-More [reference](https://learn.microsoft.com/en-us/archive/blogs/musings_of_a_technical_tam/group-policy-basics-part-2-understanding-which-gpos-to-apply) material for Blocking Policy Inheritance and Enforced Policies
+[Reference](https://learn.microsoft.com/en-us/archive/blogs/musings_of_a_technical_tam/group-policy-basics-part-2-understanding-which-gpos-to-apply) material for Blocking Policy Inheritance and Enforced Policies
 
 Blocking inheritance and enforced GPO are the features that may override or alter the normal policy application order effect
 
