@@ -96,7 +96,7 @@ Examples of events an org can audit
 * Process tracking
 * System events
 
-Passive defensive measure
+Audit policies are a passive defensive measure (wait and see)
 
 #### Configuring User Rights
 
