@@ -189,5 +189,5 @@ Further reference for user configurations of GP
 
 Link: https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/bb742376(v=technet.10)?redirectedfrom=MSDN
 
-![[Pasted image 20230702165607.png]]
+![image](../images/Pasted_image_20230629173342.png)
 
