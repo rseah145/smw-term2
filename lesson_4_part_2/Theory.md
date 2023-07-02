@@ -51,6 +51,7 @@ Security policies are a subset of individual policies within a larger GP for a s
 * Security Options
 * IP Security Policies (IPSec)
 <br>
+
 #### Establishing Account Policies
 
 Acc policies == all security measures set up in GP that applies to all accs or to all accs in a container when AD is installed.  
