@@ -152,3 +152,4 @@ Examples of logon rights
 * Deny logon through RDP
 
 User rights is generally any option under "User Rights Assignment" from 
+PC config -> Policies -> 
