@@ -73,7 +73,7 @@ Deny read and write access (Enabled)
 
 <br>
 
-(Right-click created GPO -> edit -> PC config -> Policies -> Administrative Templates -> System -> Removable Storage Access)  
+( Policies -> Windows Settings -> Security Settings -> System Services)  
 Portable Device Enumerator Service (Automatic)  
 ![image](../images/Pasted%20image%2020230705223356.png)
 
