@@ -7,7 +7,7 @@
 * [Customizing and deployment of GP](#customizing-and-deployment-of-gp)
 * [Group Policy Application Order](#group-policy-application-order)
 * [Disabling removable storage access using Group Policy (computer configuration settings)](#disabling-removable-storage-access-using-group-policy-computer-configuration-settings)
-* [Using User Configuration to apply GPO settings to specific users](#using-user configuration-to-apply-gpo-settings-to-specific-users)
+* [Using User Configuration to apply GPO settings to specific users](#using-user-configuration-to-apply-gpo-settings-to-specific-users)
 
 <br>
 
@@ -107,3 +107,4 @@ On Win Server 2012R2 (memsrv1) with a cmd or powershell session with admin right
 <br>
 
 ## Using User Configuration to apply GPO settings to specific users
+
