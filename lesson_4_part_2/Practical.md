@@ -60,3 +60,7 @@ Below that memsrv1 (Win Server 2012) is in MemServerOU
 
 In GPMC, a new GPO is made "DisableUSBWin10GPO" (right-click GPOs -> New GPO)
 ![image](../images/Pasted%20image%2020230705222653.png)
+
+<br>
+
+Apll
