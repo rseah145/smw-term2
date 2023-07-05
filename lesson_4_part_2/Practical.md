@@ -34,4 +34,4 @@ MemberServerOU to block inheritance of the Default Domain Policy (current user i
 ![image](../images/Pasted%20image%2020230705220836.png)
 
 Lock screen showing current user that's logged in again
-![(Pasted image 20230705221239.png]]
+![image](../images/Pasted%20image%2020230705221239.png)
