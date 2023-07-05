@@ -124,3 +124,8 @@ Do reflection prompt
 <br>
 
 ## Report Resulting Set of Policy currently deployed on Server1
+
+RSoP helps to visualize final policy settings  
+
+1. In DC, run GPM
+2
