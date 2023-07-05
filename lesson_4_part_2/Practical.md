@@ -127,5 +127,9 @@ Do reflection prompt
 
 RSoP helps to visualize final policy settings  
 
-1. In DC, run GPM
-2
+1. In DC, run GPM  
+2. Right-click on GP Results and choose GP Results Wizard  
+3. Choose "Another Computer" and enter "Server1".  
+4. When prompted for a specific user, select SMW/Mgr1 login account.  
+5. The GP Results for user Mgr1 on Server1 is as shown.
+![image](../images/Pasted%20image%2020230705235938.png)
