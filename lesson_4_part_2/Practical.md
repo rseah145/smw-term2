@@ -6,7 +6,7 @@
 # Navigation
 * [Customizing and deployment of GP](#customizing-and-deployment-of-gp)
 * [Group Policy Application Order](#group-policy-application-order)
-* [Disabling removable storage access with computer configuration settings]
+* [Disabling removable storage access with computer configuration settings](#disabling-removable-storage-access-with-computer-configuration-settings)
 
 <br>
 
