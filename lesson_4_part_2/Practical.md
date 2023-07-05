@@ -52,4 +52,4 @@ Domain admin enforcing Default Domain Policy so admins of OUs can't block its po
 
 In DC, using ADUC Win 10 Cleint is in SalesOU  
 User1, and Staff1 are in SalesOU  
-
+![image](../images/Pasted%20image%2020230705222314.png)
