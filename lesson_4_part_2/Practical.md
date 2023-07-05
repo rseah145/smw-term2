@@ -131,7 +131,7 @@ RSoP helps to visualize final policy settings
 2. Right-click on GP Results and choose GP Results Wizard  
 3. Choose "Another Computer" and enter "Server1" (win sever 2012r2).  
 4. When prompted for a specific user, select SMW/Mgr1 login account.  
-5. The GP Results for user Mgr1 on Server1 is as shown.  
+5. The GP Results for user Mgr1 on Server1 is as shown (practical screenshot).  
 ![image](../images/Pasted%20image%2020230705235938.png)  
 
 <br>
