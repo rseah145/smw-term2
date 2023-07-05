@@ -29,6 +29,9 @@ Modified "Default Domain Policy" policy in GPME with "gpupdate /force" ran after
 
 <br>
 
-MemberServerOU to block inheritance of the Default Domain Policy (current user info will be displayed again) via GPM on the DC (! icon shows blocked inheritance). "gpupdate /force" was ran again for the changes to take effect on 
+MemberServerOU to block inheritance of the Default Domain Policy (current user info will be displayed again) via GPM on the DC (! icon shows blocked inheritance). "gpupdate /force" was ran again for the changes to take effect on win server 2012 (memsrv1)
 ![image](../images/Pasted%20image%2020230705220735.png)
 ![image](../images/Pasted%20image%2020230705220836.png)
+
+Lock screen showing current user that's logged in again
+![(Pasted image 20230705221239.png]]
