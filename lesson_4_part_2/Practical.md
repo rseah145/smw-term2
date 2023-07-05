@@ -33,8 +33,12 @@ MemberServerOU to block inheritance of the Default Domain Policy (current user i
 ![image](../images/Pasted%20image%2020230705220735.png)
 ![image](../images/Pasted%20image%2020230705220836.png)
 
+<br>
+
 Lock screen showing current user that's logged in again
 ![image](../images/Pasted%20image%2020230705221239.png)
+
+<br>
 
 Domain admin enforcing Default Domain Policy so admins of OUs can't block its policies (Default Domain)
 ![image](../images/Pasted%20image%2020230705221442.png)
