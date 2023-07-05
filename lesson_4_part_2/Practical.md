@@ -85,13 +85,12 @@ Portable Device Enumerator Service (Automatic)
 Creation of a WMI Filter on the DC GPMC for Windows 10 systems  
 (Note: 10.%  matches with Windows 11, Windows 10 and Windows Server 2016.)  
 (Also note: Link the GPO to the "salesOU" and "MemberServerOU" first)  
-![image](../images/Pasted%20image%2020230705234327.png)
 
 <br>
 
 Applying the newly created WMI Filter to the DisableUSBWin10GPO in scope  
 (Select the filter in "WMI Filtering" at the bottom)
-![image](../images/Pasted%20image%2020230705233311.png)
+![image](../images/Pasted%20image%2020230705234327.png)
 
 <br>
 
