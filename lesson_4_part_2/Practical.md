@@ -8,6 +8,7 @@
 * [Group Policy Application Order](#group-policy-application-order)
 * [Disabling removable storage access using Group Policy (computer configuration settings)](#disabling-removable-storage-access-using-group-policy-computer-configuration-settings)
 * [Using User Configuration to apply GPO settings to specific users](#using-user-configuration-to-apply-gpo-settings-to-specific-users)
+* [Report Resulting Set of Policy currently deployed on Server1](#report-resulting-set-of-policy-currently-deployed-on-server1)
 
 <br>
 
