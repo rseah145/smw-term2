@@ -25,3 +25,4 @@ Cached logins by disconnecting the network, a user that has never logged in alre
 
 Modified "Default Domain Policy" policy in GPME with "gpupdate /force" ran afterwards takes effect on the lock screen for win server 2012 (memsrv1)
 ![image](../images/Pasted%20image%2020230705220408.png)
+![image](../images/Pasted%20image%2020230705220502.png)
