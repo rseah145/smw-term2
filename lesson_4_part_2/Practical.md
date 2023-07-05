@@ -15,3 +15,5 @@ Linking GPO to an OU via "Active Directory Users and Computers" on DC
 
 <br>
 
+Cached logins
+![image](../images/Pasted%20image%2020230705215906.png)
