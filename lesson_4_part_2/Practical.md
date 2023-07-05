@@ -64,7 +64,7 @@ In GPMC, a new GPO is made "DisableUSBWin10GPO" (right-click GPOs -> New GPO)
 <br>
 
 Applying 3 Computer Configuration settings in "Removable Storage Access" to the newly created GPO  
-(Right-click created GPO -> edit -> Policies -> Administrative Templates -> System -> Removable Storage Access)  
+(Right-click created GPO -> edit -> PC config -> Policies -> Administrative Templates -> System -> Removable Storage Access)  
 
 Deny write access (Enabled)  
 ![[Pasted image 20230705223042.png]]
