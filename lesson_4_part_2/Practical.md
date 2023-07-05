@@ -68,3 +68,6 @@ Applying 3 Computer Configuration settings in "Removable Storage Access" to the 
 
 Deny write access (Enabled)  
 ![image](../images/Pasted%20image%2020230705223042.png)
+
+<br>
+
