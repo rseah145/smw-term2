@@ -12,3 +12,6 @@
 
 Linking GPO to an OU via "Active Directory Users and Computers" on DC
 ![image](../images/Pasted%20image%2020230705215234.png)
+
+<br>
+
