@@ -113,4 +113,4 @@ From "enabled" to "not configured"
 
 <br>
 
-Edit the DisableUSBWin10GPO. Apply 2 user config settings 
+Edit the DisableUSBWin10GPO. Apply 2 user config settings as shown
