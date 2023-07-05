@@ -23,4 +23,4 @@ Cached logins by disconnecting the network, a user that has never logged in alre
 
 ## Group Policy Application Order
 
-Modified "Default Domain Policy" policy in GPME with "gp/"
+Modified "Default Domain Policy" policy in GPME with "gpupdate /force" ran afterwards takes effect on the lock screen for 
