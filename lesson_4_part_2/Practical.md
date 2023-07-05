@@ -67,4 +67,4 @@ Applying 3 Computer Configuration settings in "Removable Storage Access" to the 
 (Right-click created GPO -> edit -> PC config -> Policies -> Administrative Templates -> System -> Removable Storage Access)  
 
 Deny write access (Enabled)  
-![[Pasted image 20230705223042.png]]
+![image](../images/Pasted%20image%2020230705223042.png)
