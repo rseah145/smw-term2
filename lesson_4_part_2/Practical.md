@@ -27,4 +27,6 @@ Modified "Default Domain Policy" policy in GPME with "gpupdate /force" ran after
 ![image](../images/Pasted%20image%2020230705220408.png)
 ![image](../images/Pasted%20image%2020230705220502.png)
 
-Bl
+<br>
+
+MemberServerOU to block inheritance of the Default Domain Policy
