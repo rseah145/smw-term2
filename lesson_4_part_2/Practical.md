@@ -82,4 +82,4 @@ Portable Device Enumerator Service (Automatic)
 
 ## Hands-on with GPO Scope and WMI Filter
 
-Creation of a WMI Filter on the DC GPMC  
+Creation of a WMI Filter on the DC GPMC for Windows 10 systems  
