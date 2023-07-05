@@ -75,6 +75,7 @@ Deny read and write access (Enabled)
 
 (Policies -> Windows Settings -> Security Settings -> System Services)  
 Portable Device Enumerator Service (Automatic)  
+(Portable Device Enumerator Service is required to be running to allow the removable storage access control management via the Administrative Template settings.)  
 ![image](../images/Pasted%20image%2020230705223356.png)
 
 <br>
