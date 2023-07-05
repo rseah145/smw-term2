@@ -51,6 +51,6 @@ Domain admin enforcing Default Domain Policy so admins of OUs can't block its po
 ## Disabling removable storage access using Group Policy (computer configuration settings)
 
 In DC, using ADUC 
-Win 10 Client, User1, and Staff1 are in SalesOU  
+Win 10 Client (SMWCLIENT1), User1, and Staff1 are in SalesOU  
 Below that memsrv1 is in MemServerOU
 ![image](../images/Pasted%20image%2020230705222314.png)
