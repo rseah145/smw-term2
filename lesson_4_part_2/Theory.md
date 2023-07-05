@@ -268,6 +268,7 @@ Special Config Options
 * Multiple GP Link Order Setting
 <br>
 
+
 [Reference](https://learn.microsoft.com/en-us/archive/blogs/musings_of_a_technical_tam/group-policy-basics-part-2-understanding-which-gpos-to-apply) material for Blocking Policy Inheritance and Enforced Policies
 
 Blocking inheritance and enforced GPO are the features that may override or alter the normal policy application order effect
@@ -332,6 +333,7 @@ Domain Admin can enforce his policy, lower level admins cannot block the policy
 To avoid complexity in GPs
 * Limit no. of GPOs (Can a single domain policy apply to all?)
 * Minimize use of Block Inheritance and Enforced to avoid complexity
+
 <br>
 
 
@@ -343,6 +345,7 @@ To avoid complexity in GPs
 * RSoP supports 2 modes, planning and logging
 * Available within Group Management Policy Console (GMPC) & Command Line Interface (CLI)
 
+<br>
 
 GPRESULT
 * Is a command to be ran on a workstation to check its current accepted and active GPOs
