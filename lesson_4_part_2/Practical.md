@@ -99,4 +99,5 @@ Run "gpupdate /force" on both Win Server 2012 (memsrv1) and Win10 VM to get the 
 
 <br>
 
-On Win Server 2012R2 (memsrv1) with a cmd or powershell session with admin rights, the command "gpresult /r" verifies the current GP config and shows that system has filtered out DisableUSBWin10GPO  
+On Win Server 2012R2 (memsrv1) with a cmd or powershell session with admin rights, the command "gpresult /r" verifies the current GP config and shows that system has filtered out DisableUSBWin10GPO (computer settings)  
+![image](../imagesPasted%20image%2020230705234454.png)
