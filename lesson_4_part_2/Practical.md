@@ -119,3 +119,7 @@ Edit the DisableUSBWin10GPO. Apply 2 user config settings as shown run gpupdate 
 All GPO testing is not noted down  
 
 Do reflection prompt  
+
+<br>
+
+## Report Resulting Set of Policy currently deployed on Server1
