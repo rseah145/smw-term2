@@ -37,4 +37,5 @@ Lock screen showing current user that's logged in again
 ![image](../images/Pasted%20image%2020230705221239.png)
 
 Domain admin enforcing Default Domain Policy so admins of OUs can't block its policies (Default Domain)
-![[Pasted image 20230705221442.png]]
+![image](../images/Pasted%20image%2020230705221442.png)
+![image](../images/Pasted%20image%2020230705221506.png)
