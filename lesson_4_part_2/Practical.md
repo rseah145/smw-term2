@@ -29,6 +29,6 @@ Modified "Default Domain Policy" policy in GPME with "gpupdate /force" ran after
 
 <br>
 
-MemberServerOU to block inheritance of the Default Domain Policy (current user info will be displayed again) via GPM on the DC (! icon shows blocked inheritance)
+MemberServerOU to block inheritance of the Default Domain Policy (current user info will be displayed again) via GPM on the DC (! icon shows blocked inheritance). "gpupdate /force" was ran again for the changes to take effect on 
 ![image](../images/Pasted%20image%2020230705220735.png)
 ![image](../images/Pasted%20image%2020230705220836.png)
