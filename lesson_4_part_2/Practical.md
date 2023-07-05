@@ -6,6 +6,7 @@
 # Navigation
 * [Customizing and deployment of GP](#customizing-and-deployment-of-gp)
 * [Group Policy Application Order](#group-policy-application-order)
+* [Disabling removable storage access with computer configuration settings]
 
 <br>
 
@@ -44,3 +45,7 @@ Domain admin enforcing Default Domain Policy so admins of OUs can't block its po
 ![image](../images/Pasted%20image%2020230705221442.png)
 ![image](../images/Pasted%20image%2020230705221506.png)
 ![image](../images/Pasted%20image%2020230705221807.png)
+
+<br>
+
+##
