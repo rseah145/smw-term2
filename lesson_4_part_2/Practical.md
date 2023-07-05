@@ -108,7 +108,9 @@ On Win Server 2012R2 (memsrv1) with a cmd or powershell session with admin right
 
 ## Using User Configuration to apply GPO settings to specific users
 
-Clear deny read and write access settings under pc config section (not shown)  
+Edit the DisableUSBWin10GPO. Clear deny read and write access settings under pc config section (not shown)  
 From "enabled" to "not configured"  
 
 <br>
+
+Edit the DisableUSBWin10GPO. Apply 2 user config settings 
