@@ -80,3 +80,4 @@ Portable Device Enumerator Service (Automatic)
 
 <br>
 
+## Hands-on with GPO Scope and WMI Filter
