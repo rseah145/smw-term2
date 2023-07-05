@@ -136,4 +136,4 @@ RSoP helps to visualize final policy settings
 
 <br>
 
-6. 
+6. Resultant Set of Policy can also be ran on Windows 10 or the domain controller itself to check the effective policy settings.
