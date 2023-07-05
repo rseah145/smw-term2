@@ -91,3 +91,7 @@ Creation of a WMI Filter on the DC GPMC for Windows 10 systems
 Applying the newly created WMI Filter to the DisableUSBWin10GPO in scope  
 (Select the filter in "WMI Filtering" at the bottom)
 ![image](../images/Pasted%20image%2020230705233311.png)
+
+<br>
+
+Run "gpupdate /force" on both Win Server 2012 (memsrv1) and Win10 VM to get the latest GPOs
