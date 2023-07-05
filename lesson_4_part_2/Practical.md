@@ -81,3 +81,5 @@ Portable Device Enumerator Service (Automatic)
 <br>
 
 ## Hands-on with GPO Scope and WMI Filter
+
+Creation of a WMI Filter on the DC 
