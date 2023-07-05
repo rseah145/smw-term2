@@ -94,4 +94,7 @@ Applying the newly created WMI Filter to the DisableUSBWin10GPO in scope
 
 <br>
 
-Run "gpupdate /force" on both Win Server 2012 (memsrv1) and Win10 VM to get the latest GPOs
+Run "gpupdate /force" on both Win Server 2012 (memsrv1) and Win10 VM to get the latest GPOs (images not shown)
+
+<br>
+
