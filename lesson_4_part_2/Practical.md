@@ -15,5 +15,5 @@ Linking GPO to an OU via "Active Directory Users and Computers" on DC
 
 <br>
 
-Cached logins
+Cached logins by disconnecting the network, a user that has never logged in already to the workstation via a domain account can't as there's no connection to the DC. However, a user that has logged in before (e.g. Mgr1) can login again as the logon was cached.
 ![image](../images/Pasted%20image%2020230705215906.png)
