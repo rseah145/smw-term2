@@ -52,5 +52,5 @@ Domain admin enforcing Default Domain Policy so admins of OUs can't block its po
 
 In DC, using ADUC 
 Win 10 Client (SMWCLIENT1), User1, and Staff1 are in SalesOU  
-Below that memsrv1 is in MemServerOU
+Below that memsrv1 (Win Server 2012) is in MemServerOU
 ![image](../images/Pasted%20image%2020230705222314.png)
