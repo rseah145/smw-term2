@@ -114,6 +114,8 @@ From "enabled" to "not configured"
 <br>
 
 Edit the DisableUSBWin10GPO. Apply 2 user config settings as shown run gpupdate /force as per usual (basically shift the settings to under "User Configuration" instead of "Computer Configuration")  
-![image](../images/Pasted%20image%2020230705235330.png)
+![image](../images/Pasted%20image%2020230705235330.png)  
 
-Do reflection prompt
+All GPO testing is not noted down  
+
+Do reflection prompt  
