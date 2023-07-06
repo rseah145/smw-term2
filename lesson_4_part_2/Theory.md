@@ -38,6 +38,8 @@ GP in Win Server 2016 allows standardization of working environment of clients a
 PC configuration applies to computers  
 ![image](../images/Pasted_image_20230629173324.png)
 
+<br>
+
 User configuration applies to users  
 ![image](../images/Pasted_image_20230629173342.png)
 
