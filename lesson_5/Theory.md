@@ -274,4 +274,17 @@ If security changes are required, a security update is released
 <br>
 
 Patch Tuesday
-* Security updates and the corresponding security bulletin
+* Security updates and the corresponding security bulletin normally released on the second Tuesday and sometimes forth of the month.  
+
+<br>
+
+"Exploit Wednesday"
+* This term was coined as many exploitation events were seen shortly after the release of a patch  
+
+<br>
+
+Since 2015, Microsoft release security updates to home PCs, tablets and phones as soon as they are ready, while enterprise customers will stay on the monthly update cycle  
+
+Urgent updates will be released immediately  
+
+At stage 1, sys admins should look out for new relevant updates for their systems. As described earlier, for Microsoft updats, the admins can subscribe to the Advisories Alert Email Notifications to get the info in advance. Admins should be familiar with Microsoft Update releases pattern to avoid being a victim of fake patches  
