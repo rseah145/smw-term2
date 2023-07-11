@@ -33,4 +33,8 @@ Microsoft Update and Automatic Updates
 
 Windows Server Update Services (WSUS)  
 
+<br>
+
 Microsoft Endpoint Manager  
+* Comprises of many configuration tools  
+* Microsoft System Centre Configuration Manager (SCCM)  
