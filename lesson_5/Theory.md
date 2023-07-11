@@ -367,3 +367,14 @@ Such mitigations and workarounds are meant for short-term use, they do nto repla
 
 Sample  
 ![image](../images/Pasted%20image%2020230711220222.png)
+
+<br>
+
+### Stage 4: Deploy Updates
+
+Six steps to deploy an update
+
+<br>
+
+Steps
+1. Plan the deployment. Determine which updates need to be rolled out quickly and which ones can be subjected to a more thorough testing process. Deployment schedule - do some PC groups need to updates more urgently? By which date or time, must all PCs be updated?  
