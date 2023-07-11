@@ -372,7 +372,9 @@ Sample
 
 ### Stage 4: Deploy Updates
 
-Six steps to deploy an update
+
+
+Six steps to deploy an update  
 
 <br>
 
