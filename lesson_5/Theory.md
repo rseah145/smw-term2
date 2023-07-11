@@ -372,11 +372,10 @@ Sample
 
 ### Stage 4: Deploy Updates
 
-
-
 Six steps to deploy an update  
 
 <br>
 
 Steps
 1. Plan the deployment. Determine which updates need to be rolled out quickly and which ones can be subjected to a more thorough testing process. Deployment schedule - do some PC groups need to updates more urgently? By which date or time, must all PCs be updated?  
+2. 
