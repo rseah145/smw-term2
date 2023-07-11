@@ -344,3 +344,15 @@ Microsoft has 4 severity ratings
 
 Snapshot  
 ![image](../images/Pasted%20image%2020230711215903.png)
+
+<br>
+
+### Stage 3: Evaulate Mitigation
+
+While admins are evaluating security updates, some short-term security control may be applied  
+
+For example adjust firewall policies, or restrict a port only to a specific subnet instead of the whole network  
+
+Stage 3 and 4 usually go in parallel  
+
+Goal of stage 3 is to identify and apply a short-term fix to manage the vulnerability of relevant systems (safeguard systems until the patch is applied)  
