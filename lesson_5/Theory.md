@@ -356,3 +356,14 @@ For example adjust firewall policies, or restrict a port only to a specific subn
 Stage 3 and 4 usually go in parallel  
 
 Goal of stage 3 is to identify and apply a short-term fix to manage the vulnerability of relevant systems (safeguard systems until the patch is applied)  
+
+Microsoft may provide some suggested mitigation or workarounds in their security advisories if the security update cannot be applied immediately  
+
+Such mitigations and workarounds are meant for short-term use, they do nto replace security updates  
+
+<br>
+
+### Sample of mitigation factors from Microsoft security update  
+
+Sample  
+![image](../images/Pasted%20image%2020230711220222.png)
