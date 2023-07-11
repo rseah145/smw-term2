@@ -406,3 +406,4 @@ Step 5. Test the package
 * To ensure the package can be 'uninstalled' or <b>there is a way to roll back</b>
 * To ensure the system can be restarted properly. To ensure the update is <b>effective</b>  
 * An update can be tested in 2 ways
+* Test Environment (1st method), a test lab with PCs mirroring the actual environment
