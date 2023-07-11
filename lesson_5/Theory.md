@@ -421,4 +421,5 @@ Step 6. Rolling out the deployment
 
 ### Stage 5: Monitor Systems
 
-Determine which systems successfully deployed the update and which systems did not.
+Determine which systems successfully deployed the update and which systems did not. Using WSUS, EndPoint Manager features  
+
