@@ -92,6 +92,6 @@ Price: Free for licensed users
 
 <br>
 
-Microsoft EndPoint Manager
+### Microsoft EndPoint Manager
 
 ### 
