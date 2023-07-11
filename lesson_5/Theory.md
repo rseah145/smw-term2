@@ -94,4 +94,7 @@ Price: Free for licensed users
 
 ### Microsoft EndPoint Manager
 
+Supports management and distribution of Microsoft and non-Microsoft software updates and apps  
+
+Supports vari
 
