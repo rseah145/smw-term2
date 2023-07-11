@@ -102,5 +102,6 @@ WSUS is part of it
 
 Advanced admin control features  
 
-Price: Charges apply  
+Price: Charges apply    
 
+Alternatives 
