@@ -302,10 +302,16 @@ Microsoft provides several ways of receiving info about updates
 ### Stage 2: Evaluate Risk
 
 Admins should ask  
+* Does the vulnerability apply to the organization? To answer this question, sys admin should have kept an update to date inventory list of all IT assets of the organization  
+* Does the vulnerability represent a high risk to the organization?  
 
-Does the vulnerability apply to the organization? To answer this question, sys admin should have kept an update to date inventory list of all IT assets of the organization  
-
-Does the vulnerability represent a high risk to the organization?  
+<br>
 
 Inventory info is needed in this evaluation process  
 
+<br>
+
+The deployment of a security update has a cost
+* Costs of testing the updates
+* Costs of 'deploying' the updates
+* Support costs in case of any negative result after the update (Example: important app does not work properly after the update)
