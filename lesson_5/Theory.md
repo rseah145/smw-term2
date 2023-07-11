@@ -396,6 +396,11 @@ Step 3. Obtain the required update files (from a reliable source)
 
 <br>
 
-Step 4. Create the update package If security updates need to be customised  
-3. Test the package. To ensure that business-critical systems will continue to run successfully after the security update has been deployed. To ensure the package can be 'uninstalled' or <b>there is a way to roll back</b>. To ensure the system can be restarted properly. To ensure the update is <b>effective</b>  
-4. 
+Step 4. Create the update package 
+* If security updates need to be customised  
+
+<br>
+
+Step 5. Test the package
+* To ensure that business-critical systems will continue to run successfully after the security update has been deployed. 
+* To ensure the package can be 'uninstalled' or <b>there is a way to roll back</b>. To ensure the system can be restarted properly. To ensure the update is <b>effective</b>  
