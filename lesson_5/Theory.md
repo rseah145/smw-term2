@@ -209,4 +209,24 @@ WSUS clients can be placed into PC groups
 <br>
 
 Sample usage: some clients can be put into a "Test" PC group  
-* Admin
+* Admin approve new security updates for the "Test" group
+* PCs in the "Test" group apply the updates
+* Admins test the results before allowing other PCs to apply the updates
+
+<br>
+
+Sample usage: Servers with the same roles can be put into the same group where they can receive relevant updates at the same time  
+
+WSUS PC groups are independent to the Security Grouping and Organizational Unit assignment of the PCs  
+
+These groups are only relevant in the WSUS context  
+
+This feature helps the admins to plan for their patch management strategy. For example, PCs in different groups may receive different set of patches at different schedules.  
+
+Testing groups can be setup to do pre-deployment test for new updates  
+
+<br>
+
+## Patch Management Process
+
+
