@@ -408,3 +408,9 @@ Step 5. Test the package
 * An update can be tested in 2 ways
 * Test Environment (1st method), a test lab with PCs mirroring the actual environment. Extra overhead incurred  
 * Pilot Environment (2nd method), test on selected production PCs, authentic. Can test the deployment plan too. Has extra risk incurred
+
+<br>
+
+Step 6. Rolling out the deployment
+* Carry out the deployment of the update to the PCs that need it
+* Compliant to the Standard Patch Deployment Timeline  
