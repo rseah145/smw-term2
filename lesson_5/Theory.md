@@ -423,4 +423,19 @@ Step 6. Rolling out the deployment
 
 Determine which systems successfully deployed the update and which systems did not. Using WSUS, EndPoint Manager features  
 
-To detect any anomaly such as unsuccessful deployment, system malfunction, and system or network performance issues.
+To detect any anomaly such as unsuccessful deployment, system malfunction, and system or network performance issues.  
+
+<br>
+
+Possible reasons why update was not successfully deployed  
+* The PC is offline
+* The PC is being rebuilt or reimaged
+* The PC has insufficient disk space
+* The PC is not communicating with the update server
+* The required update client software is not running on the PC
+* The PC is missing some dependent software  
+
+<br>
+
+Need to resolve the problem and get update applied  
+
