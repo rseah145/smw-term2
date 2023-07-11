@@ -59,4 +59,6 @@ Updates can be installed with minimal or no user interaction
 
 Uses Internet connection to search for downloads from Microsoft Update website  
 
-No need to under
+No need to understand the technical details of the security update  
+
+Simplest approach that is applicable to client systems that do not run mission critical services  
