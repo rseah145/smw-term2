@@ -39,3 +39,10 @@ Microsoft Endpoint Manager
 * Comprises of many configuration tools  
 * Microsoft System Centre Configuration Manager (SCCM)  
 * Including software deployment management
+
+<br>
+
+3 general approaches for managing Windows updates
+* 1st is purely relying on Windows updates which automates the download and installation of the latest updates from Microsoft Windows Updates Services  
+* 2nd is by setting up a centralized and local Update Services at the Enterprise level  
+* 3rd is going beyond software update or patch management, to include software marketplace solution with a centralized services at the Enterprise level.
