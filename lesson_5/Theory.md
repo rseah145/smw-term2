@@ -296,3 +296,13 @@ Microsoft provides several ways of receiving info about updates
 * RSS: Comprehensive Alerts (at https://msrc-blog.microsoft.com/feed/ )
 * Twitter (at https://twitter.com/msftsecresponse )
 * Security Update Portal at https://portal.msrc.microsoft.com/en-us/security-guidance
+
+<br>
+
+### Stage 2: Evaluate Risk
+
+Admins should ask
+
+Does the vulnerability apply to the organization? To answer this question, sys admin should have kept an update to date inventory list of all IT assets of the organization  
+
+Does the vulnerability represent a high risk to the organization?
