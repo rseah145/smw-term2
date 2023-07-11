@@ -416,3 +416,9 @@ If any of the first 5 steps (1-5) encounters unforeseen issues, deployment plan 
 Step 6. Rolling out the deployment
 * Carry out the deployment of the update to the PCs that need it
 * Compliant to the Standard Patch Deployment Timeline  
+
+<br>
+
+### Stage 5: Monitor Systems
+
+Determine which systems successfully deployed the update and which systems did not. 
