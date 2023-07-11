@@ -423,3 +423,4 @@ Step 6. Rolling out the deployment
 
 Determine which systems successfully deployed the update and which systems did not. Using WSUS, EndPoint Manager features  
 
+To detect any anomaly such as unsuccessful deployment, system malfunction, and system or network performance issues.
