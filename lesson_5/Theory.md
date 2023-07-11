@@ -130,4 +130,5 @@ WSUS is a means to provide updates to PCs that don't have Internet access
 
 <br>
 
-### How a local WSUS server obtains the Windows Update files from a common Microsoft Update Services server from the Internet. The local WSUS server acts as an agent to maintain a curated update repository to provide an Enterprise level control to distribute these updates accordingly
+### How a local WSUS server obtains the Windows Update files from a common Microsoft Update Services server from the Internet. The local WSUS server acts as an agent to maintain a curated update repository to provide an Enterprise level control to distribute these updates accordingly  
+
