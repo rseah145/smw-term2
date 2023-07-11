@@ -84,4 +84,14 @@ WSUS approach is to install a local Windows update server at the Enterprise netw
 
 The source of the patches is from the standard Windows update services. Unlike the first approach, the WSUS admins have the option to hold back the deployment of the available patches, and defer the actual updates to the clients based on a planned schedule. This approach is essential to servers that run mission critical services. 1 limitation of WSUS is it only supports Updates from Microsoft.  
 
+Updates can be downloaded once from Microsoft Update Website and stored on a local server (free up internet bandwidth)  
 
+Does not support deployment of non-Microsoft updates  
+
+Price: Free for licensed users  
+
+<br>
+
+Microsoft EndPoint Manager
+
+### 
