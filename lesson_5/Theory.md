@@ -29,4 +29,8 @@ Requires identifying security vulnerabilities and responding quickly
 
 ### How to manage updates
 
-* 
+Microsoft Update and Automatic Updates  
+
+Windows Server Update Services (WSUS)  
+
+Microsoft Endpoint Manager  
