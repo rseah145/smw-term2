@@ -440,3 +440,34 @@ Possible reasons why update was not successfully deployed
 
 Need to resolve the problem and get update applied  
 
+<br>
+
+## Post-deployment Review
+
+Conducted after the deployment  
+
+<br>
+
+The review includes the following steps
+* Review organization's <b>performance</b> during the incident  
+* Discuss <b>changes</b> to your service windows
+* Assess the total incident <b>damage</b> and <b>cost</b> (if any)
+* <b>Update</b> the existing <b>baseline</b> for your environment  
+
+<br>
+
+## Common approaches to Fix Windows Update Errors
+
+Checking the disk storage
+* The system may not have sufficient disk storage to support the download and installation requirement  
+
+<br>
+
+Windows Update Catalog
+* Download the specific update package from Windows update catalog website to install the update locally
+
+<br>
+
+Windows Update Troubleshooter
+* A free tool from Microsoft which can fix most of the common Windows updates errors
+
