@@ -63,4 +63,4 @@ No need to understand the technical details of the security update
 
 Simplest approach that is applicable to client systems that do not run mission critical services  
 
-For servers, automatically Microsoft Update
+For servers, automatic Microsoft Update
