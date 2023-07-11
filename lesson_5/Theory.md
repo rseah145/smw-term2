@@ -327,3 +327,15 @@ Outcome of evaluation may include
 
 Flow chart showing stage 2: evaluate risk  
 ![image](../images/Pasted%20image%2020230711213735.png)
+
+<br>
+
+### Severity ratings
+
+Microsoft has 4 severity ratings
+* <b>Critical</b>: A vulnerability whose exploitation could enable the propagation of an Internet worm with little or no user action  
+* <b>Important</b>: A vulnerability whose exploitation could result in compromise of the confidentiality, integrity, or availability of user's data, or of the integrity or availability of processing resources  
+* <b>Moderate</b>: A vulnerability whose exploitation is mitigated to a significant degree by factors such as default configuration, auditing, or difficulty of exploitation  
+* <b>Low</b>: A vulnerability whose exploitation is extremely difficult, or whose impact is minimal  
+
+Another important factor in risk evaluation is the se
