@@ -326,3 +326,4 @@ Outcome of evaluation may include
 <br>
 
 Flow chart showing stage 2: evaluate risk  
+![image](../images/Pasted%20image%2020230711213735.png)
