@@ -15,4 +15,4 @@ Post deployment review, common fixes for Windows update problems
 
 <br>
 
-## Planning
+## Planning Deployment of Service Packs and Hotfixes
