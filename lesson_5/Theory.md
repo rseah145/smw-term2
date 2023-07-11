@@ -391,7 +391,8 @@ Step 3. Obtain the required update files (from a reliable source)
 * Security update files can be obtained from several sources
 * Microsoft security guide
 * Microsoft deployment tools, such as Microsoft Update, Windows Update, WSUS, or Endpoint Manager
-* Microsoft Download Center and Microsoft Update Catalog service are 2 more reliable sources  
+* Microsoft Download Center
+* Microsoft Update Catalog service  
 
 <br>
 
