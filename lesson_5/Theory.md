@@ -157,4 +157,20 @@ On top of hardware requirements, the WSUS role requires to run on IIS and with a
 
 Admin must approve updates before WSUS clients can install them. Observe various approval options while working on practical 5  
 
-WSUS clients
+WSUS clients can be controlled by <b>Group Policy</b> to connect to WSUS server to check for updates  
+
+After updating, WSUS clients will notify WSUS Server  
+
+<b>WSUS Server can maintain update status of all clients</b>  
+
+<br>
+
+### WSUS operations
+
+WSUS server needs Internet access to Microsoft Update serer to get info about security updates  
+
+<br>
+
+Known as synchronization
+* Initial synchronization may take a while depending on the selection choices  
+
