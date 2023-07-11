@@ -404,4 +404,4 @@ Step 4. Create the update package
 Step 5. Test the package
 * To ensure that business-critical systems will continue to run successfully after the security update has been deployed
 * To ensure the package can be 'uninstalled' or <b>there is a way to roll back</b>
-* To ensure the system can be restarted properly. To ensure the update i<b>effective</b>  
+* To ensure the system can be restarted properly. To ensure the update is <b>effective</b>  
