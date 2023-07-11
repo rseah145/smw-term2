@@ -384,7 +384,11 @@ Step 1. Plan the deployment
 
 Step 2. Determine whether the security update is available for download
 * If there is no security update available, Microsoft would advise the appropriate actions to take to protect the PC systems  
-2. Obtain the required update files (from a reliable source). Security update files can be obtained from several sources like Microsoft security guide, Microsoft deployment tools, such as Microsoft Update, Windows Update, WSUS, or Endpoint Manager. Microsoft Download Center and Microsoft Update Catalog service are 2 more reliable sources  
-3. Create the update package. If security updates need to be customised  
-4. Test the package. To ensure that business-critical systems will continue to run successfully after the security update has been deployed. To ensure the package can be 'uninstalled' or <b>there is a way to roll back</b>. To ensure the system can be restarted properly. To ensure the update is <b>effective</b>  
-5. 
+
+<br>
+
+Step 3. Obtain the required update files (from a reliable source)
+* Security update files can be obtained from several sources like Microsoft security guide, Microsoft deployment tools, such as Microsoft Update, Windows Update, WSUS, or Endpoint Manager. Microsoft Download Center and Microsoft Update Catalog service are 2 more reliable sources  
+2. Create the update package. If security updates need to be customised  
+3. Test the package. To ensure that business-critical systems will continue to run successfully after the security update has been deployed. To ensure the package can be 'uninstalled' or <b>there is a way to roll back</b>. To ensure the system can be restarted properly. To ensure the update is <b>effective</b>  
+4. 
