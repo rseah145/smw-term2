@@ -17,4 +17,10 @@ Post deployment review, common fixes for Windows update problems
 
 ## Planning Deployment of Service Packs and Hotfixes
 
-Need to keep technology environment secure and reliable
+Need to keep technology environment secure and reliable  
+
+Requires identifying security vulnerabilities and responding quickly  
+
+<b>Patch management</b>, method for keeping PCs up to date with new software releases  
+
+<
