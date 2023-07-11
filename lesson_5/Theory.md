@@ -409,6 +409,8 @@ Step 5. Test the package
 * Test Environment (1st method), a test lab with PCs mirroring the actual environment. Extra overhead incurred  
 * Pilot Environment (2nd method), test on selected production PCs, authentic. Can test the deployment plan too. Has extra risk incurred
 
+If any of the first 5 steps (1-5) encounters unforeseen issues, deployment plan might need to be postponed. For example, when the time taken to complete the deployment exceeds the allocated maintenance window.
+
 <br>
 
 Step 6. Rolling out the deployment
