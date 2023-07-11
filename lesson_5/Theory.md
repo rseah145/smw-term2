@@ -205,9 +205,23 @@ In a testing envrionment, 2nd option is better. Otherwise, the testers may overl
 
 ### WSUS Policy Options for Clients
 
-Policy Option(s) and their comments
+Policy Option(s) and their comments (Policy : comment) (policy and its comment separated by a colon)
 
+<br>
 
+Notify for download and notify for installation: A user logged on with local admin rights will need to select the option to download the update whenever the "New update available for download" notification appears in the taskbar. To complete the installation, the user will then need to install the software update when the "New update available for installation" notification appears.  
+
+<br>
+
+Automatically download and notify for installation: The Automatic Updates client automatically downloads newly approved updates that apply to the client PC. To install the updates, a user logged on with local admin rights will need to select the option to install the software update when the "New software update available for installation" notification appears.  
+
+<br>
+
+Automatically download and schedule the installation: A user logged on with local admin rights can install an update before the scheduled installation time, or delay the restart (if this is required) after installation completes. For users without local admin rights, the update will install in the background at the scheduled time. These users can only delay a PC restart if the "No auto-restart for scheduled Automatic Updates installations" policy setting is enabled.  
+
+<br>
+
+These are the common Windows Update Options for client machines. In an Enterprise network, the Domain admins can set the effective option for all the domain machines via GPOs. Domain users without local nor domain admin rights will not be able to override the GP based setings.
 
 <br>
 
