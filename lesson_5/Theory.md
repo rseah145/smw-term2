@@ -10,6 +10,7 @@ Basic Stages for Update/Patch management. Understand deployment considerations f
 
 Post deployment review, common fixes for Windows update problems  
 
+<br>
 
 # Navigation
 * [Planning Deployment of Service Packs and Hotfixes](#planning-deployment-of-service-packs-and-hotfixes)
