@@ -191,3 +191,5 @@ Synchronization log keeps track of
 <br>
 
 Approval log keeps track of the content that has been approved or not approved  
+
+
