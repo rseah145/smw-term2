@@ -199,3 +199,14 @@ Approval log keeps track of the content that has been approved or not approved
 During synchronization, new security updates can be handled in 2 ways, automatically approve new versions of previously approved updates or do not automatically approve new versions of approved updates  
 
 In a testing envrionment, 2nd option is better. Otherwise, the testers may overlook and have skipped the testing of the new updates  
+
+<br>
+
+### WSUS PC Groups
+
+WSUS clients can be placed into PC groups  
+
+<br>
+
+Sample usage: some clients can be put into a "Test" PC group  
+* Admin
