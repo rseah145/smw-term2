@@ -337,3 +337,10 @@ Microsoft has 4 severity ratings
 * <b>Important</b>: A vulnerability whose exploitation could result in compromise of the confidentiality, integrity, or availability of user's data, or of the integrity or availability of processing resources  
 * <b>Moderate</b>: A vulnerability whose exploitation is mitigated to a significant degree by factors such as default configuration, auditing, or difficulty of exploitation  
 * <b>Low</b>: A vulnerability whose exploitation is extremely difficult, or whose impact is minimal  
+
+<br>
+
+### Snapshot of security updates
+
+Snapshot  
+![image](../images/Pasted%20image%2020230711215903.png)
