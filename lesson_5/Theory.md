@@ -16,3 +16,5 @@ Post deployment review, common fixes for Windows update problems
 <br>
 
 ## Planning Deployment of Service Packs and Hotfixes
+
+Need to keep technology environment secure and reliable
