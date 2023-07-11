@@ -338,4 +338,4 @@ Microsoft has 4 severity ratings
 * <b>Moderate</b>: A vulnerability whose exploitation is mitigated to a significant degree by factors such as default configuration, auditing, or difficulty of exploitation  
 * <b>Low</b>: A vulnerability whose exploitation is extremely difficult, or whose impact is minimal  
 
-Another important factor in risk evaluation is the se
+Rating is bsaed 
