@@ -230,4 +230,13 @@ Testing groups can be setup to do pre-deployment test for new updates
 
 ## Patch Management Process
 
-1 of the most important processes is 
+### Managing updates through stages
+
+Five-Stage approach
+1. Stage 1: Receive Microsoft Security, release communications  
+2. Stage 2: Evaluate Risk  
+3. Stage 3: Evaluate Mitigation  
+4. Stage 4: Deploy Updates (6 steps)
+5. Stage 5: Monitor Systems
+
+Assume the inventory and the system categorization processes are well taken care of by system admins (shorten from 8 to 5 steps in lesson)
