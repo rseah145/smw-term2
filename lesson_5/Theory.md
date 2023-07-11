@@ -51,4 +51,12 @@ Microsoft Endpoint Manager
 
 <br>
 
-### 
+### Microsoft Update and Automatic Updates
+
+For consumers and small businesses (fewer than 50 PCs)  
+
+Updates can be installed with minimal or no user interaction  
+
+Uses Internet connection to search for downloads from Microsoft Update website  
+
+No need to under
