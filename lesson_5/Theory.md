@@ -180,3 +180,14 @@ Known as synchronization
 
 WSUS has 2 logs for tracking events
 
+<br>
+
+Synchronization log keeps track of 
+* Time of the last and next scheduled synchronization
+* Success and Failure notification
+* Update packages that have been downloaded and/orr updated since the last synchronization, or that failed synchronization
+* Whether synchronization was a Manual or Automatic synchronization
+
+<br>
+
+
