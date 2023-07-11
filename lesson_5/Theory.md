@@ -65,4 +65,6 @@ Simplest approach that is applicable to client systems that do not run mission c
 
 For servers, automatic Microsoft Updates applied could disrupt many services during the update. Thus, enterprises usually do not adopt this approach for their servers  
 
+Microsoft cautions that users should ensure they do not have apps that could be affected by the updates  
 
+Price: Free for licensed users
