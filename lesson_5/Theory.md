@@ -240,3 +240,16 @@ Five-Stage approach
 5. Stage 5: Monitor Systems
 
 Assume the inventory and the system categorization processes are well taken care of by system admins (shorten from 8 to 5 steps in lesson)
+
+<br>
+
+### Stage 1: Receive Microsoft Security Release Communications
+
+Microsoft sends out a notification if there is an issue affecting customer's security  
+
+If security changes are required, a security update is released  
+
+<br>
+
+Patch Tuesday
+* Security updates and the corresponding security bulletin
