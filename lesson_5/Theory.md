@@ -205,6 +205,8 @@ In a testing envrionment, 2nd option is better. Otherwise, the testers may overl
 
 ### WSUS Policy Options for Clients
 
+Policy Option(s) and their comments
+
 
 
 <br>
