@@ -134,3 +134,19 @@ WSUS is a means to provide updates to PCs that don't have Internet access
 
 Diagram  
 ![image](../images/Pasted%20image%2020230711191957.png)
+
+<br>
+
+### WSUS requirements
+
+Assume that WSUS clients are synchronizing with the server every 8 hours for a rollup of 30,000 clients  
+
+Processor: 1.4 GHz x64 processor (2GHz or faster is recommended)  
+
+Memory: additional 2 GB of RAM  
+
+Available disk space: 40 GB  
+
+Applies to: Win Server 2019, Win Server (Semi-Annual Channel), Win Server 2016, Win Server 2012 R2, Win Server 2012  
+
+On top of hardware requirements, the WSUS role requires to run on IIS and with a few other Windows components
