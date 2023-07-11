@@ -106,3 +106,24 @@ Price: Charges apply
 
 Alternatives:  ManageEngine, Freshservice, Malwarebytes, ....etc  
 
+<br>
+
+### Get updates from Microsoft website only
+
+Microsoft may send email notifications about security updates  
+
+Users should download updates from Microsoft Update website  
+
+Microsoft does not distribute security updates by using email attachments  
+
+Such emails containing attached "patch installers" are fake  
+
+<br>
+
+### Advantages of WSUS
+
+System admin can control the updates to be applied  
+
+Clients can be configured to get updates from a local WSUS server instead of downloading them from Microsoft's site, reducing network traffic  
+
+WSUS is a means to provide updates to PCs that don't have Internet access  
