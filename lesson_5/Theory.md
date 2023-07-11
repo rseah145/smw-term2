@@ -288,3 +288,11 @@ Since 2015, Microsoft release security updates to home PCs, tablets and phones a
 Urgent updates will be released immediately  
 
 At stage 1, sys admins should look out for new relevant updates for their systems. As described earlier, for Microsoft updats, the admins can subscribe to the Advisories Alert Email Notifications to get the info in advance. Admins should be familiar with Microsoft Update releases pattern to avoid being a victim of fake patches  
+
+<br>
+
+Microsoft provides several ways of receiving info about updates
+* Email: Security Notification Service Comprehensive Edition (remember, update installers are never attached to an email)
+* RSS: Comprehensive Alerts (at https://msrc-blog.microsoft.com/feed/ )
+* Twitter (at https://twitter.com/msftsecresponse )
+* Security Update Portal at https://portal.msrc.microsoft.com/en-us/security-guidance
