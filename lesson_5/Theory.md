@@ -67,4 +67,5 @@ For servers, automatic Microsoft Updates applied could disrupt many services dur
 
 Microsoft cautions that users should ensure they do not have apps that could be affected by the updates  
 
-Price: Free for licensed users
+Price: Free for licensed users  
+
