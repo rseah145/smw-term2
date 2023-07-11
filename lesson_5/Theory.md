@@ -96,5 +96,11 @@ Price: Free for licensed users
 
 Supports management and distribution of Microsoft and non-Microsoft software updates and apps  
 
-Supports vari
+Supports various types of endpoints: Windows/ non-Windows platforms  
+
+WSUS is part of it  
+
+Advanced admin control features  
+
+Price: Charges apply  
 
