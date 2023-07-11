@@ -379,4 +379,4 @@ Six steps to deploy an update
 Steps
 1. Plan the deployment. Determine which updates need to be rolled out quickly and which ones can be subjected to a more thorough testing process. Deployment schedule - do some PC groups need to updates more urgently? By which date or time, must all PCs be updated?  
 2. Determine whether the security update is available for download. If there is no security update available, Microsoft would advise the appropriate actions to take to protect the PC systems  
-3. Obtain the required update files. Security update files can be obtained from several sources like Microsoft security guide, Microsoft deployment tools, such as Microsoft Update, Windows Update, WSUS, or Endpoint Manager. 
+3. Obtain the required update files. Security update files can be obtained from several sources like Microsoft security guide, Microsoft deployment tools, such as Microsoft Update, Windows Update, WSUS, or Endpoint Manager. Microsoft Download Center and Microsoft Update Catalog service are 2 more reliable sources.
