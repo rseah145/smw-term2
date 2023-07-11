@@ -322,3 +322,7 @@ Outcome of evaluation may include
 1. Not apply the patch - because the update is not relevant to our inventory or the risk is very low which the cost to deploy is very high  
 2. Defer the deploy until the next scheduled system maintenance down time: For the time being, choices are - bare the risk or apply some interim mitigation procedures. Such as shutting down some non mission critical services, or configure some adhoc firewall rules to protect the affected servers  
 3. In the most unusual case, an emergency patch operation will be needed ASAP and it will disrupt the normal operations  
+
+<br>
+
+Flow chart showing stage 2: evaluate risk  
