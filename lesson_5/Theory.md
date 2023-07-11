@@ -203,6 +203,12 @@ In a testing envrionment, 2nd option is better. Otherwise, the testers may overl
 
 <br>
 
+### WSUS Policy Options for Clients
+
+
+
+<br>
+
 ### WSUS PC Groups
 
 WSUS clients can be placed into PC groups  
