@@ -301,10 +301,11 @@ Microsoft provides several ways of receiving info about updates
 
 ### Stage 2: Evaluate Risk
 
-Admins should ask
+Admins should ask  
 
 Does the vulnerability apply to the organization? To answer this question, sys admin should have kept an update to date inventory list of all IT assets of the organization  
 
-Does the vulnerability represent a high risk to the organization?
+Does the vulnerability represent a high risk to the organization?  
 
-Inventory info is needed in this evaluation process
+Inventory info is needed in this evaluation process  
+
