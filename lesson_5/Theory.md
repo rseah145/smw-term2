@@ -16,6 +16,7 @@ Post deployment review, common fixes for Windows update problems
 * [Planning Deployment of Service Packs and Hotfixes](#planning-deployment-of-service-packs-and-hotfixes)
 * [Windows Server Update Services (WSUS)](#windows-server-update-services-wsus)
 * [Patch Management Process](#patch-management-process)
+* [Post-deployment Review](#post-deployment-review)
 
 <br>
 
