@@ -149,4 +149,12 @@ Available disk space: 40 GB
 
 Applies to: Win Server 2019, Win Server (Semi-Annual Channel), Win Server 2016, Win Server 2012 R2, Win Server 2012  
 
-On top of hardware requirements, the WSUS role requires to run on IIS and with a few other Windows components
+On top of hardware requirements, the WSUS role requires to run on IIS and with a few other Windows components  
+
+<br>
+
+### WSUS features
+
+Admin must approve updates before WSUS clients can install them. Observe various approval options while working on practical 5  
+
+WSUS clients
