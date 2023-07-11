@@ -5,3 +5,4 @@ Intro to common Windows Update practices and tools
 
 Intro to Window Server Update Services (WSUS). Architecture, services and operations  
 
+Basic Stages for Update/Patch management. Under
