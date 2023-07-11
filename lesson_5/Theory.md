@@ -63,4 +63,6 @@ No need to understand the technical details of the security update
 
 Simplest approach that is applicable to client systems that do not run mission critical services  
 
-For servers, automatic Microsoft Update
+For servers, automatic Microsoft Updates applied could disrupt many services during the update. Thus, enterprises usually do not adopt this approach for their servers  
+
+
