@@ -174,3 +174,9 @@ WSUS server needs Internet access to Microsoft Update serer to get info about se
 Known as synchronization
 * Initial synchronization may take a while depending on the selection choices  
 
+<br>
+
+### Performing Software Update Services Common Admin Tasks
+
+WSUS has 2 logs for tracking events
+
