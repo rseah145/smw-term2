@@ -27,7 +27,6 @@ Requires identifying security vulnerabilities and responding quickly
 
 <b>Security patch management</b>, patch management with a concentration on reducing security vulnerabilities; essential for secure IT management and operations  
 
-<br>
 
 ### How to manage updates
 
