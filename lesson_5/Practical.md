@@ -65,4 +65,9 @@ Run "gpupdate /force" with administrator privileges to have the changes take eff
 
 ![image](../images/Pasted%20image%2020230719183320.png)  
 
-![image](../images/Pasted%20image%2020230719183412.png)
+![image](../images/Pasted%20image%2020230719183412.png)  
+
+<br>
+
+## Approve and Deploy updates to the Test Group  
+
