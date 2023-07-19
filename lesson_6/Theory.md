@@ -172,4 +172,4 @@ One of the most popular IKE authentication schmes for an AD is Kerberos, thus, i
 
 ## Planning an IPsec Deployment  
 
-
+Configuration of IPsec is based on
