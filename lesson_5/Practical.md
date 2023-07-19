@@ -36,5 +36,4 @@ Run "gpupdate /force" with administrator privileges to have the changes take eff
 
 "gpresult /r /v" with the admin privilege shell should now show the GPO taking effect on the WSUS server (Server2)  
 
-
-
+![[../images/Pasted%20image%2020230719135541.png)
