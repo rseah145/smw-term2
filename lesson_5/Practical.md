@@ -50,4 +50,9 @@ Run "gpupdate /force" with administrator privileges to have the changes take eff
 ## Verifying that Win Server 2012 R2 (memsrv1) appears in WSUS on Server2 (WSUS server)
 ## Server Dashboard -> Tools -> Windows Server Update Services -> \[WSUS-Server2\] -> PCs -> All PCs -> Unassigned PCs (Change status to "Any" and click on refresh button)
 
-![image](../images/Pasted%20image%2020230719153945.png)
+![image](../images/Pasted%20image%2020230719153945.png) 
+
+<br>
+
+## Setting up a Test PC Group to test updates from WSUS  
+
