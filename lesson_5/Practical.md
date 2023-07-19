@@ -57,5 +57,5 @@ Run "gpupdate /force" with administrator privileges to have the changes take eff
 ## Setting up a Test PC Group to test updates from WSUS (on WSUS Server)  
 ## Server2  
 
-
+![image](../images/Pasted%20image%2020230719182832.png)
 
