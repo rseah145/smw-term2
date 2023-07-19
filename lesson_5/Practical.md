@@ -6,6 +6,7 @@
 
 ![image](../images/Pasted%20image%2020230719133204.png)
 
+
 <br>
 
 ## Computer Configuration -> Policies -> Administrative Templates -> Windows Components -> Windows Update  
