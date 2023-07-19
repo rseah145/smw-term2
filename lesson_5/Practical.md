@@ -70,4 +70,6 @@ Run "gpupdate /force" with administrator privileges to have the changes take eff
 <br>
 
 ## Approve and Deploy updates to the Test Group  
+## Any 2 updates for practical  
 
+![image](../images/Pasted%20image%2020230719183741.png)
