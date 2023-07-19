@@ -129,3 +129,9 @@ Windows Firewall Advanced Security Rule
 Admins may use IPsec security policies to define IPsec configurations and these IPsec policies have to be deployed to the target systems to take effect  
 
 Another apporach to configure IPsec security is to use Windows Firewall Advanced Security Rules  
+
+GP is helpful for admins to manage and distribute IPsec policies to targeted domain machines  
+
+IPsec security policy is independent to Group Policy  
+
+IPsec policy can be defined at the individual system locally via local policy  
