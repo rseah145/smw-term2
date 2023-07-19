@@ -9,4 +9,5 @@
 
 <br>
 
-## Configure 
+## Configure Automatic Updates policy with the following options set  
+
