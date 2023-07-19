@@ -1,7 +1,3 @@
-# Note: Not covering all slides, just the important ones  
-
-<br>
-
 # Objectives  
 
 IP Security Issues and IPsec Concepts  
@@ -21,7 +17,7 @@ Deploy and manage IPsec policies
 <br>
 
 # Navigation  
-
+* []
 
 <br>
 
