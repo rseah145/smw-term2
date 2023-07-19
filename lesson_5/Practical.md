@@ -109,6 +109,7 @@ Run "gpupdate /force" with administrator privileges to have the changes take eff
 <br>
 
 ## Viewing Windows Update Status Report for Win Server 2012 R2  
+## Bottom half of the console shows a status summary as well  
 ## Right-click on WinTestGroup and select status report  
 
 ![image](../images/Pasted%20image%2020230719190152.png)  
