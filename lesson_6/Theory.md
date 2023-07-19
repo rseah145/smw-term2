@@ -197,3 +197,4 @@ Protected network traffic could also help adversaries to carry out data exfiltra
 
 | Concern | Solution |
 | :---------| :---------|
+| Attacks using specific protocols or Denial of Service attacks | Use IPsec traffic blocking, |
