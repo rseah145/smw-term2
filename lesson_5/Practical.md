@@ -30,4 +30,5 @@
 
 <br>
 
+Run "gpupdate /force" with administrator privileges to have the changes take effect  
 
