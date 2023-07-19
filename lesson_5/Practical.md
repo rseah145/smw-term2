@@ -87,4 +87,5 @@ Run "gpupdate /force" with administrator privileges to have the changes take eff
 
 <br>
 
-### Manual synchronization instead of
+### Manual synchronization instead of waiting for approved updates to be downloaded from Microsoft at the next synchronization process  
+
