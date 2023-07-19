@@ -48,4 +48,6 @@ Run "gpupdate /force" with administrator privileges to have the changes take eff
 <br>
 
 ## Verifying that Win Server 2012 R2 appears in WSUS on Server2 (WSUS server)
-## Server Dashboard -> Tools -> Windows Update Service
+## Server Dashboard -> Tools -> Windows Server Update Services -> \[WSUS-Server2\] -> PCs -> All PCs -> Unassigned PCs (Change status to "Any" and click on refresh button)
+
+![image](../images/Pasted%20image%2020230719153945.png)
