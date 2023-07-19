@@ -4,7 +4,6 @@
 
 ## Ensure Win server 2012 R2 (Server1) is in memberserverOU  
 
-![image](../images/Pasted%20image%2020230719133204.png)
 ![image](../images/Pasted%20image%2020230719135806.png)
 
 <br>
@@ -35,6 +34,6 @@ Run "gpupdate /force" with administrator privileges to have the changes take eff
 
 <br>
 
-"gpresult /r /v" with the admin privilege shell should now show the GPO taking effect on the WSUS server (Server2)  
+"gpresult /r /v" with the admin privilege shell should now show the GPO taking effect on the Win server (Server2)  
 
 ![image](../images/Pasted%20image%2020230719135541.png)
