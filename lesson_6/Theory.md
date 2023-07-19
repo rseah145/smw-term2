@@ -103,3 +103,7 @@ Next, extra hashing scheme (<b>optional</b>) will help to ensure data integrity 
 Finally, data is encrypted with integrity check (<b>optional</b>) at the NIC of the sending PC as it is formatted into an IP packet  
 
 <br>
+
+Reminder  
+* Authentication Header (AH) – is a packet level authentication protocol to ensure the data integrity of the exchanged packets
+* Encapsulating Security Payload(ESP) – is another packet level protocol which provides both encryption and integrity check features to protect the data packets
