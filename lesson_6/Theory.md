@@ -107,3 +107,25 @@ Finally, data is encrypted with integrity check (<b>optional</b>) at the NIC of 
 Reminder  
 * Authentication Header (AH) – is a packet level authentication protocol to ensure the data integrity of the exchanged packets
 * Encapsulating Security Payload(ESP) – is another packet level protocol which provides both encryption and integrity check features to protect the data packets
+
+<br>
+
+IPsec can provide security for all TCP/IP-based apps and communications protocols  
+
+<br>
+
+IPsec security policy  
+* <b>IPsec security policies</b> can be established through the <b>Group Policy</b> in an AD  
+* IPsec security policies can also be configured through the IP Security Policies Management MMC snap-in  
+
+<br>
+
+Windows Firewall Advanced Security Rule
+* IPsec security can also be configured via Windows Firewall Advanced Security Rules  
+* Provide more IKE authentication options and AES encryption support  
+
+<br>
+
+Admins may use IPsec security policies to define IPsec configurations and these IPsec policies have to be deployed to the target systems to take effect  
+
+Another apporach to configure IPsec security is to use Windows Firewall Advanced Security Rules
