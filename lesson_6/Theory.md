@@ -1,4 +1,4 @@
-# Objectives
+# Objectives  
 
 IP Security Issues and IPsec Concepts  
 
@@ -13,3 +13,6 @@ Understand default IPsec policies
 Configure IPsec policies  
 
 Deploy and manage IPsec policies  
+
+<br>
+
