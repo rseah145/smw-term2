@@ -41,13 +41,13 @@ Run "gpupdate /force" with administrator privileges to have the changes take eff
 
 <br>
 
-## Verification and there not being any updates on Win Server 2012 R2 (Srv 1)
+## Verification and there not being any updates on Win Server 2012 R2 (memSrv 1)
 
 ![image](../images/Pasted%20image%2020230719153559.png)
 
 <br>
 
-## Verifying that Win Server 2012 R2 appears in WSUS on Server2 (WSUS server)
+## Verifying that Win Server 2012 R2 (memsrv1) appears in WSUS on Server2 (WSUS server)
 ## Server Dashboard -> Tools -> Windows Server Update Services -> \[WSUS-Server2\] -> PCs -> All PCs -> Unassigned PCs (Change status to "Any" and click on refresh button)
 
 ![image](../images/Pasted%20image%2020230719153945.png)
