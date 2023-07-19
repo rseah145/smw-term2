@@ -1,3 +1,4 @@
+# Done using the provided WSUS VM (Note that a manual setup will take a lot more time)  
 # Basically Set up GPO with the following configuration as shown under the path to enable WSUS updates  
 <br>
 
