@@ -258,4 +258,4 @@ The rule only applies for particular types of connections
 * Remote
 * ALL
 
-
+![image](../images/Pasted%20image%2020230719213601.png)
