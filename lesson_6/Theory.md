@@ -23,3 +23,12 @@ Deploy and manage IPsec policies
 
 ## IPsec Security Issues and Concepts  
 
+### IPsec Concepts  
+
+IPsec is a set of protocols used to ensure private, secure communications over IP networks by using cryptographic security services based on
+
+* Protecting the contents of IP packets
+* Providing packet filtering
+* Enforcing trusted communication
+* Securing communication with encryption of the info traveling the network
+* Mostly used as an option for IPv4 implementations  
