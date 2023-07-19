@@ -195,4 +195,5 @@ Protected network traffic could also help adversaries to carry out data exfiltra
 
 ### IPsec Security solutions  
 
-| Concern | Solution
+| Concern | Solution |
+| :---------| :---------|
