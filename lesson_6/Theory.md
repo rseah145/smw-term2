@@ -17,8 +17,9 @@ Deploy and manage IPsec policies
 <br>
 
 # Navigation  
-* [IPsec Security Issues and Concepts](#ipsec-security-issues-and-concepts)
-* [IPsec Implementation](#ipsec-implementation)
+* [IPsec Security Issues and Concepts](#ipsec-security-issues-and-concepts)  
+* [IPsec Implementation](#ipsec-implementation)  
+* [Planning an IPsec Deployment](#planning-an-ipsec-deployment)  
 
 <br>
 
@@ -26,8 +27,7 @@ Deploy and manage IPsec policies
 
 ### IPsec Concepts  
 
-IPsec is a set of protocols used to ensure private, secure communications over IP networks by using cryptographic security services based on
-
+IPsec is a set of protocols used to ensure private, secure communications over IP networks by using cryptographic security services based on  
 * Protecting the contents of IP packets
 * Providing packet filtering
 * Enforcing trusted communication
@@ -167,5 +167,9 @@ Additional packet header will be needed too
 Adding in IPsec protection may upset some of the existing security measures  
 
 One of the most popular IKE authentication schmes for an AD is Kerberos, thus, it is complicated if IPsec is involving DCs as Kerberos is hosted by controllers  
+
+<br>
+
+## Planning an IPsec Deployment  
 
 
