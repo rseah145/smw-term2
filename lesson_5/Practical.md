@@ -24,4 +24,4 @@
 
 ## Configure "Specify Intranet Microsoft Update Service Location" policy as such under the same policy path to configure automatic updates policy  
 
-![[Pasted%20image 20230719134249.png]]
+![image](Pasted%20image%2020230719134249.png)
