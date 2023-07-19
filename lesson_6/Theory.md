@@ -204,3 +204,14 @@ Protected network traffic could also help adversaries to carry out data exfiltra
 
 <br>
 
+Proper uses of IPsec
+* Packet filtering such as using IPsec with the Routing and Remote Access Service to permit or block inbound or outbound traffic  
+* <b>Securing host-to-host traffic on specific paths</b>
+* <b>Securing traffic to servers</b>
+* Combining L2TP and IPsec (L2TP/IPsec) for securing VPN scenarios  
+* Incorporating site-to-site or gateway-to-gateway tunnelling
+
+<br>
+
+The highlighted cases are suitable to be used within a LAN  
+
