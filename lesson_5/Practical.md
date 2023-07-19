@@ -77,9 +77,10 @@ Run "gpupdate /force" with administrator privileges to have the changes take eff
 <br>
 
 ### Click on the button for a PC group and approve install  
+### Repeat per update that needs to be approved  
 
 ![image](../images/Pasted%20image%2020230719183841.png)  
 
 ![image](../images/Pasted%20image%2020230719183926.png)  
 
-![image](../images/Pasted%20image%2020230719184012.png)
+![image](../images/Pasted%20image%2020230719184012.png)  
