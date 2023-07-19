@@ -1,3 +1,7 @@
+# Note: Not covering all slides, just the important ones  
+
+<br>
+
 # Objectives  
 
 IP Security Issues and IPsec Concepts  
