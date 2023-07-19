@@ -135,3 +135,13 @@ GP is helpful for admins to manage and distribute IPsec policies to targeted dom
 IPsec security policy is independent to Group Policy  
 
 IPsec policy can be defined at the individual system locally via local policy  
+
+<br>
+
+### Weighing IPsec Trade-offs  
+
+Deploying IPsec can affect network performace and compatibility with other services and apps  
+
+Do not deploy IPsec if the security it provides is not required  
+
+Applying IPsec or not is a critical decision to make by the network or security admins
