@@ -308,3 +308,4 @@ Using IPsec to secure network traffic between Alice's PC and the HR server locat
 
 Scenario A, Tunnel between router and Firewall so Alice can connect to HR servers securely (gateway to gateway)  
 
+![image](../images/Pasted%20image%2020230719215612.png)
