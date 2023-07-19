@@ -292,4 +292,7 @@ When connections are involving the WAN (Wide Area Network)
 
 <br>
 
+Routers and firewall devices will take care of site-to-site traffic security in most cases, based on IPsec tunnel mode  
+
+Tunnel mode only protects traffic data between the 2 end-point devices, traffic between host to the corresponding end-point is not protected by AH nor ESP protocols  
 
