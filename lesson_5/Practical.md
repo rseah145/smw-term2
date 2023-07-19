@@ -87,5 +87,11 @@ Run "gpupdate /force" with administrator privileges to have the changes take eff
 
 <br>
 
+### Checking for approved updates via filters (Don't forget to click the refresh button)  
+
+![image](Pasted%20image%2020230719184516.png)
+
+<br>
+
 ### Manual synchronization instead of waiting for approved updates to be downloaded from Microsoft at the next synchronization process  
 
