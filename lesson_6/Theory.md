@@ -128,4 +128,4 @@ Windows Firewall Advanced Security Rule
 
 Admins may use IPsec security policies to define IPsec configurations and these IPsec policies have to be deployed to the target systems to take effect  
 
-Another apporach to configure IPsec security is to use Windows Firewall Advanced Security Rules
+Another apporach to configure IPsec security is to use Windows Firewall Advanced Security Rules  
