@@ -32,3 +32,9 @@
 
 Run "gpupdate /force" with administrator privileges to have the changes take effect  
 
+<br>
+
+"gpresult /r /v" with the admin privilege shell should now show the GPO taking effect on the WSUS server (Server2)  
+
+
+
