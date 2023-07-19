@@ -54,4 +54,8 @@ IPsec is an optional feature that the network admin can use to protect TCP/IP ne
 
 <br>
 
+### IPsec Control Elements
 
+3 main security control elements
+* <b>Internet Key Exchange (IKE)</b> protocol for exchanging encryption keys, AKA IKEEXT in Microsoft Implementation  
+* 
