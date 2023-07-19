@@ -302,4 +302,7 @@ Tunnel mode only protects traffic data between the 2 end-point devices, traffic 
 
 Using IPsec to secure network traffic between Alice's PC and the HR server located in the remote office  
 
-![image](../images/Pasted%20image%2020230719214410.png)
+![image](../images/Pasted%20image%2020230719214410.png)  
+
+<br>
+
