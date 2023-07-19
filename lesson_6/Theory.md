@@ -181,4 +181,12 @@ Configuration of IPsec is based on
 
 Different OS and Network Devices may have different ways for IPsec implementation  
 
+<br>
 
+IPsec is not recommended for the following  
+* To secure communication between domain members and their DCs, as it reduces network performance, and configuration of IPsec policy is complicated  
+* To secure all traffic in a network, reduces network performance, IPsec can't support multicast and broadcast traffic, and <b>Network tools that need to inspect packet headers may not work</b>
+
+<br>
+
+Protected network traffic could also help adversaries to carry out data exfiltration undetected, thus IPsec could also decrease network security
