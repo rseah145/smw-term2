@@ -259,3 +259,9 @@ The rule only applies for particular types of connections
 * ALL
 
 ![image](../images/Pasted%20image%2020230719213601.png)
+
+<br>
+
+### Deciding which IPsec mode to use  
+
+
