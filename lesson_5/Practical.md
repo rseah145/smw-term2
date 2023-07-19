@@ -106,3 +106,7 @@ Run "gpupdate /force" with administrator privileges to have the changes take eff
 
 ### Install the update manually  
 
+<br>
+
+## Viewing Windows Update Status Report for Win Server 2012 R2  
+## Click on WinTestGroup
