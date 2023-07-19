@@ -98,4 +98,8 @@ Run "gpupdate /force" with administrator privileges to have the changes take eff
 
 #### From the practical slides  
 
-![image](../images/Pasted%20image%2020230719184552.png)
+![image](../images/Pasted%20image%2020230719184552.png)  
+
+<br>
+
+### Eventually, the update will be downloaded automatically and be pending for installation without user intervention
