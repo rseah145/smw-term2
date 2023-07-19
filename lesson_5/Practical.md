@@ -38,3 +38,11 @@ Run "gpupdate /force" with administrator privileges to have the changes take eff
 "gpresult /r /v" with the admin privilege shell should now show the GPO taking effect on the Win server 2012 R2 (Server1)  
 
 ![image](../images/Pasted%20image%2020230719135541.png)
+
+<br>
+
+## Verification and there not being any updates
+
+![image](Pasted%20image%2020230719153559.png)
+
+<br>
