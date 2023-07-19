@@ -249,3 +249,8 @@ Each rule has 5 configurable elements
 * Host-to-Host Authentication Method, used by IKE - phase 1  
 * Filter Action (include choice of AH/ESP), negotiated in the IKE-phase 2, and carried out the agreed scheme in the actual traffic  
 
+<br>
+
+### Connection Type
+
+
