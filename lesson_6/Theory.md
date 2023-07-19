@@ -306,3 +306,4 @@ Using IPsec to secure network traffic between Alice's PC and the HR server locat
 
 <br>
 
+Scenario A,   
