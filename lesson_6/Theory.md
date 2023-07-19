@@ -166,4 +166,6 @@ Additional packet header will be needed too
 
 Adding in IPsec protection may upset some of the existing security measures  
 
-One of the most popular IKE authentication schmes for an AD is Kerberos
+One of the most popular IKE authentication schmes for an AD is Kerberos, thus, it is complicated if IPsec is involving DCs as Kerberos is hosted by controllers  
+
+
