@@ -264,4 +264,18 @@ The rule only applies for particular types of connections
 
 ### Deciding which IPsec mode to use  
 
+2 modes  
+
+<br>
+
+Transport mode
+* Used to secure communications within a network and it can be server-to-server or server-to-client  
+* IPsec provides end-to-end security  
+
+<br>
+
+Tunnel mode
+* Used to secure communications between networks (E.g. Between 2 gateways)  
+* Primarily used for interoperability with gateways or end systems that do not support L2TP/IPsec or PPTP VPN site-to-site connections  
+
 
