@@ -54,5 +54,8 @@ Run "gpupdate /force" with administrator privileges to have the changes take eff
 
 <br>
 
-## Setting up a Test PC Group to test updates from WSUS  
+## Setting up a Test PC Group to test updates from WSUS (on WSUS Server)  
+## Server2  
+
+
 
