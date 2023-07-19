@@ -58,4 +58,29 @@ IPsec is an optional feature that the network admin can use to protect TCP/IP ne
 
 3 main security control elements
 * <b>Internet Key Exchange (IKE)</b> protocol for exchanging encryption keys, AKA IKEEXT in Microsoft Implementation  
-* 
+* <b>Authentication Header (AH)</b> provides authenticity guarantee for packets, data origin authentication, data integrity, and reply protection  
+* <b>Encapsulating security payload (ESP)</b> proivdes confidentiality through encryption  
+
+<br>
+
+IPsec also uses IP Compression (IPComp), which is used to compress raw IP data  
+
+From the 3 main security control elements, IKE is the 1st to be used when 2 parties want to communicate  
+
+If the IKE operation (i.e. Host-to-host authentication) fails, there is no further communication possible  
+
+Once IKE is cleared, the 2 parties may use AH, and/or ESP to protect subsequent traffic data  
+
+<br>
+
+### IKE Module  
+
+Internet Key Exchange (IKE) module  
+
+1 of the key components of IPsec  
+
+Responsible for  
+* Initial security negotiation (<b>Phase 1</b>), based on the Authentication method(s) defined in the IPsec rule  
+* Determine secret keyring material (<b>Phase 2</b>), to secure network communication, and related to Filter Action setting of the associate IPsec rule  
+
+
