@@ -5,4 +5,8 @@
 
 ![image](../images/Pasted%20image%2020230719132024.png)  
 
-![image](../images/Pasted%20image%2020230719132229.png)
+![image](../images/Pasted%20image%2020230719132229.png)  
+
+<br>
+
+## Configure 
