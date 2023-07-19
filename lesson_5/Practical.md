@@ -97,4 +97,4 @@ Run "gpupdate /force" with administrator privileges to have the changes take eff
 
 #### From the practical slides  
 
-![[../images/Pasted%20image%2020230719184552.png]]
+![image](../images/Pasted%20image%2020230719184552.png)
