@@ -202,3 +202,5 @@ Protected network traffic could also help adversaries to carry out data exfiltra
 | Identity spoofing | Use Kerberos, public key certificates, or preshared key authentication to verify the identity of PC. |
 | Modification of data | Use a cryptographic checksum that incorporates a secret key to provide data integrity. |
 
+<br>
+
