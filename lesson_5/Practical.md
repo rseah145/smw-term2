@@ -94,6 +94,7 @@ Run "gpupdate /force" with administrator privileges to have the changes take eff
 <br>
 
 ### Manual synchronization instead of waiting for approved updates to be downloaded from Microsoft at the next synchronization process  
+### By default, clients will check WSUS for updates every 22 hrs, to check for updates immediately, it has to be done manually  
 
 #### From the practical slides  
 
