@@ -43,7 +43,7 @@ Run "gpupdate /force" with administrator privileges to have the changes take eff
 
 ## Verification and there not being any updates on Win Server 2012 R2 (Srv 1)
 
-![image](Pasted%20image%2020230719153559.png)
+![image](../images/Pasted%20image%2020230719153559.png)
 
 <br>
 
