@@ -155,3 +155,15 @@ Impact of IPsec
 * Network inspection technologies used in routers, firewalls, <b>Intrusion Detection Systems (IDS) may not work on IPsec packets</b>  
 * App compatibility with other platforms  
 * Effect on AD and DC connections  
+
+<br>
+
+IKE initial connection time will take longer to be established  
+
+During actual data exchange, each packet may be encrypted, causing some overhead  
+
+Additional packet header will be needed too  
+
+Adding in IPsec protection may upset some of the existing security measures  
+
+One of the most popular IKE authentication schmes for an AD is Kerberos
