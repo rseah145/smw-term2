@@ -11,3 +11,4 @@
 
 ## Configure Automatic Updates policy with the following options set  
 
+![image](../images/Pasted%20image%2020230719132433.png)
