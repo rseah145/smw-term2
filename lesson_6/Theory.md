@@ -253,4 +253,9 @@ Each rule has 5 configurable elements
 
 ### Connection Type
 
+The rule only applies for particular types of connections
+* LAN
+* Remote
+* ALL
+
 
