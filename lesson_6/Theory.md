@@ -189,4 +189,4 @@ IPsec is not recommended for the following
 
 <br>
 
-Protected network traffic could also help adversaries to carry out data exfiltration undetected, thus IPsec could also decrease network security when used everywhere
+Protected network traffic could also help adversaries to carry out data exfiltration undetected, thus IPsec could also decrease network security when used for all network traffic
