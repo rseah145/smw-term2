@@ -278,4 +278,18 @@ Tunnel mode
 * Used to secure communications between networks (E.g. Between 2 gateways)  
 * Primarily used for interoperability with gateways or end systems that do not support L2TP/IPsec or PPTP VPN site-to-site connections  
 
+<br>
+
+In the simplest case
+* IPsec protection is catering for systems within a LAN
+* Just choose Transport mode  
+
+<br>
+
+When connections are involving the WAN (Wide Area Network)  
+* Most probably we will use Tunnel Mode  
+* Examples provided  
+
+<br>
+
 
