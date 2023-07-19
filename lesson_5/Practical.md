@@ -2,7 +2,7 @@
 # Basically Set up GPO with the following configuration as shown under the path to enable WSUS updates  
 <br>
 
-## Ensure WSUS server (Server2) is in memberserverOU  
+## Ensure Win server 2012 R2 (Server1) is in memberserverOU  
 
 ![image](../images/Pasted%20image%2020230719133204.png)
 
