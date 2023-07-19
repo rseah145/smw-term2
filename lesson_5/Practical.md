@@ -5,7 +5,7 @@
 ## Ensure Win server 2012 R2 (Server1) is in memberserverOU  
 
 ![image](../images/Pasted%20image%2020230719133204.png)
-
+![image](../images/Pasted%20image%2020230719135806.png)
 
 <br>
 
