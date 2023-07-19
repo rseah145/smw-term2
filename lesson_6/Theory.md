@@ -101,3 +101,5 @@ When an IPsec communication begins between 2 PCs, the PCs 1st negotiate (using <
 Next, extra hashing scheme (<b>optional</b>) will help to ensure data integrity at packet header  
 
 Finally, data is encrypted with integrity check (<b>optional</b>) at the NIC of the sending PC as it is formatted into an IP packet  
+
+<br>
