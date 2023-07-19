@@ -23,6 +23,7 @@
 <br>
 
 ## Configure "Specify Intranet Microsoft Update Service Location" policy as such under the same policy path to configure automatic updates policy  
+## Port is 8530 NOT 8350
 
 ![image](../images/Pasted%20image%2020230719134404.png)
 
