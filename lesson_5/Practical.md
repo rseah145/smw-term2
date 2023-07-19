@@ -41,8 +41,11 @@ Run "gpupdate /force" with administrator privileges to have the changes take eff
 
 <br>
 
-## Verification and there not being any updates
+## Verification and there not being any updates on Win Server 2012 R2 (Srv 1)
 
 ![image](Pasted%20image%2020230719153559.png)
 
 <br>
+
+## Verifying that Win Server 2012 R2 appears in WSUS on Server2 (WSUS server)
+## Server Dashboard -> Tools -> Windows Update Service
