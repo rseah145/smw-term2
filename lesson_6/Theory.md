@@ -234,3 +234,18 @@ In the event that a system needs to host different apps with IPsec protections, 
 
 Each rule is to cater for 1 type of app  
 
+<br>
+
+### 5 Elements that make up a rule
+
+Each IPsec Policy can consist of multiple rules  
+
+<br>
+
+Each rule has 5 configurable elements  
+* Connection Type (Lan, Remote, ALL)  
+* Mode (Transport or Tunnel)  
+* Filter List  
+* Host-to-Host Authentication Method, used by IKE - phase 1  
+* Filter Action (include choice of AH/ESP), negotiated in the IKE-phase 2, and carried out the agreed scheme in the actual traffic  
+
