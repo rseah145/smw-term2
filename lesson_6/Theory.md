@@ -83,4 +83,8 @@ Responsible for
 * Initial security negotiation (<b>Phase 1</b>), based on the Authentication method(s) defined in the IPsec rule  
 * Determine secret keyring material (<b>Phase 2</b>), to secure network communication, and related to Filter Action setting of the associate IPsec rule  
 
+<br>
 
+Phase 1 is required to support phase 2 operations, the 2 phases use different security and encryption schemes  
+
+The 2 phases use different DH (Diffie-Hellman) asymmetric key encryptions to exchange data between 2 communication parties  
