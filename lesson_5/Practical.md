@@ -4,7 +4,7 @@
 
 ## Ensure Win server 2012 R2 (Server1) is in memberserverOU  
 
-![image](../images/Pasted%20image%2020230719135806.png)
+![image](../images/Pasted%20image%2020230719135806.png)  
 
 <br>
 
@@ -25,9 +25,9 @@
 ## Configure "Specify Intranet Microsoft Update Service Location" policy as such under the same policy path to configure automatic updates policy  
 ## Port is 8530 NOT 8350
 
-![image](../images/Pasted%20image%2020230719134404.png)
+![image](../images/Pasted%20image%2020230719134404.png)  
 
-![image](../images/Pasted%20image%2020230719153003.png)
+![image](../images/Pasted%20image%2020230719153003.png)  
 
 <br>
 
@@ -37,20 +37,20 @@ Run "gpupdate /force" with administrator privileges to have the changes take eff
 
 "gpresult /r /v" with the admin privilege shell should now show the GPO taking effect on the Win server 2012 R2 (Server1)  
 
-![image](../images/Pasted%20image%2020230719135541.png)
+![image](../images/Pasted%20image%2020230719135541.png)  
 
 <br>
 
 ## Verification and there not being any updates on Win Server 2012 R2 (memSrv 1)
 
-![image](../images/Pasted%20image%2020230719153559.png)
+![image](../images/Pasted%20image%2020230719153559.png)  
 
 <br>
 
 ## Verifying that Win Server 2012 R2 (memsrv1) appears in WSUS on Server2 (WSUS server)
 ## Server Dashboard -> Tools -> Windows Server Update Services -> \[WSUS-Server2\] -> PCs -> All PCs -> Unassigned PCs (Change status to "Any" and click on refresh button)
 
-![image](../images/Pasted%20image%2020230719153945.png) 
+![image](../images/Pasted%20image%2020230719153945.png)  
 
 <br>
 
@@ -61,4 +61,4 @@ Run "gpupdate /force" with administrator privileges to have the changes take eff
 
 ![image](../images/Pasted%20image%2020230719183000.png)  
 
-![image](../images/Pasted%20image%2020230719183110.png)
+![image](../images/Pasted%20image%2020230719183110.png)  
