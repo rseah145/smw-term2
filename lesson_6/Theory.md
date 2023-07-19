@@ -18,7 +18,7 @@ Deploy and manage IPsec policies
 
 # Navigation  
 * [IPsec Security Issues and Concepts](#ipsec-security-issues-and-concepts)
-* [IPsec ]
+* [IPsec Implementation](#ipsec-implementation)
 
 <br>
 
@@ -89,3 +89,15 @@ Responsible for
 Phase 1 is required to support phase 2 operations, the 2 phases use different security and encryption schemes  
 
 The 2 phases use different DH (Diffie-Hellman) asymmetric key encryptions to exchange data between 2 communication parties  
+
+<br>
+
+## IPsec Implementation  
+
+Win Server 2016 supports implementation of IP security (IPsec)  
+
+When an IPsec communication begins between 2 PCs, the PCs 1st negotiate (using <b>IKE module</b>) and authenticate between the receiver and sender (Using <b>Microsoft AuthIP extension</b>)  
+
+Next, extra hashing scheme (<b>optional</b>) will help to ensure data integrity at packet header  
+
+Finally, data is encrypted with integrity check (<b>optional</b>) at the NIC of the sending PC as it is formatted into an IP packet  
