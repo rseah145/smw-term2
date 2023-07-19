@@ -144,4 +144,14 @@ Deploying IPsec can affect network performace and compatibility with other servi
 
 Do not deploy IPsec if the security it provides is not required  
 
-Applying IPsec or not is a critical decision to make by the network or security admins
+Applying IPsec or not is a critical decision to make by the network or security admins  
+
+<br>
+
+Impact of IPsec
+* Time needed to establish IPsec connection
+* Time needed to filter and encrypt packets  
+* Increased packet size  
+* Network inspection technologies used in routers, firewalls, <b>Intrusion Detection Systems (IDS) may not work on IPsec packets</b>  
+* App compatibility with other platforms  
+* Effect on AD and DC connections  
