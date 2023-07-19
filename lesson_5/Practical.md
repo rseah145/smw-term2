@@ -73,3 +73,9 @@ Run "gpupdate /force" with administrator privileges to have the changes take eff
 ## Any 2 updates for practical  
 
 ![image](../images/Pasted%20image%2020230719183741.png)
+
+<br>
+
+### Click on the button for a PC group and approve install  
+
+![image](../images/Pasted%20image%2020230719183841.png)
