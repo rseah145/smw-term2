@@ -215,3 +215,21 @@ Proper uses of IPsec
 
 The highlighted cases are suitable to be used within a LAN  
 
+In a simple network structure a <b>single IPsec policy</b> can be designed that may contain <b>multiple rules</b>, <b> One policy for all</b>  
+
+In a large environment, many different IPsec policies may be designed  
+
+Factors that can increase the numebr of policies required include  
+* PC Roles
+* Sensitivity of data traveling over the network  
+* PC OS
+* Domain relationships and memberships  
+* Number of apps requring IPsec
+
+<br>
+
+In Windows IPsec implementation, each Windows system can only be deployed with at most 1 IPsec policy  
+
+In the event that a system needs to host different apps with IPsec protections, an IPsec policy needs to be defined for this system with multiple rules  
+
+Each rule is to cater for 1 type of app  
