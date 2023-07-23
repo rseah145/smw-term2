@@ -312,4 +312,4 @@ Scenario A, Tunnel between router and Firewall so Alice can connect to HR server
 
 <br>
 
-Scenario B, Tunnel between VPN client on Alice's PC and IPsec gateway ()
+Scenario B, Tunnel between VPN client on Alice's PC and IPsec gateway (PC tunnel endpoint to edge router)
