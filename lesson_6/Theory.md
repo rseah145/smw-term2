@@ -377,3 +377,7 @@ Available Authentication Methods
 
 The authentication process is done using DH asymmetric key encryption for data exchange  
 
+<br>
+
+Kerberos V5 authentication
+* Default authentication method for Win server 2000 onwards
