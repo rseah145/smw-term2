@@ -555,3 +555,14 @@ Secure Server (Require Security)
 * Accepts initial inbound communication that's unsecured
 * Requires that all connections be secured
 
+<br>
+
+### Understanding IPsec Policy Precedence
+
+Possible to configure IPsec for multiple containers that will affect a PC  
+
+Only 1 IPsec policy can be assigned to a PC at a time  
+
+If there are multiple IPsec policies assigned at different levels, the last 1 takes effect  
+
+Precedence sequence (From lowest to highest): Local GPO, Site, Domain, OU)
