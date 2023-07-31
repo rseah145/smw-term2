@@ -380,4 +380,10 @@ The authentication process is done using DH asymmetric key encryption for data e
 <br>
 
 Kerberos V5 authentication
-* Default authentication method for Win server 2000 onwards
+* Default authentication method from Win server 2000 - present
+* Based on mutual authentication
+* <b>Use when all clients can authenticate using Kerberos V5</b>
+* A method <b>that requires the least administrative effort</b>
+
+<br>
+
