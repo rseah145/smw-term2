@@ -427,3 +427,34 @@ Pre-shared Key is usually for testing, short term ad-hoc solution. As the common
 Kerberos is the best for domain based systems  
 Certs are ideal for non-domain based (or mixed) systems  
 
+<br>
+
+### Filter Action
+
+Filter Action will only trigger when the incoming or outgoing connections match the filter  
+
+<br>
+
+Available types of actions are
+* Permit
+* Block
+* Negotiate Security
+
+<br>
+
+Negotiate security is done at Phase 2 of IKE  
+
+<br>
+
+### Encryption Levels
+
+2 basic categories of encryption. Symmetric key and Public key encryption  
+
+Lifetime settings determine when a new key is generated  
+
+In most IPsec implementations, packet level encryptions will be based on symmetric key encryptions  
+
+E.g. 3DES and AES, older systems may use DES  
+
+During IKE phase 2, both parties will try to negotiate for a commonly available encryption scheme. Once determined, the filter action will based on it to encrypt the data packets  
+
