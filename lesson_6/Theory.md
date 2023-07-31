@@ -491,5 +491,5 @@ Image reference
 
 Tunnel mode uses double encapsulation, which is suitable for protecting traffic between network systems, such as an untrusted medium like the Internet
 * AH Tunnel Mode: Encapsulates an IP packet by placing an AH header between internal IP header and external IP header  
-* ESP Tunnel Mode: IP packet is first encapsulated with an ESP header
+* ESP Tunnel Mode: IP packet is first encapsulated with an ESP header, then the result is encapsulated with an additional IP header
 
