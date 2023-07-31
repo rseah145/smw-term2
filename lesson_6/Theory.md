@@ -421,3 +421,6 @@ IPsec authentication specifies how PCs will prove their identities to each other
 | Communication outside the domain or across the Internet where Kerberos V5 is not available but CA access is  | Public Key certificate |
 | Communication with PCs that neither support Kerberos V5 nor have access to a CA | Pre-shared key |
 
+<br>
+
+Pre-shared Key is usually for testing, short term ad-hoc solution. As the common to all pre-shared key is difficult to be maintained and secured
