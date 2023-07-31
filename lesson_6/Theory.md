@@ -510,4 +510,5 @@ First and Bottom 2 security methods do not apply ESP
 How it works  
 ![image](../images/Pasted%20image%2020230731211422.png)  
 
-With SA
+With SA  
+![image](../images/Pasted%20image%2020230731211503.png)
