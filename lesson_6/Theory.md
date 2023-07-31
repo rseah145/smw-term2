@@ -354,3 +354,4 @@ Filter action is set for each type of traffic as identified by a filter list (Wi
 
 Admin may construct/ customise filter (rule) actions  
 
+IPsec filter actions will trigger if the traffic matches the filter
