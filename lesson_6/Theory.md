@@ -463,4 +463,10 @@ During IKE phase 2, both parties will try to negotiate for a commonly available 
 Methods of <u>hashing</u>
 * Secure Hash Algorithm (SHA): <b>160-bit</b> encryption key, high security method
 * Message Digest 5 (MD5): <b>128-bit</b> encryption key, lower performance than SHA  
-* 
+* Hashing method is used to support AH (Authentication Traffic)  
+
+<br>
+
+Methods of <u>encryption</u>
+* Data encrypion standard (DES): <b>56-bit</b> key, low security
+* Triple DES (3DES): <b>15
