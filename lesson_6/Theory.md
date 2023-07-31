@@ -569,3 +569,12 @@ Precedence sequence (From lowest to highest): Local GPO, Site, Domain, OU)
 
 Default order can be overridden using Enforced, Block Policy Inheritance  
 
+<br>
+
+When troubleshooting IPsec policies and their precedence, list of items to remember
+* Only a single IPsec policy can be assigned at a specific level in AD  
+* An IPsec policy assigned to an OU takes precedence over a domain-level policy for members of that OU  
+* IPsec policies from different OUs are never merged  
+
+
+
