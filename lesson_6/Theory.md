@@ -512,3 +512,6 @@ How it works
 
 With SA  
 ![image](../images/Pasted%20image%2020230731211503.png)
+
+<br>
+
