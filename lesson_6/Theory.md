@@ -359,3 +359,5 @@ Admin may construct/ customise filter (rule) actions
 IPsec policy can be managed in 1 of 2 ways (either create the policy or filter list first)
 * Create a new policy and define the set of rules for the policy, adding filter lists and filter actions as required
 * First create the set of filter lists and filter actions, then create the policies and add rules that combine the filter lists with filter actions
+
+<br>
