@@ -423,4 +423,4 @@ IPsec authentication specifies how PCs will prove their identities to each other
 
 <br>
 
-Pre-shared Key is usually for testing, short term ad-hoc solution. As the common to all pre-shared key is difficult to be maintained and secured
+Pre-shared Key is usually for testing, short term ad-hoc solution. As the common downside to all pre-shared key schemes is difficult to be maintained and secured
