@@ -332,4 +332,4 @@ Scenario D, Transport mode (A-C use Tunnel) between Alice's PC logging in to the
 
 ### IPsec Filters
 
-IPsec filter 
+IPsec filter is a specification in the IPsec rule that's used to match IP packets, filters are grouped together in a system wide Filter List
