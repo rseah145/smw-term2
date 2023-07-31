@@ -537,5 +537,18 @@ Factors to consider when selecting GPOs for IPsec policy assignment
 
 <br>
 
+### Understanding Default IPsec Policies
+
+Client (Respond Only) will secure communication only if the other PC requests for it  
+
+<br>
+
+Server (Request Security)
+* Accepts initial incoming communication that is unsecured
+* Requests for communication to be secured
+* Will carry on with unsecured connection if client does not support
+
+<br>
+
 
 
