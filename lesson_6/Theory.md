@@ -398,3 +398,13 @@ Pre-shared Key authentication
 * It is a shared secret key (E.g. string to configure a pre-shared key)
 
 <br>
+
+Choosing an IPsec Authentication Method
+* More than 1 can be selected
+* With designated priority level
+* IKE - Phase 1, will sort out if 2 parties share 1 common authentication method
+
+<br>
+
+If1 endpoint supports both Pre-shared Key and Certificates authentication, whilst the other endpoint only supports Kerberos authentication, they will not be able to establish an IPsec channel  
+
