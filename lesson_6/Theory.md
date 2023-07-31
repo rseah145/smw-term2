@@ -362,4 +362,17 @@ IPsec policy can be managed in 1 of 2 ways (either create the policy or filter l
 
 <br>
 
-##
+### Planning Authentication Methods for IPsec
+
+If the connection matches the Filter IKE (phase 1) will be invoked for initial authentication  
+
+<br>
+
+Available Authentication Methods  
+1. Kerberos V5
+2. Certificates, requires PKI (Public Key Infrastructure)
+3. Pre-shared Key
+
+<br>
+
+The authentication process is done using DH asymmetric key encryption for data exchange
