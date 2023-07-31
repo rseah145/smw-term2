@@ -334,4 +334,16 @@ Scenario D, Transport mode (A-C use Tunnel) between Alice's PC logging in to the
 
 IPsec filter is a specification in the IPsec rule that's used to match IP packets, filters are grouped together in a system wide Filter List  
 
-In the IPsec rule properties setting
+In the IPsec rule properties setting, the system wide filter list will be available for the choice of the filter  
+
+Packets which match a filter will be applied with the associated filter actions such as permit, block, or negotiate security  
+
+<br>
+
+Cavets  
+* <b>A system configured with IPsec may not apply the expected security scheme cause the fitler is set wrongly</b>
+* <b>When the network traffic does not match the IPsec, it will not be blocked, but it will just pass through</b>  
+
+<br>
+
+IPsec filter is the other important element associated with an IPsec rule.  Compared with firewall filters, when incoming traffic is not matched with a firewall rule, traffic is blocked (implicit deny). For IPsec filter rules, if the traffic does not match any IPsec rule, IPsec will not do anything against the traffic (just let it through, no implicit deny)
