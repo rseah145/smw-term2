@@ -479,4 +479,6 @@ Methods of <u>encryption</u>
 ### IPsec Protocols
 
 | Requirement | Protocol | Solution |
-|
+| :--------- | :--------- | :--------- |
+| The data and the header need to be authenticated and protected from modification, but remain readable | AH | Used in situations where data is not confidential but must be authenticated, or where network intrusion detection or firewall filtering requires traffic inspection |
+| Only data needs to be protected so it is unreadable, but the IP addressing can be left unprotected | ESP | Used when data must be kept confidential, such as file sharing, database traffic, or internal Web apps that have not been  
