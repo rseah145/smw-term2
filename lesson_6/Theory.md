@@ -354,3 +354,8 @@ Filter action is set for each type of traffic as identified by a filter list (Wi
 
 Admin may construct/ customise filter (rule) actions  
 
+<br>
+
+IPsec policy can be managed in 1 of 2 ways
+* Create a new policy and define the set of rules for the policy, adding filter lists and filter actions as required
+* First create the set of filter lists
