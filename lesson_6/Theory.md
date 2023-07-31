@@ -415,3 +415,9 @@ If1 endpoint supports both Pre-shared Key and Certificates authentication, whils
 
 IPsec authentication specifies how PCs will prove their identities to each other when establishing a SA (Security Association)  
 
+| Security Requirement | Authentication Method|
+| :---------| :---------|
+| Attacks using specific protocols or Denial of Service attacks | Use IPsec traffic blocking, packet filtering, or policy filter lists allowing only traffic from trusted sources over specified protocols to specific addresses and ports. |
+|  Eavesdropping or sniffing | Use the Encapsulating Security Payload (ESP) protocol to encrypt data with Triple Data Encryption Standard (3DES) or Data Encryption Standard (DES). |
+| Identity spoofing | Use Kerberos, public key certificates, or preshared key authentication to verify the identity of PC. |
+| Modification of data | Use a cryptographic checksum that incorporates a secret key to provide data integrity. |
