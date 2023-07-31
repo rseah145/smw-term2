@@ -565,4 +565,7 @@ Only 1 IPsec policy can be assigned to a PC at a time
 
 If there are multiple IPsec policies assigned at different levels, the last 1 takes effect  
 
-Precedence sequence (From lowest to highest): Local GPO, Site, Domain, OU)
+Precedence sequence (From lowest to highest): Local GPO, Site, Domain, OU)  
+
+Default order can be overridden using Enforced, Block Policy Inheritance  
+
