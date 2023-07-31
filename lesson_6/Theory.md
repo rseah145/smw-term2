@@ -575,7 +575,14 @@ When troubleshooting IPsec policies and their precedence, list of items to remem
 * Only a single IPsec policy can be assigned at a specific level in AD  
 * An IPsec policy assigned to an OU takes precedence over a domain-level policy for members of that OU  
 * IPsec policies from different OUs are never merged  
-* An OU inherits the policy of its parent OU unless the policy inheritance is explicity blocked or a separate policy is explicitly assigned to that OU
+* An OU inherits the policy of its parent OU unless the policy inheritance is explicity blocked or a separate policy is explicitly assigned to that OU  
+* Before assigning an IPsec policy to a GPO, verify the group policy settings that are required for the IPsec policy
+* Use the Enforced and Block Policy Inheritance features carefully
+
+<br>
+
+
+
 
 
 
