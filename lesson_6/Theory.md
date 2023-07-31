@@ -494,5 +494,7 @@ Tunnel mode uses double encapsulation, which is suitable for protecting traffic 
 * ESP Tunnel Mode: IP packet is first encapsulated with an ESP header, then the result is encapsulated with an additional IP header  
 
 Image references  
-![image](../images/Pasted%20image%2020230731211034.png)
+![image](../images/Pasted%20image%2020230731211034.png)  
+
+![image](../images/Pasted%20image%2020230731211110.png)
 
