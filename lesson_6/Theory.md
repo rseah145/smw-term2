@@ -420,3 +420,4 @@ IPsec authentication specifies how PCs will prove their identities to each other
 | Communication within a Win 2000 or Server 2003 domain or between trusted Win 2000 or server 2003 domains | Kerberos V5 |
 | Communication outside the domain or across the Internet where Kerberos V5 is not available but CA access is  | Public Key certificate |
 | Communication with PCs that neither support Kerberos V5 nor have access to a CA | Pre-shared key |
+
