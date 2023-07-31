@@ -348,5 +348,9 @@ Cavets
 
 IPsec filter is the other important element associated with an IPsec rule.  Compared with firewall filters, when incoming traffic is not matched with a firewall rule, traffic is blocked (implicit deny). For IPsec filter rules, if the traffic does not match any IPsec rule, IPsec will not do anything against the traffic (just let it through, no implicit deny)  
 
-Filter list identifies traffic based on its source, destination, and protocol. Examples use Win2k3, Win2k8  
-* 
+Filter list identifies traffic based on its source, destination, and protocol. Examples use Win2k3, Win2k8 are All ICMP Traffic and All IP Traffic  
+
+Filter action is set for each type of traffic as identified by a filter list (Win Server since 2k3), Permit. Request Security, Require Security  
+
+Admin may construct/ customise filter (rule) actions  
+
