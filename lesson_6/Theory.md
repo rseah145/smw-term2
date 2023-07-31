@@ -423,4 +423,7 @@ IPsec authentication specifies how PCs will prove their identities to each other
 
 <br>
 
-Pre-shared Key is usually for testing, short term ad-hoc solution. As the common downside to all pre-shared key schemes is difficult to be maintained and secured
+Pre-shared Key is usually for testing, short term ad-hoc solution. As the common downside to all pre-shared key schemes is its difficult to maintain and secure  
+Kerberos is the best for domain based systems  
+Certs are ideal for non-domain based (or mixed) systems  
+
