@@ -395,4 +395,6 @@ Certificates authentication
 
 Pre-shared Key authentication
 * Used when other methods are not available
-* It is a shared secret key
+* It is a shared secret key (E.g. string to configure a pre-shared key)
+
+<br>
