@@ -531,6 +531,11 @@ Factors to consider when selecting GPOs for IPsec policy assignment
 * Persistent IPsec policy has the highest precedence of all, even though it's stored on the local PC, Persistent IPsec policy is effective even other policies cannot be applied  
 * IPsec policies from different OUs are never merged  
 * For domain-based IPsec policy, limit the number of rules to 10 or less  
+* Create and apply an IPsec policy at the domain level to provide a baseline of IPsec protection
+* Use the Export and Import Policies commands in the IP Security Policy Management console to backup and restore the IPsec policy objects
+* Be sure to adequately test the impact of new IPsec policies before assigning them in the domain  
 
 <br>
+
+
 
