@@ -418,6 +418,6 @@ IPsec authentication specifies how PCs will prove their identities to each other
 | Security Requirement | Authentication Method|
 | :---------| :---------|
 | Communication within a Win 2000 or Server 2003 domain or between trusted Win 2000 or server 2003 domains | Kerberos V5 |
-| Communication outside the domain or across the Internet where Kerberos V5 is not available but CA access is  | s
+| Communication outside the domain or across the Internet where Kerberos V5 is not available but CA access is  |
 | Identity spoofing | Use Kerberos, public key certificates, or preshared key authentication to verify the identity of PC. |
 | Modification of data | Use a cryptographic checksum that incorporates a secret key to provide data integrity. |
