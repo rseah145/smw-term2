@@ -484,5 +484,10 @@ Methods of <u>encryption</u>
 | Only data needs to be protected so it is unreadable, but the IP addressing can be left unprotected | ESP | Used when data must be kept confidential, such as file sharing, database traffic, or internal Web apps that have not been secured properly |
 | Both the header and data need to be protected while data is encrypted | Both AH and ESP | Used for highest security. If possible, use ESP alone instead |
 
+Image reference  
+![image](../images/Pasted%20image%2020230731210701.png)
+
 <br>
+
+
 
