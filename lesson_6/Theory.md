@@ -324,4 +324,4 @@ Scenario C, Tunnel between router and IPsec software running on HR Server where 
 
 <br>
 
-Scenario D, Transport mode (A-C use Tunnel) between Alice's PC logging in to the Firewall to configure it (client to server).
+Scenario D, Transport mode (A-C use Tunnel) between Alice's PC logging in to the Firewall to configure it (client to server). Alice's PC connects to the office firewall with a VPN connection, therefore Alice's PC can use IPsec in transport mode to establish a secured communication channel between the PC and the HR server. However, if the VPN is already providing secured communication, IPsec protection might be redundant
