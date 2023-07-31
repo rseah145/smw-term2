@@ -551,5 +551,7 @@ Server (Request Security)
 
 <br>
 
-
+Secure Server (Require Security)
+* Accepts initial inbound communication that's unsecured
+* Requires that all connections be secured
 
