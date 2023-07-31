@@ -458,3 +458,9 @@ E.g. 3DES and AES, older systems may use DES
 
 During IKE phase 2, both parties will try to negotiate for a commonly available encryption scheme. Once determined, the filter action will based on it to encrypt the data packets  
 
+<br>
+
+Methods of <u>hashing</u>
+* Secure Hash Algorithm (SHA): <b>160-bit</b> encryption key, high security method
+* Message Digest 5 (MD5): <b>128-bit</b> encryption key, lower performance than SHA  
+* 
