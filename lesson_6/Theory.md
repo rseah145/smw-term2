@@ -498,3 +498,5 @@ Image references
 
 ![image](../images/Pasted%20image%2020230731211110.png)  
 
+First and Bottom 2 security methods do not apply ESP  
+![image](../images/Pasted%20image%2020230731211317.png)
