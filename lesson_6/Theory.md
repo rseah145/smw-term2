@@ -581,7 +581,24 @@ When troubleshooting IPsec policies and their precedence, list of items to remem
 
 <br>
 
+Procedure for deleting policy objects
+* <b>Unassign</b> the IPsec policy in the GPO  
+* Wait 24 hrs to ensure that the cchange is propagated  
+* Delete the GPO  
 
+<br>
+
+<b>Persistent Policy</b> provides max. protection against attacks during PC startup
+* Adds to or overrides local or AD policy  
+* Remains in effect regardless of whether other policies are applied   
+* Provides backup security in-case IPsec policcy gets corrupted or if errors occur  
+* Can be set using command line tools - netsh at the local PC
+
+<br>
+
+Persistent IPsec policy AKA 'STATIC' IPsec policy. They are configured using "netsh" commands (or scripts)  
+While the GPO associated IPsec takes time to be in effect after a system reboot.  
+Persistent IPsec policy provides the 1st line of defence right after a system is powered on.
 
 
 
