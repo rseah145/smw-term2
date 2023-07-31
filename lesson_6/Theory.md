@@ -20,6 +20,7 @@ Deploy and manage IPsec policies
 * [IPsec Security Issues and Concepts](#ipsec-security-issues-and-concepts)  
 * [IPsec Implementation](#ipsec-implementation)  
 * [Planning an IPsec Deployment](#planning-an-ipsec-deployment)  
+* [Configuring IPsec Policies Between Networks and Hosts](#configuring-ipsec-policies-between-networks-and-hosts)
 
 <br>
 
@@ -411,3 +412,6 @@ If1 endpoint supports both Pre-shared Key and Certificates authentication, whils
 <br>
 
 ## Configuring IPsec Policies Between Networks and Hosts
+
+IPsec authentication specifies how PCs will prove their identities to each other when establishing a SA (Security Association)  
+
