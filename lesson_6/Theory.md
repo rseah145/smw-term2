@@ -321,3 +321,7 @@ Scenario B, Tunnel between VPN client on Alice's PC and IPsec gateway (PC tunnel
 Scenario C, Tunnel between router and IPsec software running on HR Server where tunnel endpoints are the router (Alice PC's router) and the HR server. Difference between this and Scenario B is Only traffic forwarded from the router to the HR server is protected by the IPsec tunnel
 
 ![image](../images/Pasted%20image%2020230731202051.png)
+
+<br>
+
+Scenario D, 
