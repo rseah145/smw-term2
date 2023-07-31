@@ -324,4 +324,4 @@ Scenario C, Tunnel between router and IPsec software running on HR Server where 
 
 <br>
 
-Scenario D, 
+Scenario D, Transport mode (A-C use Tunnel) between Alice's PC 
