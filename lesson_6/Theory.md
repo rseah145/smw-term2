@@ -537,7 +537,7 @@ Factors to consider when selecting GPOs for IPsec policy assignment
 
 <br>
 
-### Understanding Default IPsec Policies
+## Understanding Default IPsec Policies
 
 Client (Respond Only) will secure communication only if the other PC requests for it  
 
