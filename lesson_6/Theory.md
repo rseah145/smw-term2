@@ -523,3 +523,14 @@ IPsec policies can be deployed using
 * Group Policy Objects: IPsec Policy is propagated to any PC account that's affected by the GPO  
 * Command-line tools: "netsh" IPsec command in Win Server 2003/2008  
 * From Win Server 2016, IPsec configurations can be done via Windows Defender Firewall Advanced Security Settings (WFAS)
+
+<br>
+
+Factors to consider when selecting GPOs for IPsec policy assignment
+* Assignment precedence for IPsec policies, from lowest to highest is: local, site, domain, and OU
+* Persistent IPsec policy has the highest precedence of all, even though it's stored on the local PC, Persistent IPsec policy is effective even other policies cannot be applied  
+* IPsec policies from different OUs are never merged  
+* For domain-based IPsec policy, limit the number of rules to 10 or less  
+
+<br>
+
