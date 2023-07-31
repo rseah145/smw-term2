@@ -477,3 +477,6 @@ Methods of <u>encryption</u>
 <br>
 
 ### IPsec Protocols
+
+| Requirement | Protocol | Solution |
+|
