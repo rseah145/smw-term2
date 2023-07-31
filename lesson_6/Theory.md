@@ -489,5 +489,6 @@ Image reference
 
 <br>
 
-
+Tunnel mode uses double encapsulation, which is suitable for protecting traffic between network systems, such as an untrusted medium like the Internet
+* 
 
