@@ -341,7 +341,7 @@ Packets which match a filter will be applied with the associated filter actions 
 <br>
 
 Cavets  
-* <b>A system configured with IPsec may not apply the expected security scheme cause the fitler is set wrongly</b>
+* <b>A system configured with IPsec may not apply the expected security scheme cause the filter is set wrongly</b>
 * <b>When the network traffic does not match the IPsec, it will not be blocked, but it will just pass through</b>  
 
 <br>
