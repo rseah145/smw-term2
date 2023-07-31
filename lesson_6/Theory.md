@@ -496,5 +496,5 @@ Tunnel mode uses double encapsulation, which is suitable for protecting traffic 
 Image references  
 ![image](../images/Pasted%20image%2020230731211034.png)  
 
-![image](../images/Pasted%20image%2020230731211110.png)
+![image](../images/Pasted%20image%2020230731211110.png)  
 
