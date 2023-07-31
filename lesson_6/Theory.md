@@ -469,4 +469,5 @@ Methods of <u>hashing</u>
 
 Methods of <u>encryption</u>
 * Data encrypion standard (DES): <b>56-bit</b> key, low security
-* Triple DES (3DES): <b>15
+* Triple DES (3DES): <b>168-bit</b>, medium-high security  
+* Encryption method is used to support ESP (Encapsulating Security Payload Traffic)
