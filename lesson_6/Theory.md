@@ -598,8 +598,10 @@ Procedure for deleting policy objects
 
 Persistent IPsec policy AKA 'STATIC' IPsec policy. They are configured using "netsh" commands (or scripts)  
 While the GPO associated IPsec takes time to be in effect after a system reboot.  
-Persistent IPsec policy provides the 1st line of defence right after a system is powered on.
+Persistent IPsec policy provides the 1st line of defence right after a system is powered on.  
 
+<br>
 
-
+netsh dynamic commands  
+![image](../images/Pasted%20image%2020230731213549.png)
 
