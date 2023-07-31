@@ -508,4 +508,6 @@ First and Bottom 2 security methods do not apply ESP
 ### IPsec White Paper
 
 How it works  
-![image](../images/Pasted%20image%2020230731211422.png)
+![image](../images/Pasted%20image%2020230731211422.png)  
+
+With SA
