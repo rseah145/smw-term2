@@ -387,3 +387,12 @@ Kerberos V5 authentication
 
 <br>
 
+Certificates authentication
+* A method of granting access to users based on their unique ID
+* Used in situations that include access to corporate resources, external business partner communication, or PCs that do not run Kerberos V5
+
+<br>
+
+Pre-shared Key authentication
+* Used when other methods are not available
+* It is a shared secret key
