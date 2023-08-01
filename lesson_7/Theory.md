@@ -37,6 +37,10 @@ Certificates allow users or systems to prove to others that they aare who they s
 
 Before you can use digital certificates, you need to design a <b>Public Key Infrastructure (PKI)</b>  
 
+<br>
+
+<b>To protect
+
 ## Selecting a Certificate Enrollment and Renewal Method  
 
 ## Configuration of the Web Server for SSL Certificates  
