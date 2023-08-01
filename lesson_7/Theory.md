@@ -30,4 +30,4 @@ Determine certificate renewal
 
 ## Configuration of the Web Server for SSL Certificates  
 
-##
+## Certificate Renewal
