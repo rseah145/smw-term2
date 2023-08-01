@@ -30,4 +30,6 @@ Determine certificate renewal
 
 ## Configuration of the Web Server for SSL Certificates  
 
+## Configuration of the Client for SSL Certificates
+
 ## Certificate Renewal
