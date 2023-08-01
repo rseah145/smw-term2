@@ -22,6 +22,8 @@ Determine certificate renewal
 
 # Navigation  
 
+* [Defining Certificate Requirements](#defining-certificate-requirements)  
+* 
 
 ## Defining Certificate Requirements  
 
