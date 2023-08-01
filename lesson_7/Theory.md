@@ -23,7 +23,7 @@ Determine certificate renewal
 # Navigation  
 
 * [Defining Certificate Requirements](#defining-certificate-requirements)  
-* []
+* [Selecting a Certificate Enrollment and Renewal Method](#selecting-a-certificate-enrollment-and-renewal-method)
 
 ## Defining Certificate Requirements  
 
