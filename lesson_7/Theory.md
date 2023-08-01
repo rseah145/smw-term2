@@ -27,7 +27,7 @@ Determine certificate renewal
 
 ## Defining Certificate Requirements  
 
-## 
+## Selecting a Certificate Enrollment and Renewal Method  
 
 ## Configuration of the Web Server for SSL Certificates  
 
