@@ -26,6 +26,7 @@ Determine certificate renewal
 * [Selecting a Certificate Enrollment and Renewal Method](#selecting-a-certificate-enrollment-and-renewal-method)
 * [Configuration of the Web Server for SSL Certificates](#configuration-of-the-web-server-for-ssl-certificates)
 * [Configuration of the Client for SSL Certificates](#configuration-of-the-client-for-ssl-certificates)
+* [Certificate Renewal](#certificate-renewal)
 
 ## Defining Certificate Requirements  
 
