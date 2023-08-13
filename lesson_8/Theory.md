@@ -1,1 +1,1 @@
-# Note: There's no prac
+# Note: There's no practical for lesson 8
