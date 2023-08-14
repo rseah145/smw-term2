@@ -132,10 +132,10 @@ Before Windows NT
 LANMAN challenge/response  
 * Hash challenge, similar to CHAP  
 * Somewhat insecure  
-All uppercase ASCII  
-Password is 14-characters max  
-Passwords over 7 characters are split and encrypted separately  
-Passwords are not salted  
+* All uppercase ASCII  
+* Password is 14-characters max  
+* Passwords over 7 characters are split and encrypted separately  
+* Passwords are not salted  
 
 <br>
 
@@ -146,17 +146,20 @@ NT LAN Manager/ NTLMv1
 <br>
 
 * Used in early versions of Windows NT  
-Password is Unicode  
-Up to 127 characters long  
-Stored as a 128-bit MD4 hash, instead of DES in LANMAN  
+* Password is Unicode  
+* Up to 127 characters long  
+* Stored as a 128-bit MD4 hash, instead of DES in LANMAN  
 
 <br>
 
 NTLMv2
-* Came out with Windows NT SP4 (Service Pack 4)  
-* New password response  
-MD4 password hash (same as NTLMv1)  
-HMAC-MD5 hash of username and server name  
-Variable-length challenge of timestamp, random data, domain name  
+Came out with Windows NT SP4 (Service Pack 4)  
+
+<br>
+
+New password response  
+* MD4 password hash (same as NTLMv1)  
+* HMAC-MD5 hash of username and server name  
+* Variable-length challenge of timestamp, random data, domain name  
 
 <br>
