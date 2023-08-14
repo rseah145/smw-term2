@@ -273,4 +273,6 @@ Overview of "principal", "client/user", and "service" within Kerberos Realm
 
 #### KDC
 
-Supplies tickets and generates temporary session keys that allow a user to securely authenticate to a service
+Supplies tickets and generates temporary session keys that allow a user to securely authenticate to a service  
+
+KDC stores all secret symmetrical keys for 
