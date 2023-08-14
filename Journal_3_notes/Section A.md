@@ -6,6 +6,7 @@
 * [LM Theory](#lm-theory)
 * [NTLM Theory](#ntlm-theory)
 * [NTLM Authentication](#ntlm-authentication)
+* [Kerberos deep dive theory](#kerberos-deep-dive-theory)
 
 <br>
 
@@ -243,4 +244,8 @@ Client and Server can mutually authenticate each other
 
 Many orgs use it as basis for single sign on (SSO)  
 
-### Kerberos deep dive theory
+### Kerberos deep dive theory  
+
+#### Terminology
+
+Kerberos Realm, 
