@@ -10,3 +10,8 @@ Native authentication protocol in Active Directory, used by Windows networks eve
 
 Client takes on most of the processing burden in Kerberos.  
 
+<br>
+
+## Kerberos Authentication Process
+
+1. Client
