@@ -246,6 +246,6 @@ Many orgs use it as basis for single sign on (SSO)
 
 ### Kerberos deep dive theory  
 
-#### Terminology
+#### Kerberos Realm
 
 "Kerberos Realm" is the domain, the group of systems over which Kerberos has the authority to authenticate a user to a service
