@@ -233,4 +233,5 @@ V2 came with NT SP4
 
 <br>
 
-## Notes from video 5 []
+## Notes from video 5 ["Kerberos Authentication Explained | A deep dive"](https://www.youtube.com/watch?v=5N242XcKAsM)  
+
