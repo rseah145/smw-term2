@@ -180,3 +180,4 @@ NTLM vulnerable to a credentials forwarding attack (Look up "Pass-the-hash")
 
 <br>
 
+## Notes from video 4 []
