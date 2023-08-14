@@ -98,7 +98,7 @@ For Windows 7 and newer, use klist.exe (Does not require special privileges to r
 ### klist.exe goto commands  
 
 #### Help menu  
-klist.exe -?  
+klist -?  
 
-#### Show Ticket Granting Ticket (TGT) info that the KDC has issued to the account
-klist
+#### Show Ticket Granting Ticket (TGT) info that the KDC has issued to the account (Pipe into more for viewing each line, line-by-line is optional)
+klist tgt | more
