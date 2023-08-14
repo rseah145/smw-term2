@@ -220,4 +220,5 @@ V2 came with NT SP4
 ![image](../images/Pasted%20image%2020230814144016.png)  
 
 3. Client sends a login request to the DC, as the PC has joined the domain, the DC knows the hash value associated to the login name (username) (DC knows all hash values associated to each domain user)  
-![image](../images/Pasted%20image%2020230814144302.png)    
+![image](../images/Pasted%20image%2020230814144302.png)  
+
