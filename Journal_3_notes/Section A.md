@@ -83,3 +83,5 @@ Note that the Domain Controller/ KDC will have all domain members logon password
 <br>
 
 The reason that the client needs to send/resend a copy of their file server ticket each time they want to access the file server is so that the file server does not need to store each user's/client's ticket in-memory. Because the file server works with many users, if it had to keep each user's/client's tickets it would be a pain to manage.  
+
+kerbtray.exe can be used to view
