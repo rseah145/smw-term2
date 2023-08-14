@@ -25,4 +25,6 @@ Kerberos does not transmit user's passwords across the network, it uses them as 
 
 3. (Failed to authenticate) If the client's authenticator can't be decrypted it means that the authenticator sent by the client was encrypted with a password that the KDC does not know about, meaning it fails to authenticate due to the user supplying an invalid password.  
 
-4. (Successful authentication) If the client's authenticator can be decrypted it means that the authenticator sent by the client was encrypted using the same password that is stored within the KDC database, which 
+3. (Successful authentication) If the client's authenticator can be decrypted it means that the authenticator sent by the client was encrypted using the same password that is stored within the KDC database, which authenticates the user.  
+
+4. 
