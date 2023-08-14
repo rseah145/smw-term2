@@ -175,5 +175,5 @@ Some Windows password databases contain LM hash versions of the passwords
 
 <br>
 
-NTLM vulnerable to a credentials forwarding attack (Look up "Pass-the-hash" pivoting)  
+NTLM vulnerable to a credentials forwarding attack (Look up "Pass-the-hash")  
 * Use credentials of 1 PC to gain access to another
