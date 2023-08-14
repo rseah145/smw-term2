@@ -53,4 +53,4 @@ Kerberos does not transmit user's passwords across the network, it uses them as 
 
 <br>
 
-2. 
+2. PC looks at the Kerberos Tray and does not find a ticket for the File Server
