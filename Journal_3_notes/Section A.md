@@ -187,6 +187,8 @@ NTLM vulnerable to a credentials forwarding attack (Look up "Pass-the-hash")
 
 Proprietary to Microsoft.  
 
+#### When it is used
+
 <br>
 
 NTLM is used when
@@ -197,4 +199,6 @@ NTLM is used when
 
 <br>
 
-#### 
+#### How it is used
+
+Challenge response algorithm
