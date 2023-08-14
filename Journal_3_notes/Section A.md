@@ -92,6 +92,6 @@ kerbtray.exe can be downloaded and used to view all of the tickets within the Ke
 
 For Windows XP, use kerbtray.exe (sits in the system tray, bottom right corner)  
 
-For Windows 7 and newer, use klist.exe  
+For Windows 7 and newer, use klist.exe (Does not require special privileges to run)  
 
 ### klist.exe 
