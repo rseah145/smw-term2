@@ -49,3 +49,4 @@ Kerberos does not transmit user's passwords across the network, it uses them as 
 
 ### Accessing file servers after authentication  
 
+1. 
