@@ -20,7 +20,7 @@ Kerberos does not transmit user's passwords across the network, it uses them as 
 
 Ticket Granting Tickets (TGTs) are usually usable for 8 hours by default. After the ticket expires, it will have to be destroyed and renewed so the KDC can re-validate a user from time to time.  
 
-Note that the Domain Controller/ KDC will have all domain member/
+Note that the Domain Controller/ KDC will have all domain members logon passwords, which is why Kerberos tickets can be encrypted/decrypted using a shared secret (passwords).  
 
 <br>
 
