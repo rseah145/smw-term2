@@ -243,3 +243,4 @@ Client and Server can mutually authenticate each other
 
 Many orgs use it as basis for single sign on (SSO)  
 
+### Kerberos deep dive theory
