@@ -268,3 +268,5 @@ Service is a resource provided to a client (e.g. a file server or an app that a 
 
 Overview of "principal", "client/user", and "service" within Kerberos Realm  
 ![image](../images/Pasted%20image%2020230814151343.png)  
+
+#### KDC
