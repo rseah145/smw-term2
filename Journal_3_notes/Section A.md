@@ -236,6 +236,8 @@ V2 came with NT SP4
 
 ## Notes from video 5 ["Kerberos Authentication Explained | A deep dive"](https://www.youtube.com/watch?v=5N242XcKAsM)  
 
+STOPPED 
+
 More of an add-on to theory for video 1
 
 Passwords are never sent across the network  
@@ -320,4 +322,4 @@ Overview with KDC, the 2 servers, and messages
 7. Service does its own decryption, validation, and creates its own final authenticatior message. The final authenticator message is sent back to the user  
 ![image](../images/Pasted%20image%2020230814154406.png)  
 
-All of these messages allow the user and the server to mutually authenticate each other and securely distribute a symmetric service session key, which allows the user and the service to communicate authentication info securely.  
+All of these messages allow the user and the server to mutually authenticate each other and securely distribute a symmetric service session key, which allows the user and the service to communicate authentication info securely.  (Up to 5:00 of the video)
