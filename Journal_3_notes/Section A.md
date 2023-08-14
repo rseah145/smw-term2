@@ -119,7 +119,7 @@ Access a domain resource (e.g. file server/ remote server share) after purging t
 
 ## Notes from video 3 ["NTLM - CompTIA Security+ SY0-401: 6.2 by Professor Messer"](#https://www.youtube.com/watch?v=oWaI5-pgthI)  
 
-### NTLM Theory
+### NTLM Theory  
 
 LAN Manager (LANMAN), Microsoft and 3Com Network OS  
 
