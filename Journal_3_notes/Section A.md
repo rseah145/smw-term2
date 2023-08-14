@@ -219,4 +219,5 @@ V2 came with NT SP4
 2. Windows OS takes the password entered and runs it through a hash algorithm to generate a hash for the password entered  
 ![image](../images/Pasted%20image%2020230814144016.png)  
 
-3. Client sends a login request to the DC, as the PC has joined the domain, the DC knows the hash value associated to the login name (username) (DC knows all hash values associated to each domain user)
+3. Client sends a login request to the DC, as the PC has joined the domain, the DC knows the hash value associated to the login name (username) (DC knows all hash values associated to each domain user)  
+![image](../images/Pasted%20image%2020230814144302.png)    
