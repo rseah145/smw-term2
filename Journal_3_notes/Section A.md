@@ -79,3 +79,7 @@ Note that the Domain Controller/ KDC will have all domain members logon password
 
 8. [Important] After successfully authenticating via the ticket, the file server opens the ticket, gets the username and other info such as what groups the user is a member of and uses that info to decide what resources the user can access on the file server. <b>Every time the client wants to access the file server, it has to send/resend a copy of the file server ticket from their Kerberos Tray.</b>  
 ![image](../images/Pasted%20image%2020230814123302.png)  
+
+<br>
+
+The reason that the client needs to send/resend a copy of their file server ticket each time they want to access the file server 
