@@ -127,7 +127,7 @@ Before Windows NT
 
 <br>
 
-LANMAN challenge/response
+LANMAN challenge/response  
 * Hash challenge, similar to CHAP
 * Somewhat insecure
 All uppercase ASCII
@@ -142,5 +142,8 @@ Passwords are not salted
 NT LAN Manager  
 
 <br>
+
 Used in early versions of Windows NT  
-* Passwords
+* Password is Unicode
+* Up to 127 characters long
+* Stored as a 128-bit MD4 hash, in
