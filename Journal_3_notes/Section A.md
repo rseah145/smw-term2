@@ -12,6 +12,6 @@ Client takes on most of the processing burden in Kerberos.
 
 <br>
 
-## Kerberos Authentication Process
+## Kerberos Client Logon Authentication Process
 
-1. Client
+1. Client creates authenticator
