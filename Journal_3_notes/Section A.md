@@ -123,7 +123,7 @@ Access a domain resource (e.g. file server/ remote server share) after purging t
 
 LAN Manager (LANMAN), Microsoft and 3Com Network OS  
 
-Before Windows 
+Before Windows NT  
 
 <br>
 
