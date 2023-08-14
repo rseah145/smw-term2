@@ -119,3 +119,16 @@ Access a domain resource (e.g. file server/ remote server share) after purging t
 
 ## Notes from video 3 ["NTLM - CompTIA Security+ SY0-401: 6.2 by Professor Messer"](#https://www.youtube.com/watch?v=oWaI5-pgthI)  
 
+### NTLM Theory
+
+LAN Manager (LANMAN), Microsoft and 3Com Network OS  
+
+<br>
+
+LANMAN challenge/response
+* Hash challenge, similar to CHAP
+* Somewhat insecure
+All uppercase ASCII
+Password is 14-characters max
+Passwords over 7 characters are split and encrypted separately
+Passwords are not salted
