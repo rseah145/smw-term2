@@ -246,6 +246,8 @@ Client and Server can mutually authenticate each other
 
 Many orgs use it as basis for single sign on (SSO)  
 
+<br>
+
 ### Kerberos deep dive theory  
 
 #### Kerberos Realm
