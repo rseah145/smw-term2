@@ -156,7 +156,8 @@ NT LAN Manager/ NTLMv1
 
 <br>
 
-NTLMv2
+NTLMv2  
+
 Came out with Windows NT SP4 (Service Pack 4)  
 
 <br>
