@@ -123,13 +123,13 @@ Access a domain resource (e.g. file server/ remote server share) after purging t
 
 ### LM Theory  
 
-LAN Manager (LANMAN), Microsoft and 3Com Network OS  
+#### LAN Manager (LANMAN), Microsoft and 3Com Network OS  
 
 Before Windows NT  
 
 <br>
 
-LANMAN challenge/response  
+#### LANMAN challenge/response  
 
 Hash challenge, similar to CHAP  
 
