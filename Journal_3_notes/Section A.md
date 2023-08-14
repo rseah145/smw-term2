@@ -171,4 +171,4 @@ New password response
 
 Some Windows password databases contain LM hash versions of the passwords  
 * Compatibility with older systems  
-* Legacy systems kept insecure NTLMv1 hashes alongside the
+* Legacy systems kept insecure NTLMv1passwords alongside the secure NTLMv2 passwords
