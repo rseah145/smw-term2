@@ -146,4 +146,4 @@ NT LAN Manager
 Used in early versions of Windows NT  
 * Password is Unicode
 * Up to 127 characters long
-* Stored as a 128-bit MD4 hash, in
+* Stored as a 128-bit MD4 hash, instead of DES in LANMAN
