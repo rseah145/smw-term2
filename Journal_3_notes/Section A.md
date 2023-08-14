@@ -77,4 +77,4 @@ Note that the Domain Controller/ KDC will have all domain members logon password
 ![image](../images/Pasted%20image%2020230814122608.png)  
 ![image](../images/Pasted%20image%2020230814122655.png)  
 
-8. [ImportnatAfter
+8. [Important] After
