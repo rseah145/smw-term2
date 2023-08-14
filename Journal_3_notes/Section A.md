@@ -70,4 +70,4 @@ Note that the Domain Controller/ KDC will have all domain members logon password
 5. The File Server ticket is then sent to the client and is stored within the client's Kerberos Tray.  
 ![image](../images/Pasted%20image%2020230814122143.png)  
 
-6. For the next 8 hours (or for how long the ticket is set to be valid), whenever the client wants to access a resource on the file server 
+6. For the next 8 hours (or for how long the ticket is set to be valid), whenever the client wants to access a resource on the file server, it just creates a copy of the file server ticket from its Kerberos Tray and sends it to the file server  
