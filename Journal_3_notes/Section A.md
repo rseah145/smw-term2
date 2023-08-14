@@ -55,7 +55,7 @@ Ticket Granting Tickets (TGTs) are usually usable for 8 hours by default. After 
 
 <br>
 
-2. PC looks at the Kerberos Tray and does not find a ticket for the File Server. It then sends a copy of the TGT from the Kerberos Tray along with a request for a ticket to the file server.  
+2. PC looks at the Kerberos Tray and does not find a ticket for the File Server. It then sends a copy of the TGT from the Kerberos Tray along with a request for a ticket to the file server to the KDC.  
 ![image](../images/Pasted%20image%2020230814121309.png)  
 
 3. The KDC uses its key to decrypt the TGT (if successful it authenticates, otherwise it does not authenticate) (Blue key == KDC's key in this diagram)
