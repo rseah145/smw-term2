@@ -16,7 +16,7 @@ Kerberos does not transmit user's passwords across the network, it uses them as 
 
 ## Kerberos Client Logon Authentication Process
 
-1. Client creates an encrypted authenticator, an identifier encrypted with the supplied user's password on a login attempt that is valid within a limited date and time period so that it can't be used in a replay attack. Only a portion of it is unencrypted, which is the username and other info used to know which user sent their authenticator by the KDC. (As represented by the image beside the client and its key)   
+1. Client creates an encrypted authenticator, an identifier encrypted with the supplied user's password on a login attempt that is valid within a limited date and time period so that it can't be used in a replay attack. Only a portion of it is unencrypted, which is the username and other info that the KDC uses to know which user sent their authenticator by the KDC. (As represented by the image beside the client and its key)   
 ![image](../images/Pasted%20image%2020230814111749.png)  
 
 2. KDC receives the client's authenticator, see's the unencrypted portion, looks up info for that user from the cleartext, grabs the password for that user from their database and attempts to decrypts the authenticator with it (shared secret/ same pink key).  
