@@ -33,5 +33,5 @@ Kerberos does not transmit user's passwords across the network, it uses them as 
 
 <br>
 
-4. After successfully authenticating a user, the KDC discards the client's authenticator and creates a Ticket Granting Ticket (TGT) and encrypts a portion of the TGT using its own encryption key. The authenticated user's info is saved in the TGT and is encrypted using the KDC's encryption key. (Blue key and ticket + lock)  
+4. After successfully authenticating a user, the KDC discards the client's authenticator and creates a Ticket Granting Ticket (TGT) and encrypts a portion of the TGT using its own encryption key. In short, the authenticated user's info is saved in the TGT and is encrypted using the KDC's encryption key. (Blue key and ticket + lock)  
 ![image](../images/Pasted%20image%2020230814113744.png)
