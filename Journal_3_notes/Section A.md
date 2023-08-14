@@ -315,3 +315,4 @@ Overview with KDC, the 2 servers, and messages
 ![image](../images/Pasted%20image%2020230814154003.png)  
 
 6. User decrypts the message, creates an authenticator message, then finally sends the user authenticator and the ST to the Service  
+![image](../images/Pasted%20image%2020230814154143.png)  
