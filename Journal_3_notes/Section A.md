@@ -303,3 +303,4 @@ Overview with KDC, the 2 servers, and messages
 
 2. Authentication server validates the request that is coming from a known user, generates a TGT and sends it back to the user along with a message encrypted with the user's secret key  
 ![image](../images/Pasted%20image%2020230814153336.png)  
+![image](../images/Pasted%20image%2020230814153409.png)  
