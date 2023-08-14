@@ -248,4 +248,6 @@ Many orgs use it as basis for single sign on (SSO)
 
 #### Kerberos Realm
 
-"Kerberos Realm" is the domain, the group of systems over which Kerberos has the authority to authenticate a user to a service
+"Kerberos Realm" is the domain, the group of systems over which Kerberos has the authority to authenticate a user to a service  
+
+Possible to have multiple Kerberos Realms and they can be interconnected
