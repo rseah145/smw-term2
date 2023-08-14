@@ -308,4 +308,4 @@ Overview with KDC, the 2 servers, and messages
 3. User decrypts the message with their secret key, creates new messages, and sends the new message along with the TGT to the Ticket Granting Server (TGS)  
 ![image](../images/Pasted%20image%2020230814153701.png)  
 
-4. TGS decrypts the TGT
+4. TGS decrypts the TGT, performs some validation and generates a Service Ticket (ST)
