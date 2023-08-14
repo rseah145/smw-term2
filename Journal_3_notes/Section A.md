@@ -130,8 +130,12 @@ Before Windows NT
 <br>
 
 LANMAN challenge/response  
-* Hash challenge, similar to CHAP  
-* Somewhat insecure  
+
+Hash challenge, similar to CHAP  
+
+<br>
+
+Somewhat insecure  
 * All uppercase ASCII  
 * Password is 14-characters max  
 * Passwords over 7 characters are split and encrypted separately  
