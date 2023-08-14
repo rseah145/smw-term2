@@ -8,5 +8,5 @@ Native authentication protocol in Active Directory, used by Windows networks eve
 
 <br>
 
-Performance burden of Kerberos is mostly pushed to the Client.  
+Client takes on most of the processing burden in Kerberos.  
 
