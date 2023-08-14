@@ -109,3 +109,5 @@ klist tgt | more
 klist | more  
 
 #### Clear ticket cache (Delete all tickets from Kerberos Tray, no warning prompt will be given)  
+klist purge  
+
