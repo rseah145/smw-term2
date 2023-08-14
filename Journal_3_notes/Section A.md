@@ -23,4 +23,4 @@ Kerberos does not transmit user's passwords across the network, it uses them as 
 ![image](../images/Pasted%20image%2020230814112355.png)  
 ![image](../images/Pasted%20image%2020230814112804.png)  
 
-3. If the client's authenticator can't be decrypted it means that the authenticator was encrypted with a password that the KDC does not know about, meaning it fails to authenticate due to the user supplying an invalid password
+3. If the client's authenticator can't be decrypted it means that the authenticator was encrypted with a password that the KDC does not know about, meaning it fails to authenticate due to the user supplying an invalid password.  
