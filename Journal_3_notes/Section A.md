@@ -21,5 +21,4 @@ Kerberos does not transmit user's passwords across the network, it uses them as 
 
 2. KDC receives the client's authenticator, see's the unencrypted portion, looks up info for that user from the cleartext, grabs the password for that user from the database and decrypts the authenticator with it (shared secret/ same pink key).  
 ![image](../images/Pasted%20image%2020230814112355.png)  
-
-![image](../images/Pasted%20image%2020230814112804.png)
+![image](../images/Pasted%20image%2020230814112804.png)  
