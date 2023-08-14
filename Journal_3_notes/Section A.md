@@ -90,3 +90,4 @@ kerbtray.exe can be downloaded and used to view all of the tickets within the Ke
 
 ## Notes from video 2 ["Using Command Line Tools to Troubleshoot Kerberos Authentication by Je5ff Hicks"](https://www.youtube.com/watch?v=wNSfFBhLywk)  
 
+For Windows XP, use kerbtray.exe 
