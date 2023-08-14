@@ -129,7 +129,7 @@ Before Windows NT
 
 <br>
 
-LANMAN challenge/response  
+####LANMAN challenge/response  
 
 Hash challenge, similar to CHAP  
 
@@ -145,7 +145,7 @@ Somewhat insecure
 
 ### NTLM Theory  
 
-NT LAN Manager/ NTLMv1  
+#### NT LAN Manager/ NTLMv1  
 
 <br>
 
@@ -156,7 +156,7 @@ Used in early versions of Windows NT
 
 <br>
 
-NTLMv2  
+#### NTLMv2  
 
 Came out with Windows NT SP4 (Service Pack 4)  
 
@@ -169,7 +169,7 @@ New password response
 
 <br>
 
-NTLM Vulnerabilities (NTLMv1 and NTLMv2)  
+#### NTLM Vulnerabilities (NTLMv1 and NTLMv2)  
 
 <br>
 
