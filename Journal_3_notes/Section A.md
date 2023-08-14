@@ -283,4 +283,6 @@ Authentication server confirms that a known user is making an access request and
 
 Ticket Granting Server confirms that a user is making an access request to a known service and issues service tickets  
 
-Many
+Many messages are sent back and forth between users, services and the 2 servers within the KDC  
+
+The 2 
