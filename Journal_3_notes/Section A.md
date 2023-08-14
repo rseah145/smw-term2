@@ -129,7 +129,7 @@ Before Windows NT
 
 <br>
 
-####LANMAN challenge/response  
+LANMAN challenge/response  
 
 Hash challenge, similar to CHAP  
 
