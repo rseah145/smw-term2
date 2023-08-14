@@ -287,3 +287,4 @@ Many messages are sent back and forth between users, services and the 2 servers 
 
 The 2 important types of messages to highlight are "Authenticators" and "Tickets"  
 
+Authenticators are a record containing info
