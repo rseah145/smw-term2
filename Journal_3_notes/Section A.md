@@ -289,4 +289,6 @@ The 2 important types of messages to highlight are "Authenticators" and "Tickets
 
 Authenticators are a record containing info that can be shown to be recently generated using the session key only known to the client and the server. <b>Allows the user to authenticate to the service, and the service to authenticate to the user (mutual authentication)</b>  
 
-Tickets contain most of the info that needs to be passed. Client's identity, service ID, session keys, Time to Live, ...etc all encrypted using the ser
+Tickets contain most of the info that needs to be passed. Client's identity, service ID, session keys, Time to Live, ...etc all encrypted using a server's secret key  
+
+Overview with KDC, the 2 servers, and messages  
