@@ -255,3 +255,5 @@ Possible to have multiple Kerberos Realms and they can be interconnected
 <br>
 
 #### Principal
+
+Within a Kerberos Realm there are principal(s)
