@@ -187,3 +187,8 @@ NTLM vulnerable to a credentials forwarding attack (Look up "Pass-the-hash")
 
 Proprietary to Microsoft.  
 
+<br>
+
+NTLM is used when
+* There is no Kerberos trust between 2 different forests
+* 
