@@ -77,4 +77,4 @@ Note that the Domain Controller/ KDC will have all domain members logon password
 ![image](../images/Pasted%20image%2020230814122608.png)  
 ![image](../images/Pasted%20image%2020230814122655.png)  
 
-8. [Important] After successfully authenticating via the ticket, the file server opens the ticket 
+8. [Important] After successfully authenticating via the ticket, the file server opens the ticket, gets the username 
