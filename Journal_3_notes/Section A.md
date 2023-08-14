@@ -95,7 +95,7 @@ For Windows XP, use kerbtray.exe (sits in the system tray, bottom right corner)
 
 For Windows 7 and newer, use klist.exe (Does not require special privileges to run)  
 
-### klist.exe goto commands  
+### klist.exe goto commands for troubleshooting Keberos Authentication  
 
 #### Help menu  
 klist -?  
