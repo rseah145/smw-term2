@@ -260,4 +260,4 @@ Within a Kerberos Realm there are "principal", a unique identity (either a user 
 
 Clients/Users is a process that accesses a service on behalf of a user, there can be multiple clients/users within a realm (users that access stuff)  
 
-Service is a resource provided to a client (e.g. a file server or an app that a user wants to access)
+Service is a resource provided to a client (e.g. a file server or an app that a user wants to access), there can be multiple services 
