@@ -285,4 +285,4 @@ Ticket Granting Server confirms that a user is making an access request to a kno
 
 Many messages are sent back and forth between users, services and the 2 servers within the KDC  
 
-The 2 
+The 2 important messages to highlight are "Authenticators" and ""
