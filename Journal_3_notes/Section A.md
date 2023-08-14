@@ -137,4 +137,10 @@ Passwords are not salted
 
 <br>
 
-### NTLM Theory
+### NTLM Theory  
+
+NT LAN Manager  
+
+<br>
+Used in early versions of Windows NT  
+* Passwords
