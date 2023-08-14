@@ -62,4 +62,4 @@ Ticket Granting Tickets (TGTs) are usually usable for 8 hours by default. After 
 
 <br>
 
-4. Once 
+4. Once authenticated via the TGT sent by the client, the KDC generates a ticket for the File Server
