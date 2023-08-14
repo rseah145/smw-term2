@@ -278,3 +278,5 @@ Supplies tickets and generates temporary session keys that allow a user to secur
 KDC stores all the secret symmetrical keys for users and services  
 
 2 servers within the KDC, the authentication server and the Ticket Granting Server (TGS)  
+
+Authentication server confirms that a known user is making an access request and issues Ticket Graning Tickets (TGT)
