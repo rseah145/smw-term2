@@ -88,4 +88,4 @@ kerbtray.exe can be downloaded and used to view all of the tickets within the Ke
 
 <br>
 
-## Notes from video 2 [""]
+## Notes from video 2 ["Using Command Line Tools to Troubleshoot Kerberos Authentication by Je5ff Hicks"]
