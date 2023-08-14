@@ -275,4 +275,4 @@ Overview of "principal", "client/user", and "service" within Kerberos Realm
 
 Supplies tickets and generates temporary session keys that allow a user to securely authenticate to a service  
 
-KDC stores all the secret symmetrical keys for 
+KDC stores all the secret symmetrical keys for users and services
