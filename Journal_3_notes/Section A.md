@@ -147,8 +147,6 @@ Somewhat insecure
 
 #### NT LAN Manager/ NTLMv1  
 
-<br>
-
 Used in early versions of Windows NT  
 * Password is Unicode  
 * Up to 127 characters long  
