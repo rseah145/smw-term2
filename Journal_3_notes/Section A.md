@@ -223,3 +223,4 @@ V2 came with NT SP4
 ![image](../images/Pasted%20image%2020230814144302.png)  
 
 4. DC creates a random string encrypted using the domain user's hash and sends it to the client  
+![image](../images/Pasted%20image%2020230814144808.png)  
