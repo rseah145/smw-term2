@@ -100,4 +100,4 @@ For Windows 7 and newer, use klist.exe (Does not require special privileges to r
 #### Help menu  
 klist.exe -?  
 
-#### 
+#### Show 
