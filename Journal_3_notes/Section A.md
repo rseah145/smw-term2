@@ -299,3 +299,6 @@ Overview with KDC, the 2 servers, and messages
 #### Communication required for a user to access a service
 
 1. User sends an unencrypted message to the authentication server, wanting to access a service  
+![image](../images/Pasted%20image%2020230814153116.png)  
+
+2. 
