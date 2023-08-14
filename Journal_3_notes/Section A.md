@@ -204,3 +204,13 @@ NTLM is used when
 Challenge response algorithm  
 
 Passwords are not transmitted  
+
+V1 came with NT, just say NO  
+
+V2 came with NT SP4  
+
+<br>
+
+#### How it works
+
+1. 
