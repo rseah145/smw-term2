@@ -225,4 +225,5 @@ V2 came with NT SP4
 4. DC creates a random string and sends it to the client  
 ![image](../images/Pasted%20image%2020230814144808.png)  
 
-5. Client encrypts the random string with the hash from step 2 and sends it back to the DC
+5. Client encrypts the random string with the hash from step 2 and sends it back to the DC  
+![image](../images/Pasted%20image%2020230814145150.png)
