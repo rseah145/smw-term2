@@ -6,3 +6,7 @@ Native authentication protocol in Active Directory, used by Windows networks eve
 3 different components, a client, file server, and a Key Distribution Center (in AD, would be within the DC).  
 ![image](../images/Pasted%20image%2020230814110358.png)  
 
+<br>
+
+Performance burden of Kerberos is mostly pushed to the Client.  
+
