@@ -256,4 +256,4 @@ Possible to have multiple Kerberos Realms and they can be interconnected
 
 #### Principal
 
-Within a Kerberos Realm there are principal(s)
+Within a Kerberos Realm there are principal(s), a unique identity (either a user, service, or an application)
