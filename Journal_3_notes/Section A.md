@@ -229,4 +229,8 @@ V2 came with NT SP4
 ![image](../images/Pasted%20image%2020230814145150.png)  
 
 6. DC retrieves the user's hash from its database, encrypts the random string using the retrieved hash and compares the encrypted random strings, 1 received from the client and 1 from the DC's database. If it matches (same resulting encrypted random string), it allows you to authenticate (login) to the client PC as that user, otherwise it returns a failed login attempt  
-![image](../images/Pasted%20image%2020230814145641.png)
+![image](../images/Pasted%20image%2020230814145641.png)  
+
+<br>
+
+## Notes from video 5
