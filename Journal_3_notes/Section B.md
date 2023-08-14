@@ -18,3 +18,5 @@ When Kerberos ports are blocked by firewall or If 1 or both systems are not in t
 <br>
 
 (c) Briefly describe the key workflow of the alternative authentication process. (6 marks)  
+
+It 
