@@ -1,6 +1,6 @@
 
 # Navigation
-* [Kerberos Client Logon Authentication Process](#kerberos-client-authentication-logon-process)
+* [Kerberos Client Logon Authentication Process](#kerberos-client-logon-authentication-process)
 * [Accessing file servers after authentication](#accessing-file-servers-after-authentication)
 
 <br>
