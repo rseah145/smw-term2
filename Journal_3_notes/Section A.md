@@ -67,5 +67,5 @@ Note that the Domain Controller/ KDC will have all domain members logon password
 4. Once authenticated via the TGT sent by the client, the KDC generates a ticket for the File Server which is encrypted using the File Server's logon password. (No communication with the file server, ticket is created by the KDC)  
 ![image](../images/Pasted%20image%2020230814121903.png)  
 
-5. The File Server ticket is then sent to the client and is stored within the client's Kerberos Tray.  
+5. The File Server ticket is then sent to the client and is stored within the client's Kerberos Tray. For the next 8 hours (or for how long the ticket is valid),  
 ![image](../images/Pasted%20image%2020230814122143.png)  
