@@ -248,4 +248,4 @@ Many orgs use it as basis for single sign on (SSO)
 
 #### Terminology
 
-"Kerberos Realm" is the domain 
+"Kerberos Realm" is the domain, the group of systems Kerberos o
