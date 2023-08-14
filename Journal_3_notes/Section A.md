@@ -23,9 +23,15 @@ Kerberos does not transmit user's passwords across the network, it uses them as 
 ![image](../images/Pasted%20image%2020230814112355.png)  
 ![image](../images/Pasted%20image%2020230814112804.png)  
 
+<br>
+
 3. (Failed to authenticate) If the client's authenticator can't be decrypted it means that the authenticator sent by the client was encrypted with a password that the KDC does not know about, meaning it fails to authenticate due to the user supplying an invalid password.  
 
+<br>
+
 3. (Successful authentication) If the client's authenticator can be decrypted it means that the authenticator sent by the client was encrypted using the same password that is stored within the KDC database, which authenticates the user.  
+
+<br>
 
 4. After successfully authenticating a user, the KDC discards the client's authenticator and creates a Ticket Granting Ticket (TGT) and encrypts a portion of the TGT using its own encryption key. The authenticated user's info is saved in the TGT and is encrypted using the KDC's encryption key. (Blue key and ticket + lock)  
 ![image](../images/Pasted%20image%2020230814113744.png)
