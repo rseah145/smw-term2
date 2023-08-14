@@ -2,6 +2,7 @@
 # Navigation
 * [Kerberos Client Logon Authentication Process](#kerberos-client-logon-authentication-process)
 * [Accessing file servers after authentication](#accessing-file-servers-after-authentication)
+* [klist.exe goto commands](#klist.exe-goto-commands)
 
 <br>
 
@@ -94,4 +95,4 @@ For Windows XP, use kerbtray.exe (sits in the system tray, bottom right corner)
 
 For Windows 7 and newer, use klist.exe (Does not require special privileges to run)  
 
-### klist.exe quickstart commands
+### klist.exe goto commands
