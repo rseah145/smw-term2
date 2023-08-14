@@ -4,4 +4,4 @@
 Native authentication protocol in Active Directory, used by Windows networks everywhere.  
 
 3 different components, a client, file server, and a Key Distribution Center.  
-![../images/Pasted%20image%2020230814110358.png](#)
+![image](../images/Pasted%20image%2020230814110358.png)
