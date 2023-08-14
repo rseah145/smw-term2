@@ -5,6 +5,7 @@
 * [klist.exe goto commands for troubleshooting Kerberos Authentication](#klist.exe-goto-commands-for-troubleshooting-kerberos-authentication)
 * [LM Theory](#lm-theory)
 * [NTLM Theory](#ntlm-theory)
+* [NTLM Authentication](#ntlm-authentication)
 
 <br>
 
