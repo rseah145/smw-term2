@@ -139,7 +139,7 @@ Passwords are not salted
 
 ### NTLM Theory  
 
-NT LAN Manager  
+NT LAN Manager/ NTLMv1  
 
 <br>
 
