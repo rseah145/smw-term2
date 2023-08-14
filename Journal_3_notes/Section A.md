@@ -37,3 +37,4 @@ Kerberos does not transmit user's passwords across the network, it uses them as 
 ![image](../images/Pasted%20image%2020230814113744.png)  
 
 5. The KDC sends the TGT back to the client and the TGT is then stored within a special location in-memory of the client's PC called the "Kerberos Tray".  
+![image](../images/Pasted%20image%2020230814114051.png)  
