@@ -117,4 +117,4 @@ Access a domain resource (e.g. file server/ remote server share) after purging t
 
 <br>
 
-##
+## Notes from video 3 
