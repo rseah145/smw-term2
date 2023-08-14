@@ -292,3 +292,4 @@ Authenticators are a record containing info that can be shown to be recently gen
 Tickets contain most of the info that needs to be passed. Client's identity, service ID, session keys, Time to Live, ...etc all encrypted using a server's secret key  
 
 Overview with KDC, the 2 servers, and messages  
+![image](../images/Pasted%20image%2020230814152815.png)  
