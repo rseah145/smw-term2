@@ -97,7 +97,7 @@ For Windows 7 and newer, use klist.exe (Does not require special privileges to r
 
 ### klist.exe goto commands for troubleshooting Keberos Authentication  
 
-Note: Pipe into more for viewing each line, line-by-line is optional " | more", just remove " | more" from the command to view it without viewing the output line-by-line
+Note: Pipe into more for viewing line-by-line is optional " | more", just remove " | more" from the command to view it without viewing the output line-by-line
 
 #### Help menu  
 klist -?  
