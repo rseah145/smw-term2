@@ -194,3 +194,7 @@ NTLM is used when
 * Authentication is attempted by IP instead of DNS (Kerberos requires DNS)  
 * If 1 or both systems are not in the same domain  
 * If your firewall is blocking Kerberos ports (88 for TCP and UDP, Keberos 5 ticket service)
+
+<br>
+
+#### 
