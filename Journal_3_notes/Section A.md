@@ -150,3 +150,4 @@ Used in early versions of Windows NT
 
 <br>
 
+NTLMv2 came out with 
