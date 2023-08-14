@@ -49,4 +49,8 @@ Kerberos does not transmit user's passwords across the network, it uses them as 
 
 ### Accessing file servers after authentication  
 
-1. Client is logged on after they have received a TGT from the KDC and store. 
+1. Client is logged on after they have received a TGT from the KDC and stored it within their Kerberos Tray.  
+
+<br>
+
+2. 
