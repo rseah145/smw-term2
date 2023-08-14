@@ -237,4 +237,9 @@ V2 came with NT SP4
 
 Passwords are never sent across the network  
 
-Encryption keys are never
+Encryption keys are never directly exchanged  
+
+Client and Server can mutually authenticate each other  
+
+Many orgs use it as basis for single sign on (SSO)  
+
