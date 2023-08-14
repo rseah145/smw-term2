@@ -111,3 +111,6 @@ klist | more
 #### Clear ticket cache (Delete all tickets from Kerberos Tray, no warning prompt will be given), also purges TGT  
 klist purge  
 
+<br>
+
+Access a domain resource (e.g. file server/ remote server share) after purging the TGT/ tickets to
