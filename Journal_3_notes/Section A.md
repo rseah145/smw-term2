@@ -102,6 +102,6 @@ Note: Pipe into more for viewing each line, line-by-line is optional
 #### Help menu  
 klist -?  
 
-#### Show Ticket Granting Ticket (TGT) info that the KDC has issued to the account , only "klist tgt" is needed)
+#### Show Ticket Granting Ticket (TGT) info that the KDC has issued to the account
 klist tgt | more  
 
