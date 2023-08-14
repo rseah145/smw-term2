@@ -18,7 +18,7 @@ Client takes on most of the processing burden in Kerberos.
 
 Kerberos does not transmit user's passwords across the network, it uses them as shared secrets so that the KDC can decrypt the authenticator using the same password per user that authenticates (Symmetric encryption).  
 
-Ticket Granting Tickets (TGTs) are usually usable for 8 hours by default. Periodically, it will have to be destroyed and renewed so the KDC can re-validate a user.  
+Ticket Granting Tickets (TGTs) are usually usable for 8 hours by default. Periodically, it will have to be destroyed and renewed so the KDC can re-validate a user from time to time.  
 
 <br>
 
