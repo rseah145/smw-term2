@@ -168,3 +168,10 @@ New password response
 * Variable-length challenge of timestamp, random data, domain name  
 
 <br>
+
+NTLM Vulnerabilities (NTLMv1 and NTLMv2)  
+
+<br>
+
+Some Windows password databases contain LM hash versions of the passwords  
+* Compatibility with older systems  
