@@ -14,4 +14,4 @@ Client takes on most of the processing burden in Kerberos.
 
 ## Kerberos Client Logon Authentication Process
 
-1. Client creates authenticator
+1. Client creates authenticator, an identifier with a limited date and time so that it can't be used in a replay attack.  
