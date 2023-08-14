@@ -76,3 +76,5 @@ Note that the Domain Controller/ KDC will have all domain members logon password
 7. The file server uses its own password to decrypt the ticket sent by the client. (If successful, authenticates and verifies that the ticket was created by the KDC, the only other server to know its password, otherwise it fails to authenticate)  
 ![image](../images/Pasted%20image%2020230814122608.png)  
 ![image](../images/Pasted%20image%2020230814122655.png)  
+
+8. *
