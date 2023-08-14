@@ -113,4 +113,4 @@ klist purge
 
 <br>
 
-Access a domain resource (e.g. file server/ remote server share) after purging the TGT/ tickets to
+Access a domain resource (e.g. file server/ remote server share) after purging the TGT/ tickets to reinitiate the whole Kerberos process to get a TGT from the KDC, and Kerberos tickets to access the required domain resources.  
