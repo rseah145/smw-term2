@@ -49,4 +49,4 @@ Kerberos does not transmit user's passwords across the network, it uses them as 
 
 ### Accessing file servers after authentication  
 
-1. 
+1. Client is logged on after they have a TGT from the KDC. 
