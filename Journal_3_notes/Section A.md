@@ -183,4 +183,7 @@ NTLM vulnerable to a credentials forwarding attack (Look up "Pass-the-hash")
 
 ## Notes from video 4 ["System Hacking & Penetration testing | NTLM Authentication by Jai Ashish"](https://www.youtube.com/watch?v=vR8784gTBP0)  
 
-### NTLM Authentication
+### NTLM Authentication  
+
+Proprietary to Microsoft.  
+
