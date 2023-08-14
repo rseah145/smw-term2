@@ -105,5 +105,7 @@ klist -?
 #### Show Ticket Granting Ticket (TGT) info that the KDC has issued to the account
 klist tgt | more  
 
-#### Running klist without parameters defaults to "klist tickets"  
-klist
+#### Running klist without parameters defaults to "klist tickets" being ran  
+klist  
+
+####
