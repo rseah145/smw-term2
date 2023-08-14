@@ -169,7 +169,5 @@ New password response
 
 #### NTLM Vulnerabilities (NTLMv1 and NTLMv2)  
 
-<br>
-
 Some Windows password databases contain LM hash versions of the passwords  
 * Compatibility with older systems  
