@@ -108,6 +108,6 @@ klist tgt | more
 #### Running klist without parameters defaults to "klist tickets" being ran, shows all tickets assigned/issued to the current user 
 klist | more  
 
-#### Clear ticket cache (Delete all tickets from Kerberos Tray, no warning prompt will be given)  
+#### Clear ticket cache (Delete all tickets from Kerberos Tray, no warning prompt will be given), also purges TGT  
 klist purge  
 
