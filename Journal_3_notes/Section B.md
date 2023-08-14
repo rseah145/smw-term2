@@ -13,7 +13,7 @@ Kerberos is the default authentication scheme, NTLMv2 is an alternative authenti
 
 (b) Briefly describe when will the alternative authentication scheme be applied? (4 marks)  
 
-When Kerberos ports are blocked by firewall or when there is no 
+When Kerberos ports are blocked by firewall or If 1 or both systems are not in the same domain or If there is no Kerberos trust between 2 different forests.  
 
 <br>
 
