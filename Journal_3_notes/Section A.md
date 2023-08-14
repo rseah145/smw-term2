@@ -317,4 +317,7 @@ Overview with KDC, the 2 servers, and messages
 6. User decrypts the message, creates an authenticator message, then finally sends the user authenticator and the ST to the Service  
 ![image](../images/Pasted%20image%2020230814154143.png)  
 
-7. Service does its own decryption, validation, and creates its own final authenticatior message. The final authenticator message is sent back to the user
+7. Service does its own decryption, validation, and creates its own final authenticatior message. The final authenticator message is sent back to the user  
+![image](../images/Pasted%20image%2020230814154406.png)  
+
+All 
