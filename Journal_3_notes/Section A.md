@@ -10,6 +10,8 @@ Native authentication protocol in Active Directory, used by Windows networks eve
 
 Client takes on most of the processing burden in Kerberos.  
 
+Kerberos does not transmit user's passwords across the network, it uses them as shared secrets so that the KDC can decrypt the authenticator using the same password per user that authenticates (Symmetric encryption).  
+
 <br>
 
 ## Kerberos Client Logon Authentication Process
