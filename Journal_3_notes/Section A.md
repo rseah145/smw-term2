@@ -193,4 +193,4 @@ NTLM is used when
 * There is no Kerberos trust between 2 different forests  
 * Authentication is attempted by IP instead of DNS (Kerberos requires DNS)  
 * If 1 or both systems are not in the same domain  
-* If your firewall is blocking Kerberos ports (UDP 88)
+* If your firewall is blocking Kerberos ports (88 for TCP and UDP)
