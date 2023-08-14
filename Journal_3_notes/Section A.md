@@ -311,4 +311,4 @@ Overview with KDC, the 2 servers, and messages
 4. TGS decrypts the TGT, performs some validation and generates a Service Ticket (ST)  
 ![image](../images/Pasted%20image%2020230814153841.png)  
 
-5. The ST along with another message 
+5. The ST along with another message is sent back to the user from the TGS  
