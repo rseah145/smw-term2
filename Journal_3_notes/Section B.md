@@ -27,3 +27,6 @@ For Question 2 (10 marks)
 ![image](../images/Pasted%20image%2020230814155832.png)  
 
 Client creates an encrypted authenticator, an identifier encrypted with the supplied user's password on a login attempt that is valid within a limited date and time period so that it can't be used in a replay attack. Only a portion of it is unencrypted, which is the username and other info used to know which user sent their authenticator by the KDC.
+
+KDC receives the client's authenticator, see's the unencrypted portion, looks up info for that user from the cleartext, grabs the password for that user from their database and attempts to decrypt the authenticator with it.
+
