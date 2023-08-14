@@ -228,4 +228,4 @@ V2 came with NT SP4
 5. Client encrypts the random string with the hash from step 2 and sends it back to the DC  
 ![image](../images/Pasted%20image%2020230814145150.png)  
 
-6. DC gets the user's hash, encrypts the random string using 
+6. DC retrieves the user's hash from its database, encrypts the random string using the retrieved hash and compares the encrypted random strings, 1 received from the client and 1 from the DC's database. If it matches  
