@@ -293,3 +293,9 @@ Tickets contain most of the info that needs to be passed. Client's identity, ser
 
 Overview with KDC, the 2 servers, and messages  
 ![image](../images/Pasted%20image%2020230814152815.png)  
+
+<br>
+
+#### Communication required for a user to access a service
+
+1. User
