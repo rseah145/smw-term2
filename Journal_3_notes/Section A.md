@@ -1,7 +1,7 @@
 
 # Navigation
 * [Kerberos Client Logon Authentication Process](#kerberos-client-logon-authentication-process)
-* [Accessing file servers after Kerberos authentication](#accessing-file-servers-after-authentication)
+* [Accessing file servers after Kerberos authentication](#accessing-file-servers-after-kerberos-authentication)
 * [klist.exe goto commands for troubleshooting Kerberos Authentication](#klist.exe-goto-commands-for-troubleshooting-kerberos-authentication)
 * [LM Theory](#lm-theory)
 * [NTLM Theory](#ntlm-theory)
@@ -56,7 +56,7 @@ Note that the Domain Controller/ KDC will have all domain members logon password
 
 <br>
 
-### Accessing file servers after authentication  
+### Accessing file servers after Kerberos authentication  
 
 1. Client is logged on after they have received a TGT from the KDC and stored it within their Kerberos Tray.  
 
