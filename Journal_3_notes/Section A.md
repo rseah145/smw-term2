@@ -279,4 +279,6 @@ KDC stores all the secret symmetrical keys for users and services
 
 2 servers within the KDC, the authentication server and the Ticket Granting Server (TGS)  
 
-Authentication server confirms that a known user is making an access request and issues Ticket Graning Tickets (TGT)
+Authentication server confirms that a known user is making an access request and issues Ticket Graning Tickets (TGT)  
+
+Ticket Granting Server confirms that a user is making an access request to a known service and issues 
