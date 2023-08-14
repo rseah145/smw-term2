@@ -153,3 +153,6 @@ Stored as a 128-bit MD4 hash, instead of DES in LANMAN
 NTLMv2
 * Came out with Windows NT SP4 (Service Pack 4)
 * New password response
+MD4 password hash (same as NTLMv1)  
+HMAC-MD5 hash of username and server name  
+Variable-length challenge of timestamp, random data, domain name  
