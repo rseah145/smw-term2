@@ -213,4 +213,4 @@ V2 came with NT SP4
 
 #### How it works
 
-1. 
+1. User types in username and password on Windows login screen
