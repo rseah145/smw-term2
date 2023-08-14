@@ -180,4 +180,5 @@ NTLM vulnerable to a credentials forwarding attack (Look up "Pass-the-hash")
 
 <br>
 
-## Notes from video 4 []
+## Notes from video 4 ["System Hacking & Penetration testing | NTLM Authentication by Jai Ashish"](https://www.youtube.com/watch?v=vR8784gTBP0)  
+
