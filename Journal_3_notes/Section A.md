@@ -73,6 +73,6 @@ Note that the Domain Controller/ KDC will have all domain members logon password
 6. For the next 8 hours (or for how long the ticket is set to be valid), whenever the client wants to access a resource on the file server, it just creates a copy of the file server ticket from its Kerberos Tray and sends it to the file server.  
 ![image](../images/Pasted%20image%2020230814122431.png)  
 
-7. The file server uses its own password to decrypt the ticket sent by the client. (If successful, authenticates and verifies that the ticket was created by the KDC the only other server to know its password, otherwise it fails to authenticate)  
+7. The file server uses its own password to decrypt the ticket sent by the client. (If successful, authenticates and verifies that the ticket was created by the KDC, the only other server to know its password, otherwise it fails to authenticate)  
 ![image](../images/Pasted%20image%2020230814122608.png)  
 ![image](../images/Pasted%20image%2020230814122655.png)  
