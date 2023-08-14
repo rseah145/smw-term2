@@ -106,6 +106,6 @@ klist -?
 klist tgt | more  
 
 #### Running klist without parameters defaults to "klist tickets" being ran  
-klist  
+klist | more  
 
 ####
