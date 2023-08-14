@@ -68,3 +68,4 @@ Note that the Domain Controller/ KDC will have all domain members logon password
 ![image](../images/Pasted%20image%2020230814121903.png)  
 
 5. The File Server ticket is then sent to the client and is stored within the client's Kerberos Tray.  
+![image](../images/Pasted%20image%2020230814122143.png)  
