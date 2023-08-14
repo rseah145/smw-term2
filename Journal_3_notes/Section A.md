@@ -201,4 +201,6 @@ NTLM is used when
 
 #### How it is used
 
-Challenge response algorithm
+Challenge response algorithm  
+
+Passwords are not transmitted  
