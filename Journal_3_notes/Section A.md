@@ -55,3 +55,5 @@ Kerberos does not transmit user's passwords across the network, it uses them as 
 
 2. PC looks at the Kerberos Tray and does not find a ticket for the File Server. It then sends a copy of the TGT from the Kerberos Tray along with a request for a ticket to the file server.  
 ![image](../images/Pasted%20image%2020230814121309.png)  
+
+3. The KDC uses its key to decrypt the TGT (if successful it )
