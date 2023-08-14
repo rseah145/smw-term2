@@ -64,5 +64,5 @@ Note that the Domain Controller/ KDC will have all domain members logon password
 
 <br>
 
-4. Once authenticated via the TGT sent by the client, the KDC generates a ticket for the File Server which is encrypted using the File Server's logon password.  
+4. Once authenticated via the TGT sent by the client, the KDC generates a ticket for the File Server which is encrypted using the File Server's logon password. (No communication with the file server, ticket is )  
 ![image](../images/Pasted%20image%2020230814121903.png)
