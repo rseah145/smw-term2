@@ -150,4 +150,6 @@ Used in early versions of Windows NT
 
 <br>
 
-NTLMv2 came out with 
+NTLMv2
+* Came out with Windows NT SP4 (Service Pack 4)
+* New password response
