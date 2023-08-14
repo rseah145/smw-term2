@@ -301,4 +301,4 @@ Overview with KDC, the 2 servers, and messages
 1. User sends an unencrypted message to the authentication server, wanting to access a service  
 ![image](../images/Pasted%20image%2020230814153116.png)  
 
-2. Authentication server validates the request that is coming from a known user and generates a TGT and sends it back to the user along with a message encrypted with the user's secret key  
+2. Authentication server validates the request that is coming from a known user, generates a TGT and sends it back to the user along with a message encrypted with the user's secret key  
