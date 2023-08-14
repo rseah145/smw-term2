@@ -36,5 +36,6 @@ Kerberos does not transmit user's passwords across the network, it uses them as 
 4. After successfully authenticating a user, the KDC discards the client's authenticator and creates a Ticket Granting Ticket (TGT) and encrypts a portion of the TGT using its own encryption key. In short, the authenticated user's info is saved in the TGT and is encrypted using the KDC's encryption key. (Blue key and ticket + lock)  
 ![image](../images/Pasted%20image%2020230814113744.png)  
 
-5. The KDC sends the TGT back to the client and the TGT is then stored within a special location in-memory of the client's PC called the "Kerberos Tray". When the PC crashes or it is shutdown/restarted the   
+5. The KDC sends the TGT back to the client and the TGT is then stored within a special location in-memory of the client's PC called the "Kerberos Tray" that cannot be swapped out/saved to disk. When the PC crashes or it is shutdown/restarted all info within the Kerberos Tray is lost.   
 ![image](../images/Pasted%20image%2020230814114051.png)  
+
