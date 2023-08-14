@@ -313,3 +313,5 @@ Overview with KDC, the 2 servers, and messages
 
 5. The ST along with another message is sent back to the user from the TGS  
 ![image](../images/Pasted%20image%2020230814154003.png)  
+
+6. User decrypts the message, creates an authenticator message, sends the user authenticator 
