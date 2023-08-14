@@ -45,3 +45,7 @@ Kerberos does not transmit user's passwords across the network, it uses them as 
 5. The KDC sends the TGT back to the client and the TGT is then stored within a special location in-memory of the client's PC called the "Kerberos Tray" that cannot be swapped out/saved to disk. When the PC crashes or it is shutdown/restarted all info within the Kerberos Tray is lost.   
 ![image](../images/Pasted%20image%2020230814114051.png)  
 
+<br>
+
+### Accessing file servers after authentication  
+
