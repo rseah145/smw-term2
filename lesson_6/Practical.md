@@ -52,4 +52,4 @@ Modify Server1 ICMP IPsec Policy to enforce IPsec communication using pre-shared
 
 <br>
 
-On the 
+On the IP Filter List page, click add and add in a new IP Filter List with the name "ServerOneICMP Traffic"  
