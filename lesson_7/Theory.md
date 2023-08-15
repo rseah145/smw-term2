@@ -133,8 +133,27 @@ Each CA can be managed independently
 Diagram illustration  
 ![image](../images/Pasted%20image%2020230815151717.png)  
 
+Shows the Root CA is supposed to be trusted by everyone  
+
+It will sign a few certs to empower a couple of servers to become intermediate CAs  
+
+These few intermediate CAs will then empower the next level of CAs  
+
+At the lowest level, these servers will be operational servers which issue out digital certs to clients which ask for services  
+
+Note that the top level CA in the Rooted Trust Model is always based on a self-signed cert to distribute out its public key, everyone will unconditionally trust this self-signed cert and the public key it holds  
+
 <br>
 
+### Cross-Certificates Model  
+
+A model in which all CAs are self-signed and trust relationships between CAs are based on cross-certitficates, certs issued by 1 CA will be trusted by PCs which belong to other CA hierarchy (cross hierarchy trust)  
+
+Cross-certs does not need to be bidirectional  
+
+Advantages: Low cost and greater flexibility  
+
+Disadvantages: Greater administrative overhead and increase risk of unauthorized access to internal resources  
 
 
 ## Selecting a Certificate Enrollment and Renewal Method  
