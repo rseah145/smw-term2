@@ -20,5 +20,5 @@ Enable Basic Authentication and Centralized SSL Certificate Support Services at 
 
 <br>
 
-Review all options and restart the server
+Review all options, check  restart the server
 
