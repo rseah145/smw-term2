@@ -41,3 +41,4 @@ At private key choose create a new private key
 ![image](../images/Pasted%20image%2020230815192517.png)  
 
 Use the following settings at the cryptography page  
+![image](../images/Pasted%20image%2020230815192606.png)  
