@@ -205,8 +205,10 @@ Issuing CA issues certs to users and PCs
 Diagram of required roles for AD  
 ![image](../images/Pasted%20image%2020230815153314.png)  
 
+<br>
 
 ## Selecting a Certificate Enrollment and Renewal Method  
+
 
 ## Configuration of the Web Server for SSL Certificates  
 
