@@ -165,7 +165,7 @@ Let's encrypt brief explanation of how Chain of Trust works in cross-cert model
 
 ### Using Third-Party CAs  
 
-
+Useful when an org conducts most of its business with external
 
 ## Selecting a Certificate Enrollment and Renewal Method  
 
