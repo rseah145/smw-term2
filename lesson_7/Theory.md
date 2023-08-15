@@ -87,6 +87,14 @@ Certificates may be required for the following apps
 
 <br>
 
+### Certificate Authority (CA)  
+
+A Certificate Authority (CA) is an entity that issues digital certs to other parties  
+
+The Root CA can issue certs to subordinate or intermediate or issuing CAs  
+
+Issuing CAs can issue certs to users or clients  
+
 
 
 ## Selecting a Certificate Enrollment and Renewal Method  
