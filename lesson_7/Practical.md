@@ -18,4 +18,7 @@
 Enable Basic Authentication and Centralized SSL Certificate Support Services at IIS  
 ![image](../images/Pasted%20image%2020230815191500.png)  
 
+<br>
+
+Review all options and restart the server
 
