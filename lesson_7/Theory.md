@@ -45,6 +45,16 @@ Before you can use digital certificates, you need to design a <b>Public Key Infr
 * Messages beng encrypted with the public key can only be decrypted by the corresponding private key
 * A digital signed message with the individual private key can only be verified by its corresponding public key
 
+<br>
+
+<b>There is one problem</b>
+* How can we obtain a genuine public key of a particular party before we can establish a secure communication channel with the party?
+
+<br>
+
+<b>Public Key Infrastructure (PKI)</b>
+* Refers to tech that feature
+
 ## Selecting a Certificate Enrollment and Renewal Method  
 
 ## Configuration of the Web Server for SSL Certificates  
