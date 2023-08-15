@@ -63,3 +63,4 @@ On IP Traffic Source page, select A specific IP Address or Subnet and enter the 
 ![image](../images/Pasted%20image%2020230815113852.png)  
 
 Set destination to any IP address  
+![image](../images/Pasted%20image%2020230815113959.png)  
