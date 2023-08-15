@@ -93,4 +93,5 @@ Select the newly created filter action and click next
 For authentication method, select pre-shared key and set the string value to "abc123def". Click next and complete the security rule setup  
 ![image](../images/Pasted%20image%2020230815115329.png)  
 
-Final results
+Final results  
+![image](../images/Pasted%20image%2020230815115435.png)  
