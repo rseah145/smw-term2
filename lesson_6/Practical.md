@@ -90,5 +90,5 @@ Use the following options for the remaining setup pages for the new filter actio
 Select the newly created filter action and click next  
 ![image](../images/Pasted%20image%2020230815115159.png)  
 
-For authentication method, select pre-shared key and set the string value to "abc123def". Click next  
+For authentication method, select pre-shared key and set the string value to "abc123def". Click next and complete the security rule setup  
 ![image](../images/Pasted%20image%2020230815115329.png)  
