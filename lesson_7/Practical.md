@@ -82,4 +82,5 @@ Web Enrolment configuration has no prompt for any options
 
 3. Right-click on the right panel and click on "New" -> "Automatic Certificate Request" to open the configuration wizard  
 ![image](../images/Pasted%20image%2020230815194228.png)  
+![image](../images/Pasted%20image%2020230815194303.png)  
 
