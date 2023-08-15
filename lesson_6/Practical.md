@@ -119,3 +119,5 @@ In GPME, right-click "ServerOneICMP" under IP Security Policies (PC Config -> Wi
 ![image](../images/Pasted%20image%2020230815121528.png)  
 
 3. Close GPME, and link the securedICMPPoliccy GPO to the OU that hosts memsrv1  
+Right-click on the OU and click "Link an Existing GPO"  
+
