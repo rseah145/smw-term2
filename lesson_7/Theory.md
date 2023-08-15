@@ -352,8 +352,24 @@ Must define the CRL location along with the access path before deploying certs
 
 ### OCSP and OCSP Responder
 
-OCSP
-* Online Certificate Status Protocol 
+OCSP  
+* Online Certificate Status Protocol, RFC 6960, proposed in 2013  
+* An internet protocol used for obtaining the revocation status of an X.509 digital cert  
+* It complements (not replace) the operations of CRLs  
+
+<br>
+
+OCSP Responder  
+* A server typically run by the cert issuer which returns a signed response on the status of a particular issued cert  
+* Possible responses are Good, Revoked, Unknown, or No response as the issuer does not implement the responder service  
+
+<br>
+
+Comparison to CRLs
+* Less burden for clients to maintain CRLs (network and storage)
+* Easier to implement compared to CRLs for up to date checking  
+* OCSP uses non-encrypted messages, it may be subjected to interception  
+* OCSP is an optional component for the cert server  
 
 
 ## Configuration of the Web Server for SSL Certificates  
