@@ -198,6 +198,10 @@ Root CA is at the top of a certification hierarchy and must be trusted unconditi
 
 <br>
 
+Intermediate CA is a subordinate to a root CA  
+
+Issuing CA issues certs to users and PCs  
+
 
 ## Selecting a Certificate Enrollment and Renewal Method  
 
