@@ -87,5 +87,8 @@ Use the following options for the remaining setup pages for the new filter actio
 ![image](../images/Pasted%20image%2020230815115011.png)  
 ![image](../images/Pasted%20image%2020230815115053.png)  
 
-Select then newly created filter action and click next  
+Select the newly created filter action and click next  
 ![image](../images/Pasted%20image%2020230815115159.png)  
+
+For authentication method, select pre-shared key and set the string value to "abc123def"  
+![image](../images/Pasted%20image%2020230815115329.png)  
