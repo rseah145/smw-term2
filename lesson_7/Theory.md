@@ -130,6 +130,9 @@ Each CA is responsible for processing requests, issuing certs, revoking certs, a
 
 Each CA can be managed independently  
 
+Diagram illustration  
+![image](../images/Pasted%20image%2020230815151717.png)  
+
 <br>
 
 
