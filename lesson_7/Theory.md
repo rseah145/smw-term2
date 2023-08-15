@@ -219,6 +219,16 @@ Two types
 * Manual, if administrative approval is required; most useful for issuing and renewing PC and IPsec certs  
 * Automatic, if no approval is needed; can improve administrative control over certs  
 
+<br>
+
+Methods for automatic enrollment
+* Cert autoenrollment and renewal based on a combination of Group Policy settings and cert templates  
+* Certificate Request Wizard and Cert Renewal Wizard  
+* Web enrollment support pages  
+* Smart card enrollment station  
+
+<br>
+
 
 
 ## Configuration of the Web Server for SSL Certificates  
