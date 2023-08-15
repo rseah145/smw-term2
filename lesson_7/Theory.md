@@ -441,6 +441,22 @@ Communicates on port 443
 
 SSL-secured URLs begin with https:// prefix  
 
+<br>
+
+### Configuration of the web server for SSL certs  
+
+Use SSL encryption only for sensitive info; encrypted transmissions can significantly reduce transmission reate and server performance  
+
+Server certs provide a way for users to confirm the identity of the website  
+
+<br>
+
+A server cert contains  
+* Org name affiliated with the server content  
+* Name of the org that issued the cert  
+* A public key that is used to establish an encrypted connection  
+
+<br> 
 
 
 
