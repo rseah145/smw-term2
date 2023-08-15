@@ -202,7 +202,9 @@ Intermediate CA is a subordinate to a root CA
 
 Issuing CA issues certs to users and PCs  
 
-Diagram of 
+Diagram of required roles for AD  
+![image](../images/Pasted%20image%2020230815153314.png)  
+
 
 ## Selecting a Certificate Enrollment and Renewal Method  
 
