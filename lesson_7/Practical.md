@@ -64,3 +64,7 @@ Click Yes when a pop up for configuring the remaining Role services is shown for
 6. Select the next role server and click next  
 ![image](../images/Pasted%20image%2020230815193047.png)  
 
+Web Enrolment configuration has no prompt for any options  
+
+7. Repeat the same steps used to configure web enrolment for configuring the online responder role service, which also does not require further input  
+
