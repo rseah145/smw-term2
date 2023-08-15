@@ -24,3 +24,7 @@
 
 7. Ensure that the "edit properties" box is checked an click Finish  
 ![image](../images/Pasted%20image%2020230815111030.png)  
+
+8. Close the properties window that pops-up after completing the IP security wizard  
+![image](../images/Pasted%20image%2020230815111143.png)  
+
