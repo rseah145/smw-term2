@@ -84,5 +84,5 @@ Web Enrolment configuration has no prompt for any options
 ![image](../images/Pasted%20image%2020230815194228.png)  
 ![image](../images/Pasted%20image%2020230815194303.png)  
 
-4. In the Automatic Certificate Request Setup Wizard, click next till the 
+4. In the Automatic Certificate Request Setup Wizard, click next and select the "Computer" certificate template 
 
