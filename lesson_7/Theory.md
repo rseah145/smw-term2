@@ -458,6 +458,13 @@ A server cert contains
 
 <br> 
 
+1st diagram for web server cert wizard  
+![image](../images/Pasted%20image%2020230815161844.png)  
+
+2nd diagram for cert request submission  
+![image](../images/Pasted%20image%2020230815161912.png)  
+
+<b>r
 
 
 ## Configuration of the Client for SSL Certificates
