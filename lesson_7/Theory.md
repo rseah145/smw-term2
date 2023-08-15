@@ -464,7 +464,11 @@ A server cert contains
 2nd diagram for cert request submission  
 ![image](../images/Pasted%20image%2020230815161912.png)  
 
-<b>r
+<br>
+
+### Self-Issued certs  
+
+Consider
 
 
 ## Configuration of the Client for SSL Certificates
