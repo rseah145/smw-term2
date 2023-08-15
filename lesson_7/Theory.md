@@ -300,6 +300,17 @@ The other is, the certificate owner will just ask for a comprehensive service fr
 
 In the second approach, it will give the CA an option to archive the private key, as described in the slide.  
 
+<br>
+
+### Deploying and Revoking Cert for users, PCs, and CAs  
+
+Possible to automate the deployment of certs by configuring Group Policy  
+
+<br>
+
+Manual approval should be required for  
+* All certs that are needed to perform network admin tasks or software development  
+* All certs issued to joint venture partners  
 
 
 ## Configuration of the Web Server for SSL Certificates  
