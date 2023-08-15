@@ -248,7 +248,22 @@ Diagram of commonly used Cert Templates
 
 <br>
 
+Cert templates are available only on Enterprise Root and subordinate CAs  
 
+Stored in Active Directory  
+
+Available to every enterprise CA in the forest  
+
+<br>
+
+Cert Templates MMC snap-in provides admins with the capability to  
+* Create additional templates by duplicating and modifying existing templates  
+* Modify template properties  
+* Configure policies applied to cert enrollment, issuance, and application  
+* Allow the autoenrollment of certs  
+* Configure ACLs on cert templates  
+
+<br>
 
 
 ## Configuration of the Web Server for SSL Certificates  
