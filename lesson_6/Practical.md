@@ -71,3 +71,5 @@ Set IP Protocol type to ICMP. Click Next
 Complete the IP Filter setup  
 ![image](../images/Pasted%20image%2020230815114203.png)  
 
+Close the ServerOneICMP Traffic Filter list and move on to the next step  
+![image](../images/Pasted%20image%2020230815114309.png)  
