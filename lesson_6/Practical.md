@@ -41,4 +41,6 @@ Modify Server1 ICMP IPsec Policy to enforce IPsec communication using pre-shared
 
 2. Right-click on "ServerOneICMP" in the right window of GPME and choose "Properties"  
 ![image](../images/Pasted%20image%2020230815112721.png)  
+![image](../images/Pasted%20image%2020230815112812.png)  
 
+3.
