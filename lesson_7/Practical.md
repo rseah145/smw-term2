@@ -77,3 +77,4 @@ Web Enrolment configuration has no prompt for any options
 1. On the PDC, edit the Default Domain Policy GPO via GPMC and GPME  
 ![image](../images/Pasted%20image%2020230815193926.png)  
 
+2. In GPME, navigate to PC Configuration -> Windows Settings -> Security Settings -> Public Key Policies -> Automatic Certificate Request Settings  
