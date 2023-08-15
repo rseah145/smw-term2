@@ -265,6 +265,31 @@ Cert Templates MMC snap-in provides admins with the capability to
 
 <br>
 
+Issuance of cert requests can be controlled in 3 ways
+* Configuring permissions on the template from the security tab  
+* Preventing the CA from issuing that cert type by deleting the template  
+* Configuring the permissions on the CA  
+
+<br>
+
+Restrict permissions on your CAs to prevent unauthorized access  
+
+Configure the discretionary access control list (DACL) for each template  
+
+<br>
+
+### Configuring Archival and Recovery of Keys  
+
+Possible to configure the CA to archive private keys of certs at the time of issuance; enables to recover the key should it be lost  
+
+Only highly trusted individuals should be granted the privilege of arching and recovering keys  
+
+Cert Services does not archive private keys by default  
+
+Key recovery methods: key recovery agent, certutil tool, and krt.exe  
+
+
+
 
 ## Configuration of the Web Server for SSL Certificates  
 
