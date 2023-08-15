@@ -235,6 +235,8 @@ Cert Services Web page (Windows CA comes with a Web interface that lets users re
 ![image](../images/Pasted%20image%2020230815153658.png)  
 
 
+
+
 ## Configuration of the Web Server for SSL Certificates  
 
 ## Configuration of the Client for SSL Certificates
