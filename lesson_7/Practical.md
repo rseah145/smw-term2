@@ -38,3 +38,5 @@ At CA type select Root CA
 ![image](../images/Pasted%20image%2020230815192442.png)  
 
 At private key choose create a new private key  
+![image](../images/Pasted%20image%2020230815192517.png)  
+
