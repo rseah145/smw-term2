@@ -59,9 +59,12 @@ Before you can use digital certificates, you need to design a <b>Public Key Infr
 
 <br>
 
-### What is a digital cert?
+### What is a digital cert?  
 
-Vid [src](generally_glad_grubworm_LmcLZhFf) (watch from 14:21 and onwards)
+Vid [src](generally_glad_grubworm_LmcLZhFf) (watch from 14:21 and onwards)  
+
+Why do we need it?  
+
 
 ## Selecting a Certificate Enrollment and Renewal Method  
 
