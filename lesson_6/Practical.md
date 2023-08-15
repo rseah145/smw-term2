@@ -59,3 +59,6 @@ On the IP Filter List page, click add and add in a new IP Filter List with the n
 Within the IP Filter List pop-up menu click "Add" and set the following IP Filter Description and Mirrored property (check the mirrored option). Click Next  
 ![image](../images/Pasted%20image%2020230815113657.png)  
 
+On IP Traffic Source page, select A specific IP Address or Subnet and enter the IP of memsrv1  
+![image](../images/Pasted%20image%2020230815113852.png)  
+
