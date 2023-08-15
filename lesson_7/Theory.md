@@ -331,6 +331,10 @@ The life span of a digital certificate is by default limited by its expiry date 
 Diagram of revoking a cert  
 ![image](../images/Pasted%20image%2020230815154941.png)  
 
+This slide shows how the CA administrator can revoke an issued certificate.  However, since PKI is based on a trusted model which does not require always online validation. 
+Even a certificate has been revoked by the CA, other systems  may not be aware of such revocation.  That is why we need the Certificate Revocation List.  
+
+
 
 
 
