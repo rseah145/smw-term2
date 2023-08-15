@@ -21,3 +21,6 @@
 ![image](../images/Pasted%20image%2020230815110829.png)  
 
 6. On the requests for secure communication page, take the default and go to the confirmation page  
+
+7. Ensure that the "edit properties" box is checked an click Finish  
+![image](../images/Pasted%20image%2020230815111030.png)  
