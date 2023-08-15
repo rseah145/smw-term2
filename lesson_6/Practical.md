@@ -8,5 +8,6 @@
 
 2. Within GPMC, right-click on GPOs and create a new GPO with the name "securedICMPPolicy"  
 ![image](../images/Pasted%20image%2020230815105132.png)  
+![image](../images/Pasted%20image%2020230815105217.png)  
 
 3. 
