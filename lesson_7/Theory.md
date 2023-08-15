@@ -288,6 +288,17 @@ Cert Services does not archive private keys by default
 
 Key recovery methods: key recovery agent, certutil tool, and krt.exe  
 
+Slide notes
+Here is the time we need to explain another important aspect of the PKI operations. 
+That’s, the generation of the key-pair.  
+
+There are two approaches.  
+One is the certificate owner (and the requester) whom will first create a key-pair and send the public key to the CA to ask its service.  
+To enclose the public key into a digital certificate with the CA’s digital signature.  In this approach, the CA has no knowledge of  the owner's private key.  
+
+The other is, the certificate owner will just ask for a comprehensive service from the CA, to help generate the key pair and seal the public key in a digital certificate. The requester will be able to get  back the private key of the key pair, and the digital certificate that holds the public key. In this case, the requester has to trust the CA , which will delete the private key from the CA’s system.  
+
+In the second approach, it will give the CA an option to archive the private key, as described in the slide.  
 
 
 
