@@ -375,6 +375,21 @@ Comparison to CRLs
 
 ## Configuration of the Web Server for SSL Certificates  
 
+### Secured Web Access
+
+Two/Three issues for non secured web access
+* How to authenticate the identity of the remote server, e.g. Hackers may setup phishing site to mislead clients to submit confidential info/even pay for an non-existing service  
+* How to ensure the transferred content is not tampered or intercepted by unauthorized parties  
+* Last one, it may not be obvious to general users, for enterprise servers, they need a solution to authenticate the identity of the remote clients that try to access its services  
+
+<br>
+
+One possible solution, use SSL certs  
+
+
+
+
+
 ## Configuration of the Client for SSL Certificates
 
 ## Certificate Renewal
