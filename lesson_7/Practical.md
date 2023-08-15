@@ -11,4 +11,6 @@
 
 3. Installation of the AD CS role
 ![image](../images/Pasted%20image%2020230815191250.png)  
+![image](../images/Pasted%20image%2020230815191346.png)  
+
 
