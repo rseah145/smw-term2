@@ -53,7 +53,7 @@ Before you can use digital certificates, you need to design a <b>Public Key Infr
 <br>
 
 <b>Public Key Infrastructure (PKI)</b>
-* Refers to tech that feature
+* Refers to tech that features authentication and encryption
 
 ## Selecting a Certificate Enrollment and Renewal Method  
 
