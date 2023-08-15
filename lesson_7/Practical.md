@@ -33,3 +33,5 @@ In Role Services select CA only and click next
 
 At type select Enterprise CA  
 ![image](../images/Pasted%20image%2020230815192405.png)  
+
+At CA type select Root CA  
