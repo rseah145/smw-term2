@@ -56,3 +56,11 @@ Click configure button on the confirmation page
 
 Click Yes when a pop up for configuring the remaining Role services is shown for the 2 remaining service, the web enrollment and the online responder  
 ![image](../images/Pasted%20image%2020230815192917.png)  
+
+<br>
+
+5. For credentials page, use the same credentials for setting up the CA  
+
+6. Select the next role server and click next  
+![image](../images/Pasted%20image%2020230815193047.png)  
+
