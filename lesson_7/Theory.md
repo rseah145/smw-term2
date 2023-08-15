@@ -392,8 +392,34 @@ Need to install IIS in a highly secured and locked configuration
 
 Secure Sockets Layer (SSL): public key-based security protocol  
 
+<br>
 
+SSL process uses
+* Certs for authentication  
+* Encryption for message integrity and confidentiality  
 
+<br>
+
+Requires installation of valid server cert to establish encrypted communications using SSL  
+
+Cert-based SSL features in IIS consists of
+* A server cert
+* A client cert (optional)  
+* Various digital keys  
+
+<br>
+
+Ways to obtain certs  
+* Can be created using Certiticate Services  
+* Can be obtained from trusted 3rd-party CA  
+
+<br>
+
+### IIS Authentication Methods  
+
+-----------------------------
+| Method  |  Security level |
+| :
 
 ## Configuration of the Client for SSL Certificates
 
