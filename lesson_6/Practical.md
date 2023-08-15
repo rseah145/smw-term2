@@ -38,3 +38,5 @@ Modify Server1 ICMP IPsec Policy to enforce IPsec communication using pre-shared
 
 1. Edit the properties of securedOneICMPPolicy via GPO editor for securedICMPPolicy -> PC configuration -> Policies -> Windows Settings -> Security Settings -> IP Security Policies  
 ![image](../images/Pasted%20image%2020230815112610.png)  
+
+2. Right-click on "ServerOneICMP" in the right window of GPME and choose "Properties"  
