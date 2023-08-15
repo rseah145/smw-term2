@@ -18,3 +18,4 @@
 ![image](../images/Pasted%20image%2020230815105642.png)  
 
 5. On the policy name page enter "ServerOneICMP"  
+![image](../images/Pasted%20image%2020230815110829.png)  
