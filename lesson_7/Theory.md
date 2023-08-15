@@ -158,7 +158,7 @@ Disadvantages: Greater administrative overhead and increase risk of unauthorized
 Diagram for Cross-Cert Model  
 ![image](../images/Pasted%20image%2020230815152154.png)  
 
-Let's encrypt  
+Let's encrypt brief explanation of how Chain of Trust works in cross-cert model  
 ![image](../images/Pasted%20image%2020230815152251.png)  
 
 <br>
