@@ -156,6 +156,10 @@ Advantages: Low cost and greater flexibility
 Disadvantages: Greater administrative overhead and increase risk of unauthorized access to internal resources  
 
 
+
+<br>
+
+
 ## Selecting a Certificate Enrollment and Renewal Method  
 
 ## Configuration of the Web Server for SSL Certificates  
