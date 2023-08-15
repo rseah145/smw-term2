@@ -33,7 +33,7 @@ Determine certificate renewal
 ## Defining Certificate Requirements  
 Microsoft Win Server enables secure data access based on the use of <b>digital certificates</b>  
 
-Certificates allow users or systems to prove to others that they aare who they say they are  
+Certificates allow users or systems to prove to others that they are who they say they are  
 
 Before you can use digital certificates, you need to design a <b>Public Key Infrastructure (PKI)</b>  
 
