@@ -57,6 +57,12 @@ Before you can use digital certificates, you need to design a <b>Public Key Infr
 * Based on a system of certificates, each cert contains a public key and the name of the subject
 * Allows an org to publish, use, renew, and/or revoke certs and enroll clients
 
+<br>
+
+### What is a digital cert?
+
+Vid [src]() (watch from 14:21 and onwards)
+
 ## Selecting a Certificate Enrollment and Renewal Method  
 
 ## Configuration of the Web Server for SSL Certificates  
