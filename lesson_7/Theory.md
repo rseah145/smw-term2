@@ -202,6 +202,7 @@ Intermediate CA is a subordinate to a root CA
 
 Issuing CA issues certs to users and PCs  
 
+Diagram of 
 
 ## Selecting a Certificate Enrollment and Renewal Method  
 
