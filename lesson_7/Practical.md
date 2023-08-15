@@ -26,5 +26,5 @@ Review all options, check "Restart the destination server automatically if requi
 <br>
 
 4. After the role(s) have been added to the server click on the flag icon on Server Manager and start the post-deployment configuration for AD CS  
-
+![image](../images/Pasted%20image%2020230815192120.png)  
 
