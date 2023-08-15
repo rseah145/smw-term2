@@ -371,6 +371,7 @@ Comparison to CRLs
 * OCSP uses non-encrypted messages, it may be subjected to interception  
 * OCSP is an optional component for the cert server  
 
+<br>
 
 ## Configuration of the Web Server for SSL Certificates  
 
