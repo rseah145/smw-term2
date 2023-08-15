@@ -235,6 +235,12 @@ Cert Services Web page (Windows CA comes with a Web interface that lets users re
 After downloaded the certificate chain, the user may install it into the system's  Trusted Root Certificate Authority Repository  
 ![image](../images/Pasted%20image%2020230815153658.png)  
 
+<br>
+
+### Configuring Cert Templates  
+
+Cert services provides cert templates to simplify the process of requesting and issuing certs  
+
 
 
 
