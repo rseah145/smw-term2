@@ -47,4 +47,8 @@ At CA name page use all the default values
 
 <br>
 
+For the rest of the pages, review and use the default settings  
+
+<br>
+
 Click configure button on the confirmation page  
