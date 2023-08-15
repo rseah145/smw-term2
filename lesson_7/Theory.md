@@ -510,8 +510,9 @@ To protect your web content from unauthorized access you must do the following
 * Use Basic, Digest, or Integrated Windows authentication, in addition to requiring a client cert  
 * Create a Windows account mapping for client certs  
 
+<br>
 
-
+Diag
 
 
 ## Certificate Renewal
