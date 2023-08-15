@@ -39,7 +39,9 @@ Before you can use digital certificates, you need to design a <b>Public Key Infr
 
 <br>
 
-<b>To protect
+<b>To protect exchanging Messages from eavesdropping attack with Asynchronous Encryption Algorithm<b>
+* A key-pair is associated with an individual party
+* 
 
 ## Selecting a Certificate Enrollment and Renewal Method  
 
