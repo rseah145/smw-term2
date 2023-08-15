@@ -77,3 +77,4 @@ Close the ServerOneICMP Traffic Filter list and move on to the next step
 Back in the security rule wizard, select "ServerOneICMP Traffic" filter list as the default IP Filter List by clicking on the radio button beside it and checking it. Click Next  
 ![image](../images/Pasted%20image%2020230815114531.png)  
 
+Within the Filter Action page, click add and name the new filter action "ICMP security"
