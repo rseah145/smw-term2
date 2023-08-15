@@ -1,5 +1,6 @@
 # Navigation
 * [Create an IPsec Policy](#create-an-ipsec-policy)
+* [Configure Authentication, Encryption Methods and Protocol for IPsec](#configure-authentication-encryption-methods-and-protocol-for-ipsec)
 
 
 ## Create an IPsec Policy  
@@ -28,4 +29,7 @@
 8. Close the properties window that pops-up after completing the IP security wizard  
 ![image](../images/Pasted%20image%2020230815111143.png)  
 
+<br>
+
+## Configure Authentication, Encryption Methods and Protocol for IPsec  
 
