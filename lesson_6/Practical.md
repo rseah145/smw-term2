@@ -19,3 +19,5 @@
 
 5. On the policy name page enter "ServerOneICMP"  
 ![image](../images/Pasted%20image%2020230815110829.png)  
+
+6. On the requests for secure communication page, take the default and go to the confirmation page  
