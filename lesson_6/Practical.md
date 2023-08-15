@@ -114,4 +114,5 @@ Ping DC from Win10 client
 All Pings should be successful  
 
 2. Tests with IPsec Policy deployed  
-Use GPMC and edit the securedICMPPolicy 
+Use GPMC and edit the securedICMPPolicy under GPOs  
+In GPME, right-click "ServerOneICMP" under IP 
