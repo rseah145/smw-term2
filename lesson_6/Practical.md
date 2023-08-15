@@ -43,4 +43,4 @@ Modify Server1 ICMP IPsec Policy to enforce IPsec communication using pre-shared
 ![image](../images/Pasted%20image%2020230815112721.png)  
 ![image](../images/Pasted%20image%2020230815112812.png)  
 
-3. In the rules tab, ensure the default entry "\<Dynamic\>" is unchecked
+3. In the rules tab, ensure the default entry "\<Dynamic\>" is unchecked and click on the "Add" button to bring up the Security rule wizard  
