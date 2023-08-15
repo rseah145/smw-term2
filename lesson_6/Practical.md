@@ -13,4 +13,4 @@
 3. Edit the newly created GPO and navigate to the IPsec Policy setting menu as shown  
 ![image](../images/Pasted%20image%2020230815105408.png)  
 
-
+4. Right-click on the "IP Security Policies on Active Directory" and click "Create IP Security Policy" to open the IP Security Policy wizard  
