@@ -65,4 +65,6 @@ On IP Traffic Source page, select A specific IP Address or Subnet and enter the 
 Set destination to any IP address. Click next  
 ![image](../images/Pasted%20image%2020230815113959.png)  
 
-Set IP Protocol type to ICMP
+Set IP Protocol type to ICMP. Click Next  
+![image](../images/Pasted%20image%2020230815114043.png)  
+
