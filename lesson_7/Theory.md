@@ -512,7 +512,16 @@ To protect your web content from unauthorized access you must do the following
 
 <br>
 
-Diag
+Diagram for SSL browser options  
+![image](../images/Pasted%20image%2020230815162520.png)  
 
+<br>
 
-## Certificate Renewal
+## Certificate Renewal  
+
+Security and renewal requirements for certs should be based on the following factors
+* Value of the network resources protected by the CA trust chain  
+* Degree to which you trust your cert users  
+* Amount of administrative effort that you are willing to devote to cert renewal and CA renewal  
+* Business value of the cert  
+
