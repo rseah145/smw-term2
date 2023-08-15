@@ -241,6 +241,8 @@ After downloaded the certificate chain, the user may install it into the system'
 
 Cert services provides cert templates to simplify the process of requesting and issuing certs  
 
+Each template contains the rules and settings; can serve a single purpose or multiple purposes  
+
 
 
 
