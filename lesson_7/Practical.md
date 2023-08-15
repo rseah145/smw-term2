@@ -25,6 +25,6 @@ Review all options, check "Restart the destination server automatically if requi
 
 <br>
 
-4. After the role(s) have been added to the server click on the flag icon on Server Manager and start the post-deployment configuration for AD CS  
+4. After the role(s) have been added to the server click on the flag icon on Server Manager and start the post-deployment configuration for AD CS (Use a user that belongs to the domain admins and enterprise admins groups)  
 ![image](../images/Pasted%20image%2020230815192120.png)  
 
