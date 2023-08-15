@@ -75,3 +75,5 @@ Web Enrolment configuration has no prompt for any options
 ## Setting up the default Enterprise autoenrollment policy  
 
 1. On the PDC, edit the Default Domain Policy GPO via GPMC and GPME  
+![image](../images/Pasted%20image%2020230815193926.png)  
+
