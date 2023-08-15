@@ -122,6 +122,14 @@ Each CA serves a single role within the hierarchy and is not dependent on other 
 
 Possible to add a new CA to a hierarchy  
 
+Rooted trust hierarchies fall into 2 subcategories: two-tier CA hierarchy and three-tier CA hierarchy  
+
+Any CA in a rooted trust hierarchy is either a root or a subordinate but never both  
+
+Each CA is responsible for processing requests, issuing certs, revoking certs, and publishing CRLs  
+
+Each CA can be managed independently  
+
 <br>
 
 
