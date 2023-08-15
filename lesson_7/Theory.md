@@ -209,6 +209,17 @@ Diagram of required roles for AD
 
 ## Selecting a Certificate Enrollment and Renewal Method  
 
+Depends on
+* Types of certs you intend to use  
+* Number and type of clients that you enroll  
+
+<br>
+
+Two types
+* Manual, if administrative approval is required; most useful for issuing and renewing PC and IPsec certs  
+* Automatic, if no approval is needed; can improve administrative control over certs  
+
+
 
 ## Configuration of the Web Server for SSL Certificates  
 
