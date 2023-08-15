@@ -78,3 +78,4 @@ Web Enrolment configuration has no prompt for any options
 ![image](../images/Pasted%20image%2020230815193926.png)  
 
 2. In GPME, navigate to PC Configuration -> Windows Settings -> Security Settings -> Public Key Policies -> Automatic Certificate Request Settings  
+![image](../images/Pasted%20image%2020230815194112.png)  
