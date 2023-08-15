@@ -106,4 +106,5 @@ Ping memsrv1 from Win10 client
 Ping Win10 client from memsrv1  
 Ping memsrv1 from DC  
 Ping DC from memsrv1  
-Ping 
+Ping Win10 client from DC  
+Ping DC from Win10 client  
