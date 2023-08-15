@@ -129,3 +129,10 @@ Select the securedICMPPolicy and click ok
 
 5. Repeat the ping tests, only the pings between the DC and Win10 client should be successful  
 
+6. In order to let the Win10 workstation able to ping Sever1, we need to apply the ServerOneICMP IPsec policy to the Win10 workstation.  
+
+To do this, we can link the SeverOneICMPPolicy GPO to the OU that houses the Win10 , or we can try the following:  
+
+Edit the GPO that is already linked to the OU that houses the Win10 , e.g. Win10_Policy.
+You will see find the ServerOneICMP IPsec policy already listed in the GPO. (but it is in unassigned state). It is because, the IPsec policy is independent to GPOs. Once you have added an IPsec Policy to the Active Directory, it will become available for all GPOs. 
+
