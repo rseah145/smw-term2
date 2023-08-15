@@ -42,3 +42,9 @@ At private key choose create a new private key
 
 Use the following settings at the cryptography page  
 ![image](../images/Pasted%20image%2020230815192606.png)  
+
+At CA name page use all the default values
+
+<br>
+
+Click configure button on the confirmation page  
