@@ -312,6 +312,20 @@ Manual approval should be required for
 * All certs that are needed to perform network admin tasks or software development  
 * All certs issued to joint venture partners  
 
+<br>
+
+Conditions to auto-enroll certs
+* Client PC must be integrated into Active Directory  
+* Users require the Read, Enroll, and Autoenroll permissions  
+
+<br>
+
+Reasons for revoking a cert
+* Cert is compromised  
+* Termination of the account to whom the cert was issued  
+
+<br>
+
 
 ## Configuration of the Web Server for SSL Certificates  
 
