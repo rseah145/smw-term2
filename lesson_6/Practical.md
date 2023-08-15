@@ -68,4 +68,6 @@ Set destination to any IP address. Click next
 Set IP Protocol type to ICMP. Click Next  
 ![image](../images/Pasted%20image%2020230815114043.png)  
 
-Complete the setup 
+Complete the IP Filter setup  
+![image](../images/Pasted%20image%2020230815114203.png)  
+
