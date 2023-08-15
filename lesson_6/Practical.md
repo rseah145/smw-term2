@@ -56,5 +56,6 @@ On the IP Filter List page, click add and add in a new IP Filter List with the n
 ![image](../images/Pasted%20image%2020230815113415.png)  
 ![image](../images/Pasted%20image%2020230815113502.png)  
 
-Within the IP Filter List pop-up menu click "Add" and set the following IP Filter Description and Mirrored property  
+Within the IP Filter List pop-up menu click "Add" and set the following IP Filter Description and Mirrored property. Click Next  
 ![image](../images/Pasted%20image%2020230815113657.png)  
+
