@@ -525,3 +525,10 @@ Security and renewal requirements for certs should be based on the following fac
 * Amount of administrative effort that you are willing to devote to cert renewal and CA renewal  
 * Business value of the cert  
 
+<br>
+
+| Cert Purpose | Cert Life | Renewal Recommendation |
+| :--------------- | :--------- | :----------------------------- |
+| Enterprise CAs for medium security certs | 5 years | Renew every 3 years. Renew by using a new key at least every 5 years |
+| Enterprise CAs for high security certs | 5 years | Renew with new key at least every 4 years |
+| Enterprise CA for external certs | 5 years | Renew at least every 4 years. Renew by using a new key at least every 5 years |
