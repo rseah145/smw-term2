@@ -243,6 +243,11 @@ Cert services provides cert templates to simplify the process of requesting and 
 
 Each template contains the rules and settings; can serve a single purpose or multiple purposes  
 
+Diagram of commonly used Cert Templates  
+![image](../images/Pasted%20image%2020230815153957.png)  
+
+<br>
+
 
 
 
