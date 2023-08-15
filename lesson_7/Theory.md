@@ -188,7 +188,15 @@ Windows system already configured with a list of trusted commercial 3rd-party CA
 
 <br>
 
-###
+### Installing CA Roles  
+
+Root CA is installed first, followed by installing intermediate CAs, and finally the issuing CAs  
+
+Root CA is at the top of a certification hierarchy and must be trusted unconditionally by clients in an org
+* An enterprise root CA stores its info in Active Directory and the server that hosts the service must be joined to the domain  
+* Storing the root CA offline is much more secure  
+
+<br>
 
 
 ## Selecting a Certificate Enrollment and Renewal Method  
