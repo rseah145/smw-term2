@@ -431,7 +431,17 @@ Ways to obtain certs
 
 <br>
 
-#
+### HTTPS  
+
+Tech that encrypts individual messages in Web communications rather than establishing a secure channel  
+
+Popular e-commerce tech and is used for secure online shopping  
+
+Communicates on port 443  
+
+SSL-secured URLs begin with https:// prefix  
+
+
 
 
 ## Configuration of the Client for SSL Certificates
