@@ -417,9 +417,22 @@ Ways to obtain certs
 
 ### IIS Authentication Methods  
 
------------------------------
 | Method  |  Security level |
-| :
+| :-------| :----------|
+| Anonymous authentication | None |
+| Basic authentication | Low |
+| Forms authentication (IIS 7 or later) | Low or Medium (with SSL) |
+| Digest authentication | Medium |
+| Advanced Digest authentication | Medium |
+| Certificate authentication | High |
+| Integrated Windows authentication | High |
+| .NET Passport (IIS 5/ IIS 6) | High |
+| Windows Live ID (IIS 7 or Later) | high |
+
+<br>
+
+#
+
 
 ## Configuration of the Client for SSL Certificates
 
