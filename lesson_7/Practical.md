@@ -1,2 +1,5 @@
 # Navigation
-* [Add appropriate server role to Server 2016 to faciliate an Enterprise Root CA](#add-appropriate-server-role-to-server-2016-to-faciliate-)
+* [Add appropriate server role to Server 2016 to facilitate an Enterprise Root CA](#add-appropriate-server-role-to-server-2016-to-facilitate-an-enterprise-root-ca)
+
+## Add appropriate server role to Server 2016 to facilitate an Enterprise Root CA  
+
