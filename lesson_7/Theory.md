@@ -338,7 +338,19 @@ Even a certificate has been revoked by the CA, other systems  may not be aware o
 
 ### Certification Revocation Lists (CRLs)  
 
+All certs have specified lifetimes  
 
+In some situations, there is need to invalidate or <b>revoke</b> a cert before it has reached the end of its lifetime  
+
+Revoked certs are published in the cert revocation list (CRL)  
+
+CRLs are valid only for a limited time, PKI clients need to retrieve a new CRL periodically  
+
+Must define the CRL location along with the access path before deploying certs  
+
+<br>
+
+##
 
 
 ## Configuration of the Web Server for SSL Certificates  
