@@ -74,6 +74,21 @@ If we receive a digital certificate and we can verified it is signed by a trustw
 
 <br>
 
+Certificates may be required for the following apps
+* Digital signatures
+* Secured e-mail
+* <b>Secured HTTP communication (HTTPS/SSL)</b>
+* Internet authentication
+* <b>Software code signing</b>
+* IP security
+* Smart card logon
+* Encrypted file system
+* <b>802.1x authentication</b>
+
+<br>
+
+
+
 ## Selecting a Certificate Enrollment and Renewal Method  
 
 ## Configuration of the Web Server for SSL Certificates  
