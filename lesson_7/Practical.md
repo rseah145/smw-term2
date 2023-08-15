@@ -68,3 +68,4 @@ Web Enrolment configuration has no prompt for any options
 
 7. Repeat the same steps used to configure web enrolment for configuring the online responder role service, which also does not require further input  
 
+![[Pasted image 20230815193257.png]]
