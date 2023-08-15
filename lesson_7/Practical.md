@@ -89,3 +89,6 @@ Web Enrolment configuration has no prompt for any options
 
 5. Click finish to confirm the setup  
 ![image](../images/Pasted%20image%2020230815194604.png)  
+
+6. Completed setup for autoenrollment  
+![image](../images/Pasted%20image%2020230815194644.png)  
