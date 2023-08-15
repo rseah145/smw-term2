@@ -100,14 +100,15 @@ Issuing CAs can issue certs to users or clients
 ### Certificate Authority Hierarchies and Roles  
 
 Types of hierarchies that can be used for CAs  
-* Rooted trust model
-* Cross-certification trust model
-* Hybrid trust model
+* Rooted trust model  
+* Cross-certification trust model  
+* Hybrid trust model  
 
 <br>
 
-Roles that can be chosen for CAs include
-* For standalone CA,
+Roles that can be chosen for CAs include  
+* For standalone CA, Rudimentary CA, and Intermediate CA  
+* For Enterprise CA, Basic-security CA, Medium-security CA, and High-security CA  
 
 
 
