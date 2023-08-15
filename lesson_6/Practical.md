@@ -28,3 +28,4 @@
 8. Close the properties window that pops-up after completing the IP security wizard  
 ![image](../images/Pasted%20image%2020230815111143.png)  
 
+
