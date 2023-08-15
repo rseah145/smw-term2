@@ -352,6 +352,9 @@ Must define the CRL location along with the access path before deploying certs
 
 ### OCSP and OCSP Responder
 
+OCSP
+* Online Certificate Status Protocol 
+
 
 ## Configuration of the Web Server for SSL Certificates  
 
