@@ -474,7 +474,44 @@ Considerations when deciding to issue your own server certs
 * Keep the learning curve in mind  
 * Evaluate the willingness of outside vendors clients to trust your org as a cert supplier  
 
+<br>
 
-## Configuration of the Client for SSL Certificates
+### Publicly Issued Certs  
+
+Used when a user suspects your self-issued certs  
+
+Cert can be obtained from a mutually trusted, 3rd-party CA, e.g. VeriSign, GlobalSign, or Thawte  
+
+Wait time, several days to several months  
+
+Must be renewed on a regular basis  
+
+<br>
+
+General rules about any type of web cert
+* Each website can have only 1 server cert assigned to it  
+* One cert can be assigned to multiple websites  
+* You can assign multiple IP addresses per website  
+* You can assign multiple SSL ports per website  
+
+<br>
+
+## Configuration of the Client for SSL Certificates  
+
+Typical <b>client</b> cert contains
+* Identity of user
+* Identity of the cert authority  
+* A public key used for establishing encrypted communications  
+* Validation info, such as an expiration date and serial number  
+
+<br>
+
+To protect your web content from unauthorized access you must do the following
+* Use Basic, Digest, or Integrated Windows authentication, in addition to requiring a client cert  
+* Create a Windows account mapping for client certs  
+
+
+
+
 
 ## Certificate Renewal
