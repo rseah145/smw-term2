@@ -47,3 +47,4 @@ Modify Server1 ICMP IPsec Policy to enforce IPsec communication using pre-shared
 ![image](../images/Pasted%20image%2020230815113002.png)  
 
 4. Use the following settings for each following page (Click next after setting each page)  
+![image](../images/Pasted%20image%2020230815113213.png)  
