@@ -468,7 +468,11 @@ A server cert contains
 
 ### Self-Issued certs  
 
-Consider
+Considerations when deciding to issue your own server certs
+* Microsoft Certificate Services can accommodate different cert formats and provide for auditing and logging of cert-related activity  
+* Evaluate the cost of each cert  
+* Keep the learning curve in mind  
+* Evaluate the willingness of outside vendors clients to trust your org as a cert supplier  
 
 
 ## Configuration of the Client for SSL Certificates
