@@ -101,7 +101,7 @@ Final results
 
 ## Testing IPsec Policy  
 
-1. Do the following ping tests before deploying the IPsec Policy, ensure that all firewalls allow ICMP traffic first.  
+1. Do the following ping tests before deploying the IPsec Policy, ensure that all firewalls allow ICMP traffic first (Use GPs to adjust VMs firewall settings. Use Local Policy to adjust host notebook firewall settings, if the host notebook is also used in the ping tests).  
 Ping memsrv1 from Win10 client  
 Ping Win10 client from memsrv1  
 Ping memsrv1 from DC  
