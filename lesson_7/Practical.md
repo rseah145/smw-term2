@@ -55,3 +55,4 @@ Click configure button on the confirmation page
 ![image](../images/Pasted%20image%2020230815192733.png)  
 
 Click Yes when a pop up for configuring the remaining Role services is shown for the 2 remaining service, the web enrollment and the online responder  
+![image](../images/Pasted%20image%2020230815192917.png)  
