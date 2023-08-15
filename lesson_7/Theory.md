@@ -386,6 +386,11 @@ Two/Three issues for non secured web access
 
 One possible solution, use SSL certs  
 
+<br>
+
+Need to install IIS in a highly secured and locked configuration  
+
+Secure Sockets Layer (SSL): public key-based security protocol  
 
 
 
