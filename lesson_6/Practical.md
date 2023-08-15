@@ -111,6 +111,6 @@ Ping DC from Win10 client
 
 <br>
 
-All Pings should be successful
+All Pings should be successful  
 
-2. 
+2. Tests with IPsec Policy deployed  
