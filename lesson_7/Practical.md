@@ -1,5 +1,6 @@
 # Navigation
 * [Add appropriate server role to Server 2016 to facilitate an Enterprise Root CA](#add-appropriate-server-role-to-server-2016-to-facilitate-an-enterprise-root-ca)
+* [Setting up the default Enterprise autoenrollment policy](#setting-up-the-default-enterprise-autoenrollment-policy)
 
 ## Add appropriate server role to Server 2016 to facilitate an Enterprise Root CA  
 
@@ -66,6 +67,10 @@ Click Yes when a pop up for configuring the remaining Role services is shown for
 
 Web Enrolment configuration has no prompt for any options  
 
-7. Repeat the same steps used to configure web enrolment for configuring the online responder role service, which also does not require further input  
+7. Repeat the same steps used to configure web enrolment for configuring the online responder role service, which also does not require further input (image taken from prac, but it is the same thing)  
+![image](../images/Pasted%20image%2020230815193257.png)  
 
-![[Pasted image 20230815193257.png]]
+<br>
+
+## Setting up the default Enterprise autoenrollment policy  
+
