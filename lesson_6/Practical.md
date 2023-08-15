@@ -118,6 +118,8 @@ Use GPMC and edit the securedICMPPolicy under GPOs
 In GPME, right-click "ServerOneICMP" under IP Security Policies (PC Config -> Windows Settings -> Security Settings -> IP security Policies) and choose "Assign"  
 ![image](../images/Pasted%20image%2020230815121528.png)  
 
-3. Close GPME, and link the securedICMPPoliccy GPO to the OU that hosts memsrv1  
+3. Close GPME, and link the securedICMPPoliccy GPO to the OU that hosts memsrv1 within the GPMC  
 Right-click on the OU and click "Link an Existing GPO"  
+![image](../images/Pasted%20image%2020230815121844.png)  
+
 
