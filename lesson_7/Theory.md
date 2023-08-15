@@ -229,6 +229,9 @@ Methods for automatic enrollment
 
 <br>
 
+### Obtaining cert from an issuing CA  
+
+
 
 
 ## Configuration of the Web Server for SSL Certificates  
