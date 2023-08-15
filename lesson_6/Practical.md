@@ -79,3 +79,4 @@ Back in the security rule wizard, select "ServerOneICMP Traffic" filter list as 
 
 Within the Filter Action page, click add and name the new filter action "ICMP security"  
 ![image](../images/Pasted%20image%2020230815114655.png)  
+![image](../images/Pasted%20image%2020230815114736.png)  
