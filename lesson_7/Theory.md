@@ -95,6 +95,20 @@ The Root CA can issue certs to subordinate or intermediate or issuing CAs
 
 Issuing CAs can issue certs to users or clients  
 
+<br>
+
+### Certificate Authority Hierarchies and Roles  
+
+Types of hierarchies that can be used for CAs  
+* Rooted trust model
+* Cross-certification trust model
+* Hybrid trust model
+
+<br>
+
+Roles that can be chosen for CAs include
+* For standalone CA,
+
 
 
 ## Selecting a Certificate Enrollment and Renewal Method  
