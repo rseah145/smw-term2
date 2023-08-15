@@ -175,6 +175,10 @@ Advantages
 * Customers have greater degree of confidence when conducting secure transactions with organisations because they trust the third party CA  
 * Allows an organization to take advantage of third party CA’s understanding of technical, legal, and business issues with certificate use  
 
+<br>
+
+Disadvantages  
+* 
 
 
 ## Selecting a Certificate Enrollment and Renewal Method  
