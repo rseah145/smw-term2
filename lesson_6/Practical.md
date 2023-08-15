@@ -127,5 +127,5 @@ Select the securedICMPPolicy and click ok
 
 4. Use gpupdate /force at memsrv1 to activate the newly linked GPO  
 
-5. Repeat the ping tests  
+5. Repeat the ping tests, only the pings between the DC and Win10 client should be successful  
 
