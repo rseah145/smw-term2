@@ -133,10 +133,11 @@ Select the securedICMPPolicy and click ok
 
 To do this, we can link the SeverOneICMPPolicy GPO to the OU that houses the Win10 , or we can try the following:  
 
-Edit the GPO that is already linked to the OU that houses the Win10 , e.g. Win10_Policy.
+Edit the GPO that is already linked to the OU that houses the Win10 , e.g. Win10_Policy.  
+
 You will see find the ServerOneICMP IPsec policy already listed in the GPO.  
 
 (but it is in unassigned state). It is because, the IPsec policy is independent to GPOs.  
 
-Once you have added an IPsec Policy to the Active Directory, it will become available for all GPOs. 
+Once you have added an IPsec Policy to the Active Directory, it will become available for all GPOs.  
 
