@@ -66,6 +66,8 @@ Vid [src](generally_glad_grubworm_LmcLZhFf) (watch from 14:21 and onwards)
 Why do we need it?  
 To hold a trustworthy public key, this key will be used for subsequent secure communication between the cert recipient and the owner of the public key, the owner of the public key is the one who knows the corresponding private key  
 
+<br>
+
 How to tell if a digital cert is genuine?  
 
 
