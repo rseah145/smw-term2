@@ -178,7 +178,9 @@ Advantages
 <br>
 
 Disadvantages  
-* 
+* High per-cert cost  
+* Allows less flexibility in managing certs  
+* Autoenrollment is not possible  
 
 
 ## Selecting a Certificate Enrollment and Renewal Method  
