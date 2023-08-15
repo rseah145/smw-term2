@@ -231,7 +231,7 @@ Methods for automatic enrollment
 
 ### Obtaining cert from an issuing CA  
 
-Cert Services Web page  
+Cert Services Web page (Windows CA comes with a Web interface that lets users request for cert enrolment, also allows users to download the root CA cert and its cert chain)  
 ![image](../images/Pasted%20image%2020230815153658.png)  
 
 
