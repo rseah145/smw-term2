@@ -328,6 +328,10 @@ The life span of a digital certificate is by default limited by its expiry date 
 
 <br>
 
+Diagram of revoking a cert  
+![image](../images/Pasted%20image%2020230815154941.png)  
+
+
 
 
 ## Configuration of the Web Server for SSL Certificates  
