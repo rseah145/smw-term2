@@ -108,3 +108,9 @@ Ping memsrv1 from DC
 Ping DC from memsrv1  
 Ping Win10 client from DC  
 Ping DC from Win10 client  
+
+<br>
+
+All Pings should be successful
+
+2. 
