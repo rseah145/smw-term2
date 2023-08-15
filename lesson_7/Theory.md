@@ -163,6 +163,9 @@ Let's encrypt brief explanation of how Chain of Trust works in cross-cert model
 
 <br>
 
+### Using Third-Party CAs  
+
+
 
 ## Selecting a Certificate Enrollment and Renewal Method  
 
