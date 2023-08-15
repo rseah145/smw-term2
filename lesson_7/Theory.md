@@ -461,6 +461,8 @@ A server cert contains
 1st diagram for web server cert wizard  
 ![image](../images/Pasted%20image%2020230815161844.png)  
 
+<br>
+
 2nd diagram for cert request submission  
 ![image](../images/Pasted%20image%2020230815161912.png)  
 
