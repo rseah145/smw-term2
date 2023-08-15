@@ -13,4 +13,9 @@
 ![image](../images/Pasted%20image%2020230815191250.png)  
 ![image](../images/Pasted%20image%2020230815191346.png)  
 
+<br>
+
+Enable Basic Authentication and Centralized SSL Certificate Support Services at IIS  
+![image](../images/Pasted%20image%2020230815191500.png)  
+
 
