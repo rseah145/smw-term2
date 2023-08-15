@@ -34,6 +34,6 @@
 
 ## Configure Authentication, Encryption Methods and Protocol for IPsec  
 
-Modify Server1ICMP IPsec Policy to enforce IPsec communication using pre-shared key authentication for ICMP traffic between 2 machines  
+Modify Server1 ICMP IPsec Policy to enforce IPsec communication using pre-shared key authentication for ICMP traffic between 2 machines  
 
 1. 
