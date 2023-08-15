@@ -110,6 +110,20 @@ Roles that can be chosen for CAs include
 * For standalone CA, Rudimentary CA, and Intermediate CA  
 * For Enterprise CA, Basic-security CA, Medium-security CA, and High-security CA  
 
+<br>
+
+### Rooted Trust Model    
+
+A model in which the root CA has a self-signed cert, and the CA issues a cert to all direct subordinate CAs  
+
+CAs in this model can be online or offline; allows flexibility in deploying and managing PKI  
+
+Each CA serves a single role within the hierarchy and is not dependent on other CAs; allows rooted trust hierarchies to be more scalable and easier to administer than other hierarchies  
+
+Possible to add a new CA to a hierarchy  
+
+<br>
+
 
 
 ## Selecting a Certificate Enrollment and Renewal Method  
