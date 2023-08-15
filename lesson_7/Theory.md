@@ -231,7 +231,8 @@ Methods for automatic enrollment
 
 ### Obtaining cert from an issuing CA  
 
-
+Cert Services Web page  
+![image](../images/Pasted%20image%2020230815153658.png)  
 
 
 ## Configuration of the Web Server for SSL Certificates  
