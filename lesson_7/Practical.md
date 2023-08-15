@@ -31,3 +31,5 @@ Review all options, check "Restart the destination server automatically if requi
 In Role Services select CA only and click next  
 ![image](../images/Pasted%20image%2020230815192321.png)  
 
+At type select Enterprise CA  
+![image](../images/Pasted%20image%2020230815192405.png)  
