@@ -20,6 +20,6 @@ Enable Basic Authentication and Centralized SSL Certificate Support Services at 
 
 <br>
 
-Review all options, check  restart the server  
+Review all options, check "Restart the destination server automatically if required" box and click "install"  
 ![image](../images/Pasted%20image%2020230815191607.png)  
 
