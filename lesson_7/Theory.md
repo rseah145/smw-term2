@@ -184,7 +184,7 @@ Disadvantages
 
 <br>
 
-
+Windows system already configured with a list of trusted commercial 3rd-party CAs, can be easily viewed and configured via web browser
 
 
 ## Selecting a Certificate Enrollment and Renewal Method  
