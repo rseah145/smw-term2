@@ -127,3 +127,5 @@ Select the securedICMPPolicy and click ok
 
 4. Use gpupdate /force at memsrv1 to activate the newly linked GPO  
 
+5. Repeat the ping tests  
+
