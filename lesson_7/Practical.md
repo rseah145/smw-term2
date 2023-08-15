@@ -52,3 +52,5 @@ For the rest of the pages, review and use the default settings
 <br>
 
 Click configure button on the confirmation page  
+![image](../images/Pasted%20image%2020230815192733.png)  
+
