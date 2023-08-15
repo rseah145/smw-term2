@@ -53,7 +53,9 @@ Before you can use digital certificates, you need to design a <b>Public Key Infr
 <br>
 
 <b>Public Key Infrastructure (PKI)</b>
-* Refers to tech that features authentication and encryption
+* Refers to tech that includes a series of features relating to authentication and encryption
+* Based on a system of certificates, each cert contains a public key and the name of the subject
+* Allows an org to publish, use, renew, and/or revoke certs and enroll clients
 
 ## Selecting a Certificate Enrollment and Renewal Method  
 
