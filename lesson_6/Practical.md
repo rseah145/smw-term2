@@ -124,3 +124,6 @@ Right-click on the OU and click "Link an Existing GPO"
 
 Select the securedICMPPolicy and click ok  
 ![image](../images/Pasted%20image%2020230815121945.png)  
+
+4. Use gpupdate /force at memsrv1 to activate the newly linked GPO  
+
