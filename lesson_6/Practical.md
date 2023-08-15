@@ -10,4 +10,4 @@
 ![image](../images/Pasted%20image%2020230815105132.png)  
 ![image](../images/Pasted%20image%2020230815105217.png)  
 
-3. 
+3. Edit the newly created GPo and add in the IPsec Policy as shown  
