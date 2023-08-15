@@ -10,4 +10,7 @@
 ![image](../images/Pasted%20image%2020230815105132.png)  
 ![image](../images/Pasted%20image%2020230815105217.png)  
 
-3. Edit the newly created GPO and add in the IPsec Policy as shown  
+3. Edit the newly created GPO and navigate to the IPsec Policy as shown  
+![image](../images/Pasted%20image%2020230815105408.png)  
+
+
