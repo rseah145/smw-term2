@@ -70,6 +70,9 @@ To hold a trustworthy public key, this key will be used for subsequent secure co
 
 How to tell if a digital cert is genuine?  
 We need to have Root CA and its subsidary Issuer CAs which will be responsible for signing on the digital cert  
+If we receive a digital certificate and we can verified it is signed by a trustworthy Root CA (or its subsidiaries) , we will trust the certificate as well as the content , that is the public key  
+
+<br>
 
 ## Selecting a Certificate Enrollment and Renewal Method  
 
