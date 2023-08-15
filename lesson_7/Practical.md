@@ -35,3 +35,6 @@ At type select Enterprise CA
 ![image](../images/Pasted%20image%2020230815192405.png)  
 
 At CA type select Root CA  
+![image](../images/Pasted%20image%2020230815192442.png)  
+
+At private key choose create a new private key  
