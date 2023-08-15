@@ -55,3 +55,5 @@ Modify Server1 ICMP IPsec Policy to enforce IPsec communication using pre-shared
 On the IP Filter List page, click add and add in a new IP Filter List with the name "ServerOneICMP Traffic"  
 ![image](../images/Pasted%20image%2020230815113415.png)  
 ![image](../images/Pasted%20image%2020230815113502.png)  
+
+Within the IP Filter List pop-up menu click "Add" and set the following IP Filter Description and Mirrored property  
