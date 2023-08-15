@@ -115,4 +115,4 @@ All Pings should be successful
 
 2. Tests with IPsec Policy deployed  
 Use GPMC and edit the securedICMPPolicy under GPOs  
-In GPME, right-click "ServerOneICMP" under IP 
+In GPME, right-click "ServerOneICMP" under IP Security Policies (PC Config -> Windows Settings -> Security Settings -> IP security Policies)  
