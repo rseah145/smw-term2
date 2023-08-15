@@ -324,7 +324,10 @@ Reasons for revoking a cert
 * Cert is compromised  
 * Termination of the account to whom the cert was issued  
 
+The life span of a digital certificate is by default limited by its expiry date setting. However, in cases, we may need to invalidate a digital certificate before it reaches its expiry date.  
+
 <br>
+
 
 
 ## Configuration of the Web Server for SSL Certificates  
