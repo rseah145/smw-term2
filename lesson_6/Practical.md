@@ -113,7 +113,7 @@ Ping DC from Win10 client
 
 All Pings should be successful  
 
-2. Tests with IPsec Policy deployed  
+2. Assign the ServerOneICMP policy   
 Use GPMC and edit the securedICMPPolicy under GPOs  
 In GPME, right-click "ServerOneICMP" under IP Security Policies (PC Config -> Windows Settings -> Security Settings -> IP security Policies) and choose "Assign"  
 ![image](../images/Pasted%20image%2020230815121528.png)  
