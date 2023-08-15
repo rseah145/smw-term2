@@ -361,7 +361,7 @@ OCSP
 
 OCSP Responder  
 * A server typically run by the cert issuer which returns a signed response on the status of a particular issued cert  
-* Possible responses are Good, Revoked, Unknown, or No response as the issuer does not implement the responder service  
+* Possible responses are Good, Revoked, Unknown, or No response as the issuer does not implement the responder service (could also be because the query itself has a problem, i.e. signature of the cert is not signed properly)  
 
 <br>
 
