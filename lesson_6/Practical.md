@@ -16,3 +16,5 @@
 4. Right-click on the "IP Security Policies on Active Directory" and click "Create IP Security Policy" to open the IP Security Policy wizard  
 ![image](../images/Pasted%20image%2020230815105605.png)  
 ![image](../images/Pasted%20image%2020230815105642.png)  
+
+5. 
