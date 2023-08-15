@@ -100,3 +100,7 @@ Final results
 <br>
 
 ## Testing IPsec Policy  
+
+1. Do the following ping tests before deploying the IPsec Policy, ensure that all firewalls allow ICMP traffic first.  
+Ping memsrv1 from Win10 client  
+Ping Win10 client from memsrv1  
