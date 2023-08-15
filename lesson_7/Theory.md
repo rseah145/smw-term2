@@ -155,6 +155,9 @@ Advantages: Low cost and greater flexibility
 
 Disadvantages: Greater administrative overhead and increase risk of unauthorized access to internal resources  
 
+Diagram for Cross-Cert Model  
+![image](../images/Pasted%20image%2020230815152154.png)  
+
 
 
 <br>
