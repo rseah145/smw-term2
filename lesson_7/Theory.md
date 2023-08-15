@@ -532,3 +532,5 @@ Security and renewal requirements for certs should be based on the following fac
 | Enterprise CAs for medium security certs | 5 years | Renew every 3 years. Renew by using a new key at least every 5 years |
 | Enterprise CAs for high security certs | 5 years | Renew with new key at least every 4 years |
 | Enterprise CA for external certs | 5 years | Renew at least every 4 years. Renew by using a new key at least every 5 years |
+| Secure mail and secure browser certs | 1 year | Renew by using a new key at least every 2 years |
+|
