@@ -81,4 +81,4 @@ Within the Filter Action page, click add and name the new filter action "ICMP se
 ![image](../images/Pasted%20image%2020230815114655.png)  
 ![image](../images/Pasted%20image%2020230815114736.png)  
 
-Follow the 
+Use the following options for the remaining setup pages for the new filter action  
