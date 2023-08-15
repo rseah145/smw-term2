@@ -36,4 +36,4 @@
 
 Modify Server1 ICMP IPsec Policy to enforce IPsec communication using pre-shared key authentication for ICMP traffic between 2 machines  
 
-1. Edit the properties of securedOneICMPPolicy via 
+1. Edit the properties of securedOneICMPPolicy via GPO editor for securedICMPPolicy -> PC configuration -> Policies -> Windows Settings -> Security Settings -> IP Security Policies
