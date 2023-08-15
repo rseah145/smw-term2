@@ -334,6 +334,9 @@ Diagram of revoking a cert
 This slide shows how the CA administrator can revoke an issued certificate.  However, since PKI is based on a trusted model which does not require always online validation. 
 Even a certificate has been revoked by the CA, other systems  may not be aware of such revocation.  That is why we need the Certificate Revocation List.  
 
+<br>
+
+### Certification Revocation Lists (CRLs)  
 
 
 
