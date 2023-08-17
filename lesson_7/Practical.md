@@ -2,6 +2,7 @@
 * [Add appropriate server role to Server 2016 to facilitate an Enterprise Root CA](#add-appropriate-server-role-to-server-2016-to-facilitate-an-enterprise-root-ca)
 * [Setting up the default Enterprise autoenrollment policy](#setting-up-the-default-enterprise-autoenrollment-policy)
 * [Adding in HTTPS protocol support to the certsrv website](#adding-in-https-protocol-support-to-the-certsrv-website)
+* [Installation of CA Certificate Chain](#installation-of-ca-certificate-chain)
 
 ## Add appropriate server role to Server 2016 to facilitate an Enterprise Root CA  
 
@@ -119,4 +120,8 @@ Refer to [this](https://learn.microsoft.com/en-us/answers/questions/229049/user-
 
 6. In Site Bindings, click Add, use https type and select the SSL cert with the friendly name used earlier in the Add Site Binding window and click OK in the Add Site Binding window to add the HTTPS site with the created SSL cert
 ![image](../images/Pasted%20image%2020230817155629.png)  
+
+<br>
+
+## Installation of CA Certificate Chain  
 
