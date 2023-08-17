@@ -146,3 +146,5 @@ Refer to [this](https://learn.microsoft.com/en-us/answers/questions/229049/user-
 ![image](../images/Pasted%20image%2020230817161657.png)  
 
 7. Check that Current\[<Your Root CA Record\>] is selected and click Download CA cert chain to save the cert to the Download directory  
+![image](../images/Pasted%20image%2020230817161909.png)  
+
