@@ -138,7 +138,7 @@ Refer to [this](https://learn.microsoft.com/en-us/answers/questions/229049/user-
 4. Open a web browser and access the CA server at the URL "https://<FQNA of Root CA server\>/certsrv" (warning is due to how domain cert is not up to date as modern browsers require to check the "DNS" entry)  
 ![image](../images/Pasted%20image%2020230817161139.png)  
 
-5. Login to the interface using a domain user account (might need domain admin account)  
+5. Login to the interface using a domain user account (downloading a Root CA cert does not require special privilege, but you need to be the admin of the client system to install the downloaded Root CA cert on that system)  
 ![image](../images/Pasted%20image%2020230817161426.png)  
 ![image](../images/Pasted%20image%2020230817161458.png)  
 
