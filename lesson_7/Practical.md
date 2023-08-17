@@ -135,4 +135,4 @@ Refer to [this](https://learn.microsoft.com/en-us/answers/questions/229049/user-
 
 3. The remaining steps are used to download and install a Root CA cert to a non-domain PC manually (all done on the win10 client)  
 
-4. Open a web browser and access the CA server at the URL "https://\<FQNA of Root CA server\>/certsrv"
+4. Open a web browser and access the CA server at the URL "https://<FQNA of Root CA server\>/certsrv"
