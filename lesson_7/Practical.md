@@ -11,7 +11,7 @@
 2. Set static IPv4 settings after joining the domain  
 ![image](../images/Pasted%20image%2020230815191147.png)  
 
-3. Installation of the AD CS role
+3. Installation of the AD CS role  
 ![image](../images/Pasted%20image%2020230815191250.png)  
 ![image](../images/Pasted%20image%2020230815191346.png)  
 
