@@ -148,6 +148,6 @@ Refer to [this](https://learn.microsoft.com/en-us/answers/questions/229049/user-
 7. Check that Current\[<Your Root CA Record\>] is selected and click Download CA cert chain to save the cert to the Download directory  
 ![image](../images/Pasted%20image%2020230817161909.png)  
 
-8. DO NOT OPEN THE DOWNLOADED FILE DIRECTORY, but go to the download folder and right-click the file and choose "Install Certificate" to install the cert chain to the win10 client, click next  
+8. DO NOT OPEN THE DOWNLOADED FILE DIRECTORY, but go to the download folder and right-click the file and choose "Install Certificate" to install the cert chain to the win10 client, click next to start the cert import wizard  
 ![image](../images/Pasted%20image%2020230817162128.png)  
 ![image](../images/Pasted%20image%2020230817162159.png)  
