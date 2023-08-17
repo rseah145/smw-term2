@@ -96,5 +96,5 @@ Web Enrolment configuration has no prompt for any options
 
 <br>
 
-## Adding in HTTPS protocol support to your certsrv website  
+## Adding in HTTPS protocol support to the certsrv website  
 
