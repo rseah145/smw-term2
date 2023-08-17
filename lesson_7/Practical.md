@@ -142,3 +142,4 @@ Refer to [this](https://learn.microsoft.com/en-us/answers/questions/229049/user-
 ![image](../images/Pasted%20image%2020230817161426.png)  
 ![image](../images/Pasted%20image%2020230817161458.png)  
 
+6. Click on "Download a CA cert, cert chain or CRL" link  
