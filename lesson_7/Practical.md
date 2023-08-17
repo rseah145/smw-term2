@@ -101,3 +101,4 @@ Web Enrolment configuration has no prompt for any options
 1. On the cert server, open IIS and select Server Certificates as shown
 ![image](../images/Pasted%20image%2020230817150808.png)  
 
+2. On the certs page, cick ""
