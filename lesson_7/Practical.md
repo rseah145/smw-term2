@@ -129,7 +129,5 @@ Refer to [this](https://learn.microsoft.com/en-us/answers/questions/229049/user-
 ![image](../images/Pasted%20image%2020230817160414.png)  
 ![image](../images/Pasted%20image%2020230817160439.png)  
 
-2. Navigate to the Content tab -> Certificates button -> Trusted Root Certification Authorities tab  
+2. Navigate to the current Trusted Root Certification Repository via Content tab -> Certificates button -> Trusted Root Certification Authorities tab and find it within this tab  
 ![image](../images/Pasted%20image%2020230817160631.png)  
-
-3. 
