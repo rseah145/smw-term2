@@ -155,3 +155,10 @@ Refer to [this](https://learn.microsoft.com/en-us/answers/questions/229049/user-
 9. At the certificate store page, select "Place all certificates in the following store" and choose "Trusted Root Certification Authorities"  
 ![image](../images/Pasted%20image%2020230817162547.png)  
 
+10. Click OK, click Next and Click Finish to complete the operation  
+
+11. Just verify that <Your Root CA\> is still in your cert repository  
+
+12. Repeat the above steps for memsrv1 to verify that the memsrv1 has <Your Root CA\> installed with the cert chain in its "Trusted Root Certification Authorities" repository  
+
+Note: [short demo video]([short demo video](https://web.microsoftstream.com/video/1aa26ac9-1099-4396-8e2f-501cac37751e))
