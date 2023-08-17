@@ -104,4 +104,6 @@ Web Enrolment configuration has no prompt for any options
 2. On the certs page, cick "Create Domain Certificate..." on the right menu
 ![image](../images/Pasted%20image%2020230817150903.png)  
 
-3. 
+3. Fill out the cert details as shown, ensure that the Common Name is the Fully Qualified Domain Name (FQDN) as the certsrv  
+![image](../images/Pasted%20image%2020230817151030.png)  
+
