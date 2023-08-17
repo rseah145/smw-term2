@@ -109,4 +109,5 @@ Web Enrolment configuration has no prompt for any options
 
 4. On the next page fill out the online cert authority as shown, cick on the select button to automatically select an online CA which should be the certsrv and enter an identifier within friendly name, click finish afterwards  
 ![image](../images/Pasted%20image%2020230817151214.png)  
+![image](../images/Pasted%20image%2020230817154517.png)  
 
