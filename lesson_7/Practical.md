@@ -161,4 +161,4 @@ Refer to [this](https://learn.microsoft.com/en-us/answers/questions/229049/user-
 
 12. Repeat the above steps for memsrv1 to verify that the memsrv1 has <Your Root CA\> installed with the cert chain in its "Trusted Root Certification Authorities" repository  
 
-Note: [short demo video]([short demo video](https://web.microsoftstream.com/video/1aa26ac9-1099-4396-8e2f-501cac37751e))
+Note: [short demo video]([short demo video](https://web.microsoftstream.com/video/1aa26ac9-1099-4396-8e2f-501cac37751e)
