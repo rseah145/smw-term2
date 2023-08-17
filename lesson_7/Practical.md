@@ -117,4 +117,6 @@ Refer to [this](https://learn.microsoft.com/en-us/answers/questions/229049/user-
 5. Now navigate to the Default Web Site and click Bindings on the right menu  
 ![image](../imagesPasted%20image%2020230817155445.png)  
 
-6. 
+6. In Site Bindings, click Add, use https type and select the SSL cert with the friendly name used earlier in the Add Site Binding window and click OK in the Add Site Binding window to add the HTTPS site with the created SSL cert
+![image](../images/Pasted%20image%2020230817155629.png)  
+
