@@ -114,4 +114,7 @@ Refer to [this](https://learn.microsoft.com/en-us/answers/questions/229049/user-
 ![image](../images/Pasted%20image%2020230817151214.png)  
 ![image](../images/Pasted%20image%2020230817154517.png)  
 
-5. Now navigate
+5. Now navigate to the Default Web Site and click Bindings on the right menu  
+![image](../imagesPasted%20image%2020230817155445.png)  
+
+6. 
