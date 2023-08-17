@@ -107,6 +107,6 @@ Web Enrolment configuration has no prompt for any options
 3. Fill out the cert details as shown, ensure that the Common Name is the Fully Qualified Domain Name (FQDN) as the certsrv  
 ![image](../images/Pasted%20image%2020230817151030.png)  
 
-4. On the next page fill out the Online cert authority as shown and click finish  
+4. On the next page fill out the online cert authority as shown, cick on the select button to automatically select an online CA which should be the certsrv and enter an identifier within friendly name, click finish afterwards  
 ![image](../images/Pasted%20image%2020230817151214.png)  
 
