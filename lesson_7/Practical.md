@@ -125,3 +125,4 @@ Refer to [this](https://learn.microsoft.com/en-us/answers/questions/229049/user-
 
 ## Installation of CA Certificate Chain  
 
+1. On the Win10 client using the domain admin account search for internet options and open the internet options menu  
