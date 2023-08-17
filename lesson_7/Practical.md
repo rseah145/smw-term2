@@ -1,7 +1,7 @@
 # Navigation
 * [Add appropriate server role to Server 2016 to facilitate an Enterprise Root CA](#add-appropriate-server-role-to-server-2016-to-facilitate-an-enterprise-root-ca)
 * [Setting up the default Enterprise autoenrollment policy](#setting-up-the-default-enterprise-autoenrollment-policy)
-* [Adding in HTTPS protocol support to your certsrv website](#adding-in-https-protocol-support-to-your-certsrv-website)
+* [Adding in HTTPS protocol support to the certsrv website](#adding-in-https-protocol-support-to-the-certsrv-website)
 
 ## Add appropriate server role to Server 2016 to facilitate an Enterprise Root CA  
 
