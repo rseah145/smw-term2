@@ -108,6 +108,7 @@ Web Enrolment configuration has no prompt for any options
 ![image](../images/Pasted%20image%2020230817151030.png)  
 
 4. On the next page fill out the online cert authority as shown, cick on the select button to automatically select an online CA which should be the certsrv and enter an identifier within friendly name, click finish afterwards  
+Refer to [this](https://learn.microsoft.com/en-us/answers/questions/229049/user-request-certificate-0x80092013-(-2146885613-c) if needed for CRL troubleshooting  
 ![image](../images/Pasted%20image%2020230817151214.png)  
 ![image](../images/Pasted%20image%2020230817154517.png)  
 
