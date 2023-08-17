@@ -99,3 +99,5 @@ Web Enrolment configuration has no prompt for any options
 ## Adding in HTTPS protocol support to the certsrv website  
 
 1. On the cert server, open IIS and select Server Certificates as shown
+![image](../images/Pasted%20image%2020230817150808.png)  
+
