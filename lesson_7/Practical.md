@@ -140,4 +140,5 @@ Refer to [this](https://learn.microsoft.com/en-us/answers/questions/229049/user-
 
 5. Login to the interface using a domain user account (might need domain admin account)  
 ![image](../images/Pasted%20image%2020230817161426.png)  
+![image](../images/Pasted%20image%2020230817161458.png)  
 
