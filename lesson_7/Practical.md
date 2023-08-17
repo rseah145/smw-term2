@@ -152,3 +152,4 @@ Refer to [this](https://learn.microsoft.com/en-us/answers/questions/229049/user-
 ![image](../images/Pasted%20image%2020230817162128.png)  
 ![image](../images/Pasted%20image%2020230817162159.png)  
 
+9. At the certificate store page, select "Place all certificates in the following store" and choose "Trusted Root Certification Authorities"  
