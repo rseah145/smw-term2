@@ -264,4 +264,5 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 At the Root CA server, at the Server Manager, under Tools menu, select Certification Authority (first/second choice in Tools menu)  
 Expand the Root CA node on the left pane  
 At the left pane, click on Certificate Template to view all current enabled templates at the main pane. Each template refers to a type of certificates the CA can issue. User, Computer, and Web Server are the types that have been relevant to the Lab exercises  
+
 Right-click on the Certification Template and choose New -> Certificate Template to Issue
