@@ -172,3 +172,8 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 1. On Win10 client, login as user1, use a web browser and access the AD CS web server https://<Your AD CS Web server\>/certsrv. login as user1 when prompted  
 ![image](../images/Pasted%20image%2020230819153515.png)  
 
+2. Click on Request a certificate link  
+![image](../images/Pasted%20image%2020230819154012.png)  
+
+3. Click on User Certificate  
+
