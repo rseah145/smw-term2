@@ -458,3 +458,6 @@ Only enable "Windows Authentication" and disable all the rest
 
 4. Visiting the server1 MutualSSL endpoint, select the user cert when prompted and click OK  
 ![image](../images/Pasted%20image%2020230819222441.png)  
+
+5. Enter the corresponding user's credentials to the cert used (mgr1's creds to mgr1's cert in this case)  
+![image](../images/Pasted%20image%2020230819222605.png)  
