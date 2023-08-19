@@ -357,4 +357,4 @@ The method used earlier (first HTTPS SSL cert attempt) is based on a built-in wi
 7. Logon to server1 with a domain admin account, open MMC and add the cert snap-in (This PC + For local PC options)  
 ![image](../images/Pasted%20image%2020230819211217.png)  
 
-8. Access the 
+8. Access the personal node under the certificates node, right-click on it and request a new cert  
