@@ -366,4 +366,6 @@ The method used earlier (first HTTPS SSL cert attempt) is based on a built-in wi
 10. Click on the link below web server and fill out the info for the general tab as shown  
 ![image](../images/Pasted%20image%2020230819211603.png)  
 
-11. Navigate to the subject tab, fill out the subject names by selecting a type from the type dropdown box, entering a value, followed by clicking on "Add >". Fill out the Subject names as shown. The most important type/value entry is common name and it must be set to the FQDN of server1, as shown  
+11. Navigate to the subject tab, fill out the subject names by selecting a type from the type dropdown box, entering a value, followed by clicking on "Add >". Fill out the Subject names as shown. The most important type/value entry is common name and it must be set to the FQDN of server1, as shown (Locality has been set to "sg", cut-off)  
+![image](../images/Pasted%20image%2020230819211934.png)  
+
