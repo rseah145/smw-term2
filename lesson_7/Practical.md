@@ -207,3 +207,8 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 
 12. After clicking on the "User Certificate" link, the ActiveX page should be working, showing a prompt. Click Yes to allow the page to download and install the user cert on your behalf  
 ![image](../images/Pasted%20image%2020230819173308.png)  
+
+13. Click Submit when the page loads after prompt  
+![image](../images/Pasted%20image%2020230819173403.png)  
+
+14. 
