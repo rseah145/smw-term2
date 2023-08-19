@@ -211,4 +211,7 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 13. Click Submit when the page loads after prompt  
 ![image](../images/Pasted%20image%2020230819173403.png)  
 
-14. 
+14. When prompted again via a pop-up, click Yes  
+![image](../images/Pasted%20image%2020230819173450.png)  
+
+15. 
