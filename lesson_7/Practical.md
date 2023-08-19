@@ -5,6 +5,7 @@
 * [Installation of CA Certificate Chain](#installation-of-ca-certificate-chain)
 * [Add Certificate Template to the Issuing CA](#add-certificate-template-to-the-issuing-ca)
 * [Requesting and Installing a Machine Cert for IPSec Authentication](#requesting-and-installing-a-machine-cert-for-ipsec-authentication)
+* [Prep only. Add HTTPS protocol support for server1 website (2nd attempt to enroll an SSL cert)](#prep-only-add-https-protocol-support-for-server1-website-2nd-attempt-to-enroll-an-ssl-cert)
 
 ## Add appropriate server role to Server 2016 to facilitate an Enterprise Root CA  
 
