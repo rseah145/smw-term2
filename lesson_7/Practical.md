@@ -360,4 +360,7 @@ The method used earlier (first HTTPS SSL cert attempt) is based on a built-in wi
 8. Access the personal node under the certificates node, right-click on it and request a new cert  
 ![image](../images/Pasted%20image%2020230819211346.png)  
 
-9. 
+9. At request certs, select the web server cert that is now accessible due to the changes made at steps 4-6  
+![image](../images/Pasted%20image%2020230819211450.png)  
+
+10. Click on the l
