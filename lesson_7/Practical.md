@@ -455,3 +455,6 @@ Only enable "Windows Authentication" and disable all the rest
 3. Login as mgr1 (Domain User) to the Win10 client, enroll a User Cert for mgr1. Access https://<FQDN of server1\>/MutualSSL, the webpage should load without any error (Enroll a user cert through the web interface or through certificates snap-in via MMC for current user, NOT local computer as shown)  
 ![image](../images/Pasted%20image%2020230819222257.png)  
 ![image](../images/Pasted%20image%2020230819222324.png)  
+
+4. Visiting the server1 MutualSSL endpoint, select the user cert when prompted and click OK  
+![image](../images/Pasted%20image%2020230819222441.png)  
