@@ -314,4 +314,4 @@ Note: From practical 6, an IPsec policy "ServerOneICMP" was setup that requires 
 13. For Select Certificate Enrollment Policy, click Next  
 ![image](../images/Pasted%20image%2020230819191701.png)  
 
-14. 
+14. For Request Certificates, check "SMW IPSec", Click Enroll  
