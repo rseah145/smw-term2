@@ -322,4 +322,15 @@ Note: From practical 6, an IPsec policy "ServerOneICMP" was setup that requires 
 
 16. Repeat the steps on Server1 to obtain an IPSec Cert  
 
-17. Ping between the 2 machines (Server1 and Win10 client), the ping should now work as both the Win10 client and Server1 machines have the IPSec certs. Test pings with the PDC as well (Win10 client/Server1 to PDC).
+17. Ping between the 2 machines (Server1 and Win10 client), the ping should now work as both the Win10 client and Server1 machines have the IPSec certs. Test pings with the PDC as well (Win10 client/Server1 to PDC).  
+
+<br>
+
+### Reset policy settings  
+
+18. On the DC, in GPM, un-assign IPsec policy from  the GPOs that associate with the Win10 client and the Server1 machines. The end.  
+
+<br>
+
+## Prep only. Add HTTPS protocol support for server1 website (2nd attempt to enroll an SSL cert)  
+
