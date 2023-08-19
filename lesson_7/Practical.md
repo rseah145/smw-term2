@@ -358,3 +358,6 @@ The method used earlier (first HTTPS SSL cert attempt) is based on a built-in wi
 ![image](../images/Pasted%20image%2020230819211217.png)  
 
 8. Access the personal node under the certificates node, right-click on it and request a new cert  
+![image](../images/Pasted%20image%2020230819211346.png)  
+
+9. 
