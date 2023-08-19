@@ -253,4 +253,4 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 8. In the Issuance Requirement tab, ensure "CA certificate manager approval" box is NOT checked (ensure auto-enrolment)  
 ![image](../images/Pasted%20image%2020230819183632.png)  
 
-9. 
+9. In the Request Handling tab, check "Allow private key to be exported" checkbox (ensure requester can get the private key from the issuing server)  
