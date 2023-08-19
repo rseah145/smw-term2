@@ -355,4 +355,4 @@ Ensure at least PDC, Root CA server (smwca) and server1 are up and running
 6. Navigate to the security tab, add "Domain Computers" and give it the allow "Enroll" permission as shown (click Apply and OK to save the settings)  
 ![image](../images/Pasted%20image%2020230819210830.png)  
 
-7. Now open MMC with the certifi
+7. Now open MMC with the certificate snap-in on 
