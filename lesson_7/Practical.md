@@ -370,3 +370,5 @@ The method used earlier (first HTTPS SSL cert attempt) is based on a built-in wi
 ![image](../images/Pasted%20image%2020230819211934.png)  
 
 12. Set the alternative name section to the values shown  
+![image](../images/Pasted%20image%2020230819212046.png)  
+
