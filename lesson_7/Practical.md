@@ -449,4 +449,6 @@ Yes, you can only see me when you have properly installed the SSL client certifi
 You also need to disable the Anonymous Authentication method for the MutualSSL directory in order to let the client certificates authentication to be applied (Double-click on Authentication under MutualSSL)  
 ![image](../images/Pasted%20image%2020230819221729.png)  
 
+Only enable "Windows Authentication" and disable all the rest  
+![image](../images/Pasted%20image%2020230819221838.png)  
 
