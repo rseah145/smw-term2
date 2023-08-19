@@ -265,4 +265,4 @@ At the Root CA server, at the Server Manager, under Tools menu, select Certifica
 Expand the Root CA node on the left pane  
 At the left pane, click on Certificate Template to view all current enabled templates at the main pane. Each template refers to a type of certificates the CA can issue. User, Computer, and Web Server are the types that have been relevant to the Lab exercises  
 ![image](../images/Pasted%20image%2020230819184200.png)  
-Right-click on the Certification Template and choose New -> Certificate Template to Issue
+Right-click on the Certification Template and choose New -> Certificate Template to Issue  
