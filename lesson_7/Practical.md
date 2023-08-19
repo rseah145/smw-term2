@@ -195,4 +195,4 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 ![image](../images/Pasted%20image%2020230819172126.png)  
 ![image](../images/Pasted%20image%2020230819172209.png)  
 
-9. 
+9. One more step is required to enable ActiveX content in IE mode, add https://<your smwca server\> as a trusted site for Internet Explorer. In Windows search box, type in "Internet Options", and open the legacy Internet Explorer Properties windows  
