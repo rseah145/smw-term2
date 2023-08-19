@@ -434,7 +434,7 @@ Yes, you can only see me when you have properly installed the SSL client certifi
 ![image](../images/Pasted%20image%2020230819221055.png)  
 
 4. Accessing the MutualSSL site via HTTPS shows that it still works  
-![image](../images/Pasted%20image%2020230819221135.png)    
+![image](../images/Pasted%20image%2020230819221135.png)  
 
 <br>
 
