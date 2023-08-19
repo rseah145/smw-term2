@@ -177,4 +177,4 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 
 3. Click on User Certificate  
 
---NOTE: USAGE OF THE WEB INTERFACE FOR CERTS REQUIRES KERBEROS--  
+--NOTE: USAGE OF THE WEB INTERFACE FOR CERTS REQUIRES KERBEROS, IT WON'T WORK WITHOUT KERBEROS--  
