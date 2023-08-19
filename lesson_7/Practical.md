@@ -372,4 +372,4 @@ The method used earlier (first HTTPS SSL cert attempt) is based on a built-in wi
 12. Set the alternative name section to the values shown  
 ![image](../images/Pasted%20image%2020230819212046.png)  
 
-13. 
+13. Click Apply and OK to save the additional cert info  
