@@ -277,3 +277,4 @@ At the next screen, select SMW IPSec template (the one created earlier), and cli
 
 ## Requesting and Installing a Machine Cert for IPSec Authentication  
 
+Note: From practical 6, an IPsec policy "ServerOneICMP" was setup that requires all ping packets between affected systems to be encrypted using a Pre-Shared Key
