@@ -339,4 +339,6 @@ Note: From practical 6, an IPsec policy "ServerOneICMP" was setup that requires 
 
 2. Browse to http://<FQDN of server1\>/webdoc, webdoc should be there if lab 4 was done properly  
 ![image](../images/Pasted%20image%2020230819201737.png)  
+The method used earlier (first HTTPS SSL cert attempt) is based on a built-in wizard of IIS manager to enroll an SSL cert for the website. This 2nd method provides an SSL cert for HTTPS without the warning page  
 
+3. 
