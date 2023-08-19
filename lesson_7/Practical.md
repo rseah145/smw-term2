@@ -376,3 +376,6 @@ The method used earlier (first HTTPS SSL cert attempt) is based on a built-in wi
 (Note:	The modern-day browsers (since 2017) require the SSL certificate to contain an Alternative name entry (DNS) to hold the FQDN of the server. Without this DNS entry in the certificate, most of the browsers will flag it out as an invalid certificate warning!)  
 ![image](../images/Pasted%20image%2020230819212138.png)  
 
+14. Now select Web Server and make the cert request by clicking the Enroll button  
+![image](../images/Pasted%20image%2020230819212317.png)  
+
