@@ -239,7 +239,6 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 3. When MMC is open, choose "File" -> "Add/Remove Snap-in"  
 
 4. Locate and add in "Certificate Templates", close the Add/Remove Snap-in screen  
-![image](../images/Pasted%20image%2020230819182915.png)  
 ![image](../images/Pasted%20image%2020230819183023.png)  
 
-5. Click OK t
+5. Click OK to add the snap-in. Double-click Certificate Templates on the left side of the screen.
