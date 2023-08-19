@@ -414,7 +414,7 @@ Yes, you can only see me when you have properly installed the SSL client certifi
 </body>
 </html>
 ```  
-
+![image](../images/Pasted%20image%2020230819220337.png)  
 
 
 <br>
