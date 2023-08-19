@@ -201,3 +201,4 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 10. Reopen the Edge browser, browse to https://<FQDN of cert server\>/certsrv again. After the page is loaded, click the ... and open the settings menu, click on the "Reload in Internet Explorer mode" button to reload the web page  
 ![image](../images/Pasted%20image%2020230819172850.png)  
 
+11. Enter the user1 credentials when prompted. The browser will now remain in IE mode. Repeat steps 
