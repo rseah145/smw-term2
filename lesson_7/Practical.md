@@ -167,3 +167,7 @@ Note: [short demo video](https://web.microsoftstream.com/video/1aa26ac9-1099-439
 
 ## Requesting and Installing a Personal User Cert  
 
+note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise Root CA via the web interface  
+
+1. On Win10 client, login as user1, use a web browser and access the AD CS web server https://<Your AD CS Web server\>/certsrv. login as user1 when prompted  
+
