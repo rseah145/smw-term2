@@ -217,4 +217,4 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 15. Within the next page that is loaded after clicking the submit button (means the request is accepted), click on the Install this certificate link  
 ![images](../images/Pasted%20image%2020230819173611.png)  
 
-16. 
+16. Wait for a while, once the message "Your new certificate has been successfully installed" is shown, the 
