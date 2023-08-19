@@ -181,3 +181,4 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 ![image](../images/Pasted%20image%2020230819171122.png)  
 
 4. Click submit to get a user cert  
+![image](../images/Pasted%20image%2020230819171216.png)  
