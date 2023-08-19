@@ -338,3 +338,5 @@ Note: From practical 6, an IPsec policy "ServerOneICMP" was setup that requires 
 1. Logon to Win10 client with any account, browse to https://<FQDN of server1\> to verify that HTTPS has not been set up yet  
 
 2. Browse to http://<FQDN of server1\>/webdoc, webdoc should be there if lab 4 was done properly  
+![image](../images/Pasted%20image%2020230819201737.png)  
+
