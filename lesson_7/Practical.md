@@ -232,3 +232,11 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 
 ## Add Certificate Template to the Issuing CA  
 
+1. Logon to the Root CA Server with a Domain Admin account  
+
+2. Go to start, and type "MMC" in the "search" box  
+
+3. When MMC is open, choose "File" -> "Add/Remove Snap-in"  
+
+4. Locate and add in "Certificate Templates", close the Add/Remove Snap-in screen  
+
