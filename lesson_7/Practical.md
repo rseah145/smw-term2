@@ -320,3 +320,6 @@ Note: From practical 6, an IPsec policy "ServerOneICMP" was setup that requires 
 15. At the next page view the cert and then click the finish button  
 ![image](../images/Pasted%20image%2020230819191919.png)  
 
+16. Repeat the steps on Server1 to obtain an IPSec Cert  
+
+17. Ping between the 2 machines (Server1 and Win10 client), the ping should now work as both the Win10 client and Server1 machines have the IPSec certs. Test pings with the PDC as well (Win10 client/Server1 to PDC).
