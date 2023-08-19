@@ -307,6 +307,8 @@ Note: From practical 6, an IPsec policy "ServerOneICMP" was setup that requires 
 
 11. Right-click on Personal, All Tasks, Request New Certificate  
 ![image](../images/Pasted%20image%2020230819191536.png)  
-![image](../images/Pasted%20image%2020230819191605.png]]  
+![image](../images/Pasted%20image%2020230819191605.png)  
 
-12. 
+12. Click Next  
+
+13. For Select Certificate Enrollment Policy, click Next  
