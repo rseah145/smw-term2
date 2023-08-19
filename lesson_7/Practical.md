@@ -302,4 +302,4 @@ Note: From practical 6, an IPsec policy "ServerOneICMP" was setup that requires 
 9. On the next page, choose "The snap-in will always manage the local computer" and bring up the mmc window  
 ![image](../images/Pasted%20image%2020230819191338.png)  
 
-10. 
+10. Expand the Certificates (Local Computer) node, highlight and double-click the "Personal" certificcate container  
