@@ -4,6 +4,7 @@
 * [Adding in HTTPS protocol support to the certsrv website](#adding-in-https-protocol-support-to-the-certsrv-website)
 * [Installation of CA Certificate Chain](#installation-of-ca-certificate-chain)
 * [Add Certificate Template to the Issuing CA](#add-certificate-template-to-the-issuing-ca)
+* [Requesting and Installing a Machine Cert for IPSec Authentication](#requesting-and-installing-a-machine-cert-for-ipsec-authentication)
 
 ## Add appropriate server role to Server 2016 to facilitate an Enterprise Root CA  
 
@@ -271,4 +272,8 @@ Right-click on the Certification Template and choose New -> Certificate Template
 
 At the next screen, select SMW IPSec template (the one created earlier), and click OK to enable it. Now, the cert service will allow users/machines to enroll for an IPSec specific cert based on this newly enabled template. This template will be used later on  
 ![image](../images/Pasted%20image%2020230819184416.png)  
+
+<br>
+
+## Requesting and Installing a Machine Cert for IPSec Authentication  
 
