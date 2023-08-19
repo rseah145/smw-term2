@@ -192,3 +192,5 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 ![image](../images/Pasted%20image%2020230819171953.png)  
 
 8. Next click "Add" beside the Internet Explorer mode pages section and add the cert server URL as a Internet Explorer page  
+![image](../images/Pasted%20image%2020230819172126.png)  
+
