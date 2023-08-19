@@ -224,3 +224,5 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 ![images](../images/Pasted%20image%2020230819173955.png)  
 ![image](../images/Pasted%20image%2020230819174049.png)  
 ![image](../images/Pasted%20image%2020230819174105.png)  
+
+18. So far, 2 certs have been installed from the Root CA, 1 is the Trusted CA Root cert installed for the PC, and the other is the User Cert installed for the User1 account on the same PC
