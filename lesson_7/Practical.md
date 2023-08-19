@@ -418,7 +418,7 @@ Yes, you can only see me when you have properly installed the SSL client certifi
 
 5. Test the configurations by accessing the webpage from the win10 client via http://<FQDN of server1\>/MutualSSL and https://<FQDN of server1\>/MutualSSL. At this point the page is not restricted for HTTPS access only, it can be viewed using either the HTTP or HTTPS protocol to acccess the MutualSSL website without any problem  
 ![image](../images/Pasted%20image%2020230819220605.png)  
-
+![image](../images/Pasted%20image%2020230819220625.png)  
 
 <br>
 
