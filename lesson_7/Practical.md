@@ -373,3 +373,5 @@ The method used earlier (first HTTPS SSL cert attempt) is based on a built-in wi
 ![image](../images/Pasted%20image%2020230819212046.png)  
 
 13. Click Apply and OK to save the additional cert info  
+![image](../images/Pasted%20image%2020230819212138.png)  
+
