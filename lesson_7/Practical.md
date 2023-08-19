@@ -350,7 +350,7 @@ Ensure at least PDC, Root CA server (smwca) and server1 are up and running
 5. Within the Certifcate Templates console, locate the "Web Server" entry in the middle pane, right-click on it and access the properties menu  
 ![image](../images/Pasted%20image%2020230819210703.png)  
 
-6. Navigate to the security tab, add "Domain Computers" and give it the allow "Enroll" permission as shown (click )  
+6. Navigate to the security tab, add "Domain Computers" and give it the allow "Enroll" permission as shown (click Apply and OK to save the settings)  
 ![image](../images/Pasted%20image%2020230819210830.png)  
 
 7. 
