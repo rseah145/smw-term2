@@ -430,7 +430,8 @@ Yes, you can only see me when you have properly installed the SSL client certifi
 2. At the SSL Settings pane, check the Require SSL box, then click the "Apply" link at the Actions pane on the right  
 ![image](../images/Pasted%20image%2020230819220937.png)  
 
-3. 
+3. Access the MutualSSL site via HTTP from the win10 client, it should be denied  
+
 
 <br>
 
