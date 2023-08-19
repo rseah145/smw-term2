@@ -277,4 +277,8 @@ At the next screen, select SMW IPSec template (the one created earlier), and cli
 
 ## Requesting and Installing a Machine Cert for IPSec Authentication  
 
-Note: From practical 6, an IPsec policy "ServerOneICMP" was setup that requires all ping packets between affected systems to be encrypted using a Pre-Shared Key
+Note: From practical 6, an IPsec policy "ServerOneICMP" was setup that requires all ping packets between affected systems to be encrypted using a Pre-Shared Key. That will not be changed to use Certs instead of Pre-Shared Keys  
+
+1. Logon to the DC with a Domain Admin account. Go to Group Policy Management  
+
+2. Modify the IPSec policy - serverOneICMP to only use Certificate Authentication scheme. First add the certificates-based authentication, and you 
