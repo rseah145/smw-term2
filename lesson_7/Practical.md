@@ -383,6 +383,7 @@ The method used earlier (first HTTPS SSL cert attempt) is based on a built-in wi
 ![image](../images/Pasted%20image%2020230819212358.png)  
 
 16. Proceed to "bind" the newly created SSL cert to the server1 website. On Server1 open the IIS management console (IIS Manager)  
+Expand the Server1 node and select the Default Web Site at the left pane. Click on the "Bindings" action at the right pane  
 ![image](../images/Pasted%20image 20230819212544.png)  
 
 17. 
