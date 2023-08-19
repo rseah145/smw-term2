@@ -6,7 +6,7 @@
 * [Add Certificate Template to the Issuing CA](#add-certificate-template-to-the-issuing-ca)
 * [Requesting and Installing a Machine Cert for IPSec Authentication](#requesting-and-installing-a-machine-cert-for-ipsec-authentication)
 * [Prep only. Add HTTPS protocol support for server1 website (2nd attempt to enroll an SSL cert)](#prep-only-add-https-protocol-support-for-server1-website-2nd-attempt-to-enroll-an-ssl-cert)
-* [Cre]
+* [Create a virtual directory on IIS that uses SSL](#create-a-virtual-directory-on-iis-that-uses-ssl)
 
 ## Add appropriate server role to Server 2016 to facilitate an Enterprise Root CA  
 
