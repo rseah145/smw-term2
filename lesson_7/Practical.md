@@ -443,4 +443,7 @@ Yes, you can only see me when you have properly installed the SSL client certifi
 1. To tighten the security of the SSL Web Directory further, the "Require Client Certificates" option can be enabled. This means clients need to have a valid cert too  
 ![image](../images/Pasted%20image%2020230819221314.png)  
 
-2. 
+2. After applying the change, accessing the HTTPS version of the MutualSSL site from the win10 client shows the following error  
+![image](../images/Pasted%20image%2020230819221428.png)  
+
+3. 
