@@ -341,4 +341,7 @@ Note: From practical 6, an IPsec policy "ServerOneICMP" was setup that requires 
 ![image](../images/Pasted%20image%2020230819201737.png)  
 The method used earlier (first HTTPS SSL cert attempt) is based on a built-in wizard of IIS manager to enroll an SSL cert for the website. This 2nd method provides an SSL cert for HTTPS without the warning page  
 
-3. Use MMC with cert snap-in to enroll an SSL cert for website on server1
+3. Use MMC with cert snap-in to enroll an SSL cert for website on server1:  
+Ensure at least PDC, Root CA server (smwca) and server1 are up and running  
+Start MMC, add cert snap-in (for local PC)  
+Access personal 
