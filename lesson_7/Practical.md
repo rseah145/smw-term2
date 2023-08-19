@@ -287,4 +287,7 @@ Note: From practical 6, an IPsec policy "ServerOneICMP" was setup that requires 
 3. Remove the Pre-Shared Key authentication method  
 ![image](../images/Pasted%20image%2020230819185430.png)  
 
-4. 
+4. Modify IP Filter List to use All ICMP Traffic  
+![image](../images/Pasted%20image%2020230819185557.png)  
+
+5. 
