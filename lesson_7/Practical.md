@@ -443,7 +443,7 @@ Yes, you can only see me when you have properly installed the SSL client certifi
 1. To tighten the security of the SSL Web Directory further, the "Require Client Certificates" option can be enabled. This means clients need to have a valid cert too  
 ![image](../images/Pasted%20image%2020230819221314.png)  
 
-2. After applying the change, accessing the HTTPS version of the MutualSSL site from the win10 client shows the following error, which is because the current login user account does not have a "User Certificate" issued by the Root CA (smwca) stored  
+2. After applying the change, accessing the HTTPS version of the MutualSSL site from the win10 client shows the following error, which is because the current login user account does not have a "User Certificate" issued by the Root CA (smwca) stored in the PC's cert repository 
 ![image](../images/Pasted%20image%2020230819221428.png)  
 
 3. 
