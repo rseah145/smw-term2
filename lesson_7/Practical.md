@@ -441,3 +441,6 @@ Yes, you can only see me when you have properly installed the SSL client certifi
 ## Configure SSL security with "Require Client Certificate" access  
 
 1. To tighten the security of the SSL Web Directory further, the "Require Client Certificates" option can be enabled. This means clients need to have a valid cert too  
+![image](../images/Pasted%20image%2020230819221314.png)  
+
+2. 
