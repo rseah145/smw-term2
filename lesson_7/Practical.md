@@ -447,3 +447,4 @@ Yes, you can only see me when you have properly installed the SSL client certifi
 ![image](../images/Pasted%20image%2020230819221428.png)  
 
 You also need to disable the Anonymous Authentication method for the MutualSSL directory in order to let the client certificates authentication to be applied  
+![image](../images/Pasted%20image%2020230819221729.png)  
