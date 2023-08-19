@@ -8,6 +8,7 @@
 * [Prep only. Add HTTPS protocol support for server1 website (2nd attempt to enroll an SSL cert)](#prep-only-add-https-protocol-support-for-server1-website-2nd-attempt-to-enroll-an-ssl-cert)
 * [Create a virtual directory on IIS that uses SSL](#create-a-virtual-directory-on-iis-that-uses-ssl)
 * [Restricted for SSL Access](#restricted-for-ssl-access)
+* [Configure SSL security with "Require Client Certificate" access](#configure-ssl-security-with-require-client-certificate-access)
 
 ## Add appropriate server role to Server 2016 to facilitate an Enterprise Root CA  
 
