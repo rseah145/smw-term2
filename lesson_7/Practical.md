@@ -315,3 +315,6 @@ Note: From practical 6, an IPsec policy "ServerOneICMP" was setup that requires 
 ![image](../images/Pasted%20image%2020230819191701.png)  
 
 14. For Request Certificates, check "SMW IPSec", Click Enroll  
+![images](../images/Pasted%20image%2020230819191828.png)  
+
+15. 
