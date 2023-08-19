@@ -398,3 +398,9 @@ Expand the Server1 node and select the Default Web Site at the left pane. Click 
 
 ## Create a virtual directory on IIS that uses SSL  
 
+
+
+<br>
+
+## Restricted for SSL Access  
+
