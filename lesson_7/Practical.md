@@ -256,3 +256,8 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 9. In the Request Handling tab, check "Allow private key to be exported" checkbox (ensure requester can get the private key from the issuing server)  
 ![image](../images/Pasted%20image%2020230819183747.png)  
 
+10. Click Apply, then click OK to confirm the Duplicate Template operation  
+
+11. Close the MMC window, there's no need to save the MMC settings  
+
+12. 
