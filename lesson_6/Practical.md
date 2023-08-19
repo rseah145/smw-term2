@@ -101,7 +101,7 @@ Final results
 
 ## Testing IPsec Policy  
 
-Note: IT DOES WORK, just ensure that the GPO is applied to OUs where the PCs/Users are affected (Did not apply it to the )
+Note: IT DOES WORK, just ensure that the GPO is applied to OUs where the PCs/Users are affected (Did not apply it to the GPO to the client/ )
 
 1. Do the following ping tests before deploying the IPsec Policy, ensure that all firewalls allow ICMP traffic first (Use GPs to adjust VMs firewall settings. Use Local Policy to adjust host notebook firewall settings, if the host notebook is also used in the ping tests).  
 Ping memsrv1 from Win10 client  
