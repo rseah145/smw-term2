@@ -220,4 +220,4 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 16. Wait for a while, once the message "Your new certificate has been successfully installed" is shown, the user cert has been installed  
 ![image](../images/Pasted%20image%2020230819173725.png)  
 
-17. 
+17. Examine the cert repository as shown, a new "Personal" cert (corresponding to user1) has been added into the repo  
