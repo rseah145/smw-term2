@@ -452,7 +452,8 @@ You also need to disable the Anonymous Authentication method for the MutualSSL d
 Only enable "Windows Authentication" and disable all the rest  
 ![image](../images/Pasted%20image%2020230819221838.png)  
 
-3. Login as mgr1 (Domain User) to the Win10 client, enroll a User Cert for mgr1. Access https://<FQDN of server1\>/MutualSSL, the webpage should load without any error (Enroll a user cert through the web interface or through certificates snap-in via MMC for current user, NOT local computer as shown). Access the user certificates by typing ""  
+3. Login as mgr1 (Domain User) to the Win10 client, enroll a User Cert for mgr1. Access https://<FQDN of server1\>/MutualSSL, the webpage should load without any error (Enroll a user cert through the web interface or through certificates snap-in via MMC for current user, NOT local computer as shown). Access the user certificates by typing "manage user certificates" in the search box  
+![image](../images/Pasted%20image%2020230819222826.png)  
 ![image](../images/Pasted%20image%2020230819222257.png)  
 ![image](../images/Pasted%20image%2020230819222324.png)  
 
