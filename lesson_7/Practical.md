@@ -363,4 +363,4 @@ The method used earlier (first HTTPS SSL cert attempt) is based on a built-in wi
 9. At request certs, select the web server cert that is now accessible due to the changes made at steps 4-6  
 ![image](../images/Pasted%20image%2020230819211450.png)  
 
-10. Click on the l
+10. Click on the link below web server and fill out the
