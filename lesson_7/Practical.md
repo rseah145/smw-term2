@@ -267,4 +267,5 @@ At the left pane, click on Certificate Template to view all current enabled temp
 ![image](../images/Pasted%20image%2020230819184200.png)  
 Right-click on the Certification Template and choose New -> Certificate Template to Issue  
 ![image](../images/Pasted%20image%2020230819184248.png)  
+At the next screen, select SMW IPSec template (the one created earlier), and click OK to enable it. Now, the cert service will allow users/machines to enroll for an IPSec specific cert based on this newly enabled template. This template will be used later on  
 
