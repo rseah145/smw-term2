@@ -399,6 +399,10 @@ Expand the Server1 node and select the Default Web Site at the left pane. Click 
 
 ## Create a virtual directory on IIS that uses SSL  
 
+1. On server1, create a new directory "C:\\\\sslDemoWeb"  
+2. Open IIS Manager  
+3. Expand the server, expand Sites, right-click on Default Web Site and create a new Virtual Directory, with the alias name of "MutualSSL" and set the physical path to "C:\\\\sslDemoWeb" as shown  
+
 
 
 <br>
