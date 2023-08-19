@@ -373,5 +373,6 @@ The method used earlier (first HTTPS SSL cert attempt) is based on a built-in wi
 ![image](../images/Pasted%20image%2020230819212046.png)  
 
 13. Click Apply and OK to save the additional cert info  
+(Note:	The modern-day browsers (since 2017) require the SSL certificate to contain an Alternative name entry (DNS) to hold the FQDN of the server. Without this DNS entry in the certificate, most of the browsers will flag it out as an invalid certificate warning!)  
 ![image](../images/Pasted%20image%2020230819212138.png)  
 
