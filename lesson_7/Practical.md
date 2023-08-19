@@ -364,3 +364,6 @@ The method used earlier (first HTTPS SSL cert attempt) is based on a built-in wi
 ![image](../images/Pasted%20image%2020230819211450.png)  
 
 10. Click on the link below web server and fill out the info for the general tab as shown  
+![image](../images/Pasted%20image%2020230819211603.png)  
+
+11. Navigate to the subject tab,
