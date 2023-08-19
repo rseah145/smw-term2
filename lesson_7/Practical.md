@@ -290,4 +290,4 @@ Note: From practical 6, an IPsec policy "ServerOneICMP" was setup that requires 
 4. Modify IP Filter List to use All ICMP Traffic  
 ![image](../images/Pasted%20image%2020230819185557.png)  
 
-5. 
+5. Apply the securedICMPPolicy to the Win10 and Server1 machines. Verify the settings by issuing ping commands between the 2 machines. It should not work as both the Win10 and Server1 machines do not have the required certs yet  
