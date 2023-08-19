@@ -335,3 +335,6 @@ Note: From practical 6, an IPsec policy "ServerOneICMP" was setup that requires 
 
 ## Prep only. Add HTTPS protocol support for server1 website (2nd attempt to enroll an SSL cert)  
 
+1. Logon to Win10 client with any account, browse to https://<FQDN of server1\> to verify that HTTPS has not been set up yet  
+
+2. Browse to http://<FQDN of server1\>/webdoc, webdoc should be there if lab 4 was done properly  
