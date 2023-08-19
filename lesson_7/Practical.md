@@ -424,6 +424,8 @@ Yes, you can only see me when you have properly installed the SSL client certifi
 
 ## Restricted for SSL Access  
 
+1. Enforce MutualSSL site to only allow HTTPS access. Go to the console tree again, click the "MutualSSL node", and then in the "center pane", double-click on "SSL Settings"  
+
 
 <br>
 
