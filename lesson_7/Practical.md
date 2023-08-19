@@ -180,6 +180,7 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 --NOTE COPIED EVERYTHING FROM THE PRACTICAL FROM HERE ON AS IT DOES NOT WORK FOR MY VMS--  
 
 1.       Click on **User Certificate**.
+![image](../images/Pasted%20image%2020230819170753.png)  
 
 2.       Click Submit in the following page to get a User Certificate .
 
