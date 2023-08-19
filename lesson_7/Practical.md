@@ -182,3 +182,8 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 
 4. Click submit to get a user cert  
 ![image](../images/Pasted%20image%2020230819171216.png)  
+
+5. This error page will be shown as the "Autoenrollment" feature is turned on by default for this type of cert, thus, users do not need to manually download and install the signed certs  
+![image](../images/Pasted%20image%2020230819171525.png)  
+
+6. However, Microsoft automated 
