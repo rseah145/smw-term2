@@ -242,3 +242,6 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 ![image](../images/Pasted%20image%2020230819183023.png)  
 
 5. Click OK to add the snap-in. Double-click Certificate Templates on the left side of the screen. The screen should display all the available templates along with additional paramters, as shown  
+![image](../images/Pasted%20image%2020230819183213.png)  
+
+6. Highlight "IPsec", right-click the template and choose Duplicate Template. When prompted for compatibility options, choose the appropriate settings for the Cert Authority and the Cert Recipient. For the lab setup, Server 2012R2 is used for both settings as shown  
