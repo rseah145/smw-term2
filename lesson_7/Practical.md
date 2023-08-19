@@ -189,6 +189,7 @@ Most probably, you will see the following 'Error Page.'
 For this type of certificate, the 'Autoenrollment' feature is turned on by default, thus, the users do not need to manually download and install the signed certificates.
 
 However, Microsoft automated the above by using a propitiatory technology, ActiveX, which is only supported by Microsoft Explorer browser. Even Edge does not support ActiveX!
+![image](../images/Pasted%20image%2020230819170817.png)    
 
 3.       To overcome the issue, we need to enable the Internet Explorer mode in the Edge browser when access this ActiveX oriented page: 
 
