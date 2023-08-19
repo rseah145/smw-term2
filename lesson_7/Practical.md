@@ -180,3 +180,4 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 --NOTE: USAGE OF THE WEB INTERFACE FOR CERTS REQUIRES KERBEROS, IT WON'T WORK WITHOUT KERBEROS--  
 ![image](../images/Pasted%20image%2020230819171122.png)  
 
+4. Click submit to get a user cert  
