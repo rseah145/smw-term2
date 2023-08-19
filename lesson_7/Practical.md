@@ -186,4 +186,6 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 5. This error page will be shown as the "Autoenrollment" feature is turned on by default for this type of cert, thus, users do not need to manually download and install the signed certs  
 ![image](../images/Pasted%20image%2020230819171525.png)  
 
-6. However, Microsoft automated 
+6. However, Microsoft automated autoenrollment by using a proprietary tech "ActiveX", whicch is only supported by MS IE browser, even Edge does not support ActiveX  
+
+7. To overcome the issue, enable Internet Explorer mode in Edge via the settings URL used and the settings that are highlighted to access the ActiveX oriented page, URL is "edge://settings/defaultbrowser"  
