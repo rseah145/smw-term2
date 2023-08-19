@@ -386,4 +386,4 @@ The method used earlier (first HTTPS SSL cert attempt) is based on a built-in wi
 Expand the Server1 node and select the Default Web Site at the left pane. Click on the "Bindings" action at the right pane  
 ![image](../images/Pasted%20image 20230819212544.png)  
 
-17. 
+17. At the Site Bindings menu, add in the HTTPS binding. Click "Add" and within the Add Site Binding window, select the type to be HTTPS. Next click on the dropdown menu below SSL certificate and select the Web Server SSL cert that was created via the same "Friendly name" that was set as an identifier  
