@@ -300,3 +300,6 @@ Note: From practical 6, an IPsec policy "ServerOneICMP" was setup that requires 
 ![image](../images/Pasted%20image%2020230819191253.png)  
 
 9. On the next page, choose "The snap-in will always manage the local computer" and bring up the mmc window  
+![image](../images/Pasted%20image%2020230819191338.png)  
+
+10. 
