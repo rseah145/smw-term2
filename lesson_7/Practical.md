@@ -198,3 +198,4 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 9. One more step is required to enable ActiveX content in IE mode, add https://<your smwca server\> as a trusted site for Internet Explorer. In Windows search box, type in "Internet Options", and open the legacy Internet Explorer Properties windows  
 ![images](../images/Pasted%20image%2020230819172516.png)  
 
+10. Reopen the Edge browser, browse to https://<FQDN of cert server\>/certsrv again. After the page is loaded, click the ... and open the settings menu, click on the "Reload in Internet Explorer mode" button to reload the web page  
