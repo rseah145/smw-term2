@@ -230,5 +230,5 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 
 <br>
 
-## Add Certifcate Template to the Issuing CA  
+## Add Certificate Template to the Issuing CA  
 
