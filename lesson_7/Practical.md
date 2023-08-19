@@ -214,4 +214,4 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 14. When prompted again via a pop-up, click Yes  
 ![image](../images/Pasted%20image%2020230819173450.png)  
 
-15. 
+15. Within the next page that is loaded after clicking the submit button (means the request is accepted), click on the Install this certificate link
