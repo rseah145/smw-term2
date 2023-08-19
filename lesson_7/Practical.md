@@ -222,4 +222,5 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 
 17. Examine the cert repository as shown, a new "Personal" cert (corresponding to user1) has been added into the repo. Double-click on the newly added cert within the Certificates window to inspect the cert's details  
 ![images](../images/Pasted%20image%2020230819173955.png)  
-![[Pasted image 20230819174049.png]]
+![image](../images/Pasted%20image%2020230819174049.png)  
+![image](../images/Pasted%20image%2020230819174105.png)  
