@@ -318,3 +318,5 @@ Note: From practical 6, an IPsec policy "ServerOneICMP" was setup that requires 
 ![images](../images/Pasted%20image%2020230819191828.png)  
 
 15. At the next page view the cert and then click the finish button  
+![image](../images/Pasted%20image%2020230819191919.png)  
+
