@@ -306,3 +306,6 @@ Note: From practical 6, an IPsec policy "ServerOneICMP" was setup that requires 
 ![image](../images/Pasted%20image%2020230819191442.png)  
 
 11. Right-click on Personal, All Tasks, Request New Certificate  
+![image](../images/Pasted%20image%2020230819191536.png)  
+
+12. 
