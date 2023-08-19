@@ -189,3 +189,6 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 6. However, Microsoft automated autoenrollment by using a proprietary tech "ActiveX", whicch is only supported by MS IE browser, even Edge does not support ActiveX  
 
 7. To overcome the issue, enable Internet Explorer mode in Edge via the settings URL used and the settings that are highlighted to access the ActiveX oriented page, URL is "edge://settings/defaultbrowser"  
+![image](../images/Pasted%20image%2020230819171953.png)  
+
+8. Next click "Add" beside the Internet Explorer mode pages section and add the cert server URL as a Internet Explorer page  
