@@ -389,5 +389,6 @@ Expand the Server1 node and select the Default Web Site at the left pane. Click 
 17. At the Site Bindings menu, add in the HTTPS binding. Click "Add" and within the Add Site Binding window, select the type to be HTTPS. Next click on the dropdown menu below SSL certificate and select the Web Server SSL cert that was created via the same "Friendly name" that was set as an identifier (Different friendly name due to having done this before taking notes). Click OK to save the binding and close IIS manager afterwards  
 ![image](../images/Pasted%20image%2020230819212853.png)  
 
+18. On the Win10 client, check that the newly created HTTPS binding on server1 works by browsing to https://<FQDN of server1\>/webdoc  
 
 
