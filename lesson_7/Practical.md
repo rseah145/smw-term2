@@ -390,5 +390,4 @@ Expand the Server1 node and select the Default Web Site at the left pane. Click 
 ![image](../images/Pasted%20image%2020230819212853.png)  
 
 18. On the Win10 client, check that the newly created HTTPS binding on server1 works by browsing to https://<FQDN of server1\>/webdoc note that there is no warning message before accessing the page.  
-![image](../images/Pasted%20image%2020230819213034.png)  
-
+![image](../images/Pasted%20image%2020230819213222.png)  
