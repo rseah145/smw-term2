@@ -428,7 +428,9 @@ Yes, you can only see me when you have properly installed the SSL client certifi
 ![image](../images/Pasted%20image%2020230819220820.png)  
 
 2. At the SSL Settings pane, check the Require SSL box, then click the "Apply" link at the Actions pane on the right  
+![image](../images/Pasted%20image%2020230819220937.png)  
 
+3. 
 
 <br>
 
