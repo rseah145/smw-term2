@@ -281,4 +281,4 @@ Note: From practical 6, an IPsec policy "ServerOneICMP" was setup that requires 
 
 1. Logon to the DC with a Domain Admin account. Go to Group Policy Management  
 
-2. Modify the IPSec policy - serverOneICMP to only use Certificate Authentication scheme. First add the certificates-based authentication, and you 
+2. Modify the IPSec policy - serverOneICMP to only use Certificate Authentication scheme. First add the certificates-based authentication, and you have to choose the <Your Root CA\> certificate for the Authentication as shown  
