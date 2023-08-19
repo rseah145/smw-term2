@@ -404,3 +404,8 @@ Expand the Server1 node and select the Default Web Site at the left pane. Click 
 
 ## Restricted for SSL Access  
 
+
+<br>
+
+## Configure SSL security with "Require Client Certificate" access  
+
