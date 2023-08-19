@@ -204,3 +204,6 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 11. Enter the user1 credentials when prompted. The browser will now remain in IE mode as shown by the IE icon beside the URL and within the tab. Repeat steps 2-4 to get the user cert  
 ![image](../images/Pasted%20image%2020230819173028.png)  
 ![image](../images/Pasted%20image%2020230819173144.png)  
+
+12. After clicking on the "User Certificate" link, the ActiveX page should be working, showing a prompt. Click Yes to allow the page to download and install the user cert on your behalf  
+![image](../images/Pasted%20image%2020230819173308.png)  
