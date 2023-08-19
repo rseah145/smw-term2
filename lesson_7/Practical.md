@@ -292,4 +292,8 @@ Note: From practical 6, an IPsec policy "ServerOneICMP" was setup that requires 
 
 5. Apply the securedICMPPolicy to the Win10 and Server1 machines. Verify the settings by issuing ping commands between the 2 machines. It should not work as both the Win10 and Server1 machines do not have the required certs yet  
 
-6. However 
+6. Pinging Server1 works from the PDC, but Pinging Win10 client does not work  
+
+7. Logon to the Win10 client as domain admin account  
+
+8. Bring up an MMC session and add-in the Certificates snap-in. Choose "Computer account" when you are prompted for the certificates type as shown  
