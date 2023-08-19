@@ -446,5 +446,7 @@ Yes, you can only see me when you have properly installed the SSL client certifi
 2. After applying the change, accessing the HTTPS version of the MutualSSL site from the win10 client shows the following error, which is because the current login user account does not have a "User Certificate" issued by the Root CA (smwca) stored in the PC's cert repository  
 ![image](../images/Pasted%20image%2020230819221428.png)  
 
-You also need to disable the Anonymous Authentication method for the MutualSSL directory in order to let the client certificates authentication to be applied  
+You also need to disable the Anonymous Authentication method for the MutualSSL directory in order to let the client certificates authentication to be applied (Double-click on Authentication under MutualSSL)  
 ![image](../images/Pasted%20image%2020230819221729.png)  
+
+
