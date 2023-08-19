@@ -347,3 +347,7 @@ Ensure at least PDC, Root CA server (smwca) and server1 are up and running
 4. On smwca, login as a user in the Enterprise Admin group (e.g. smw_srv2016), bring up AD CS management console (Certification Authority), right-click on "Certificate Templates" node on the left pane and click on the "Manage" menu  
 ![image](../images/Pasted%20image%2020230819210551.png)  
 
+5. Within the Certifcate Templates console, locate the "Web Server" entry in the middle pane, right-click on it and access the properties menu  
+![image](../images/Pasted%20image%2020230819210703.png)  
+
+6. 
