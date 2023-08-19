@@ -265,7 +265,9 @@ At the Root CA server, at the Server Manager, under Tools menu, select Certifica
 Expand the Root CA node on the left pane  
 At the left pane, click on Certificate Template to view all current enabled templates at the main pane. Each template refers to a type of certificates the CA can issue. User, Computer, and Web Server are the types that have been relevant to the Lab exercises  
 ![image](../images/Pasted%20image%2020230819184200.png)  
+
 Right-click on the Certification Template and choose New -> Certificate Template to Issue  
 ![image](../images/Pasted%20image%2020230819184248.png)  
-At the next screen, select SMW IPSec template (the one created earlier), and click OK to enable it. Now, the cert service will allow users/machines to enroll for an IPSec specific cert based on this newly enabled template. This template will be used later on  
 
+At the next screen, select SMW IPSec template (the one created earlier), and click OK to enable it. Now, the cert service will allow users/machines to enroll for an IPSec specific cert based on this newly enabled template. This template will be used later on  
+![[Pasted image 20230819184416.png]]  
