@@ -193,7 +193,8 @@ However, Microsoft automated the above by using a propitiatory technology, Activ
 
 3.       To overcome the issue, we need to enable the Internet Explorer mode in the Edge browser when access this ActiveX oriented page: 
 
-                    i.          In the address bar for Microsoft Edge, type edge://settings/defaultbrowser and then click Enter.
+                    i.          In the address bar for Microsoft Edge, type edge://settings/defaultbrowser and then click Enter.  
+ ![image](../images/Pasted%20image%2020230819170903.png)    
 
                   ii.          Configure the default browser to have the above configurations. Then press the Add button to add in your cert server URL as a Internet Explorer mode page.
 
