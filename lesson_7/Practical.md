@@ -251,3 +251,6 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 ![image](../images/Pasted%20image%2020230819183537.png)  
 
 8. In the Issuance Requirement tab, ensure "CA certificate manager approval" box is NOT checked (ensure auto-enrolment)  
+![image](../images/Pasted%20image%2020230819183632.png)  
+
+9. 
