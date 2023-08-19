@@ -404,6 +404,8 @@ Expand the Server1 node and select the Default Web Site at the left pane. Click 
 3. Expand the server, expand Sites, right-click on Default Web Site and create a new Virtual Directory, with the alias name of "MutualSSL" and set the physical path to "C:\\\\sslDemoWeb" as shown  
 ![image](../images/Pasted%20image%2020230819220040.png)  
 
+4. Create 
+
 
 <br>
 
