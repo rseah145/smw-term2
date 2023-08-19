@@ -344,6 +344,8 @@ The method used earlier (first HTTPS SSL cert attempt) is based on a built-in wi
 3. Use MMC with cert snap-in to enroll an SSL cert for website on server1:  
 Ensure at least PDC, Root CA server (smwca) and server1 are up and running  
 
+<br>
+
 4. On smwca, login as a user in the Enterprise Admin group (e.g. smw_srv2016), bring up AD CS management console (Certification Authority), right-click on "Certificate Templates" node on the left pane and click on the "Manage" menu  
 ![image](../images/Pasted%20image%2020230819210551.png)  
 
