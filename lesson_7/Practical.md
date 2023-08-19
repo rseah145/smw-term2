@@ -3,6 +3,7 @@
 * [Setting up the default Enterprise autoenrollment policy](#setting-up-the-default-enterprise-autoenrollment-policy)
 * [Adding in HTTPS protocol support to the certsrv website](#adding-in-https-protocol-support-to-the-certsrv-website)
 * [Installation of CA Certificate Chain](#installation-of-ca-certificate-chain)
+* [Add Certificate Template to the Issuing CA](#add-certificate-template-to-the-issuing-ca)
 
 ## Add appropriate server role to Server 2016 to facilitate an Enterprise Root CA  
 
@@ -229,4 +230,5 @@ note: done to "enroll" a user cert for user1@<your domain\> from the Enterprise 
 
 <br>
 
-## Adding in Certifcate Template to the Issuing CA
+## Add Certifcate Template to the Issuing CA  
+
