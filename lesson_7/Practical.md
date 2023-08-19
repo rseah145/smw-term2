@@ -355,4 +355,6 @@ The method used earlier (first HTTPS SSL cert attempt) is based on a built-in wi
 ![image](../images/Pasted%20image%2020230819210830.png)  
 
 7. Logon to server1 with a domain admin account, open MMC and add the cert snap-in (This PC + For local PC options)  
+![image](../images/Pasted%20image%2020230819211217.png)  
 
+8. 
