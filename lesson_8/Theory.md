@@ -52,4 +52,9 @@ Benefit of using a VPN is users can connect to a local ISP and connect through t
 
 VPN is used to ensure that any data sent across a public network, such as the Internet, is secure. VPN creates an encrypted tunnel between the client and the RAS server  
 
-Typical 
+<br>
+
+Typical VPN use cases  
+* Ensure secured communication between 2 sites
+* Ensure secured communication between a site with remote clients to allow remote clients to access resources offered by the site
+* Se
