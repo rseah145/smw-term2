@@ -37,4 +37,7 @@ Virtual Private Network (VPN)
 
 Related Topics (Textbook)  
 * Direct Access, establishes 2 "tunnels" for connecting to a Direct Access erver used in remote access. Transparent to users and always on  
-* Web Application Proxy
+* Web Application Proxy, publishing apps so that external users to an org can access those apps on the org's servers  
+
+<br>
+
