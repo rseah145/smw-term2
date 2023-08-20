@@ -300,4 +300,4 @@ In basic terms:
 
 RAS Demo 4a and 4b  
 * [The VPN Connection Configuration at the remote client](https://web.microsoftstream.com/video/0382ec33-9b3c-44f5-8cb9-e67e479b0ab8)  
-* [Running RSAT via VPN]()
+* [Running RSAT via VPN](https://web.microsoftstream.com/video/68260fb9-00ab-4d0f-8ccc-7d7bcca3a97a)
