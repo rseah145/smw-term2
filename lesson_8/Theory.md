@@ -17,14 +17,12 @@ Install and configure Remote Desktop Services
 <br>
 
 # Navigation  
-* [Remote Access Services](#remote-access-services)
+* [Intro to Remote Access Services](#intro-to-remote-access-services)
 * [Implementing a Virtual Private Network](#implementing-a-virtual-private-network)
 
 <br>
 
-## Remote Access Services  
-
-### Intro to Remote Access  
+## Intro to Remote Access  
 
 Remote Access Services (RAS) role  
 * Enables remote access through 3 means: Virtual Private Networking, Direct Access, and Web Application Proxy  
