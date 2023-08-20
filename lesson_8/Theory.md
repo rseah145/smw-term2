@@ -536,3 +536,7 @@ A RemoteApp program is started by clients in the following ways:
 
 Simulated Remote Desktop Server setup diagram  
 ![image](../images/Pasted%20image%2020230820193800.png)  
+
+<br>
+
+##
