@@ -308,4 +308,22 @@ Activity 9-4 from the textbook shows how to setup a DHCP relay agent
 
 Activity 9-5 from the textbook instructs in how to configure the DHCP relay agent hop count  
 
-RAS Demo 5 [Configure DHCP Relay Agent and setup PPTP only VPN](https://web.microsoftstream.com/video/5ae4a886-8024-44db-b7e8-143a1182a56d)
+RAS Demo 5 [Configure DHCP Relay Agent and setup PPTP only VPN](https://web.microsoftstream.com/video/5ae4a886-8024-44db-b7e8-143a1182a56d)  
+
+<br>
+
+### Configuring VPN Security  
+
+VPN security can be setup through a remote access policy, this greatly reduces administrative overhead and offers more flexibility and control fo authorizing connection attempts  
+
+<br>
+
+Elements of a Remote Access Policy  
+* Access permission  
+* Conditions  
+* Constraints  
+* Settings  
+
+<br>
+
+RAS Demo 6 - [Remote Access Policy for VPN via NPS]()
