@@ -197,6 +197,6 @@ Note that these built-in VPN protocols can be implemented in the RAS server conc
 
 | VPN Protocol | Encryption | Ports | Compatible with | Notes |
 | :---------------| :------------| :-----| :-----------------| :---------|
-| PPTP | MPPE with RC4 128-bit key | 1723 TCP | Windows, Mac OS, iPhone, Android | PPTP is a widely used VPN protocl, easy to setup. <br> Not considered for site to site VPN setup. <br> Not recommended to be used for VPN sessions that last longer than a couple of hours. |
+| PPTP | MPPE with RC4 128-bit key | 1723 TCP | Windows, Mac OS, iPhone, Android | PPTP is a widely used VPN protocl, easy to setup. <br>Not considered for site to site VPN setup. <br>Not recommended to be used for VPN sessions that last longer than a couple of hours. |
 | L2TP | IPsec with 3DE 168-bit key | 500 UDP<br>1701 UDP<br>5500 UDP| Windows, Mac OS, Android | Considered to be more secure than PPTP. |
 | SSTP|
