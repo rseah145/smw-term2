@@ -154,4 +154,4 @@ PPTP is the easiest protocol to setup, most network devices support it, however,
 Secure Socket Tunneling Protocol (SSTP)  
 * Employs PPP authentication techniques  
 * Encapsulates the data packets in HTTP used through Web communications  
-* Additionally uses an SSL channel for secure communication, SSL for data encryption between server and client, 
+* Additionally uses an SSL channel for secure communication, SSL for data encryption between server and client. SSL has evolved into TLS
