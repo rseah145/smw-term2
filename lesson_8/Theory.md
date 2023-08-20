@@ -248,5 +248,5 @@ If you are using Windows Firewall on your server
 
 Activity 9-3 from textbook covers this  
 
-Quick [video]() for VMs in the simulated network  
+Quick [video](![[Pasted image 20230820181246.png]]) for VMs in the simulated network  
 
