@@ -67,3 +67,8 @@ Diagram with 3 remote client to site VPN implementations
 3. Bottom: Microsoft RAS based VPN (basic router) for remote client access to office network  
 ![image](../images/Pasted%20image%2020230820162616.png)  
 
+<br>
+
+### More theory  
+
+A VPN server uses 2 or more NICs for communication
