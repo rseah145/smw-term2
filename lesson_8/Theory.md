@@ -61,3 +61,9 @@ Typical VPN use cases
 
 <br>
 
+Diagram with 3 remote client to site VPN implementations  
+1. Top: Firewall based VPN for remote client access to office network  
+2. Middle: Router based VPN for remote client access to office network  
+3. Bottom: Microsoft RAS based VPN (basic router) for remote client access to office network  
+![image](../images/Pasted%20image%2020230820162616.png)  
+
