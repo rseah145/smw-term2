@@ -31,7 +31,7 @@ Remote Access Services (RAS) role
 <br>
 
 Virtual Private Network (VPN)  
-* Like a tunnel through a larger network that is restricted to designated member clients only  
+* Like a tunnel through a larger network that is restricted to designated member clients only (e.g. Cisco Anyconnect VPN and Palo Alto Global protect VPN)  
 
 <br>
 
