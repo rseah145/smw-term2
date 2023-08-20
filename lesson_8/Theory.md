@@ -351,3 +351,13 @@ If the connection attempt matches the conditions of a remote access policy, the 
 Settings in the remote access policy are then examined  
 * Settings include elements such as IP filters, encryption, IP settings, and others  
 
+<br>
+
+Establishing a Remote Access Policy  
+* You can use the Routing and Remote Access tool to create and configure a remote access policy  
+* To create a new remote access policy, click to activate and then right-click the Remote Access Logging & Policies folder in the tree under the VPN server, click Launch NPS to launch the Network Policy Server tool  
+
+<br>
+
+Activity 9-6 from the textbook shows how to configure a remote access policy  
+
