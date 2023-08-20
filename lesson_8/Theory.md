@@ -421,4 +421,12 @@ Be certain that the VPN server is started
 
 In the Routing and Remote Access tool, check the network interface  
 
-Ensure that the IP parameters are correctly configured to provide an address pool for either a VPN server
+Ensure that the IP parameters are correctly configured to provide an address pool for either a VPN server  
+
+Check to ensure the remote access policy is consistent with the user's access needs  
+
+Open the Remote Access Management Console and click Dashboard in the left pane  
+
+<br>
+
+If only certain clients but not all are having connection problems, try these solutions:  
