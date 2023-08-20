@@ -18,6 +18,7 @@ Install and configure Remote Desktop Services
 
 # Navigation  
 * [Remote Access Services](#remote-access-services)
+* [Implementing a Virtual Private Network](#implementing-a-virtual-private-network)
 
 <br>
 
@@ -40,4 +41,6 @@ Related Topics (Textbook)
 * Web Application Proxy, publishing apps so that external users to an org can access those apps on the org's servers  
 
 <br>
+
+## Implementing a Virtual Private Network  
 
