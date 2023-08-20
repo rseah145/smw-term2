@@ -262,4 +262,4 @@ RAS Demo 2, [Features of RAS](https://web.microsoftstream.com/video/3d1a4030-6bc
 
 After the VPN server is setup  
 * The configuration wizard will be invoked to guide you through the configuration  
-* RAS Demo 3 - [Configuration Wizard]()
+* RAS Demo 3 - [Configuration Wizard](https://web.microsoftstream.com/video/c3d88644-ebdd-4618-b8e6-a29a6a1a3f82)  
