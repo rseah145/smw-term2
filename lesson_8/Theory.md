@@ -107,4 +107,9 @@ IP is the most commonly used transport protocol
 
 Several rermote access protocols are used by Win Server 2016 and its remote clients  
 
-An early basic remote access protocol in use is PPP
+An early basic remote access protocol in use is PPP  
+
+Different in LAN and WAN is in terms of the medium, hardware devices, bandwidth and topologies. The 2 types of networks usually runs on a different set of network protocols  
+
+Remote Access Protocol needs to cater for LAN to WAN protocol conversion, and then WAN to LAN protocol conversion in order to allow 2 remote parties to communicate seamlessly as if both were on the same LAN  
+
