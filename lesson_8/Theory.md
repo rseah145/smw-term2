@@ -597,3 +597,8 @@ For all Win Servers (and some Windows 10 editions), there are built-in Remote De
 
 <br>
 
+### Accessing an RDS Server from a Client  
+
+Remote Desktop Services client PCs can sign in using the Remote Desktop Connection (RDC) client  
+* The RDC client is already installed in Windows Vista through Windows 10 and in Win Server 2016  
+* [RD Service Demo (part 3: RDC)]()
