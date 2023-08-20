@@ -89,4 +89,4 @@ Caveats:
 
 <br>
 
-
+Typical VPN configuration uses a Win Server with 2 NICs 
