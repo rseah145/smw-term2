@@ -19,6 +19,7 @@ Install and configure Remote Desktop Services
 # Navigation  
 * [Intro to Remote Access Services](#intro-to-remote-access-services)
 * [Implementing a Virtual Private Network](#implementing-a-virtual-private-network)
+* [Using Remote Access Protocols](#using-remote-access-protocols)
 
 <br>
 
