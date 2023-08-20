@@ -462,3 +462,19 @@ One is allow thin client connections  
 
 The other is, it enables the server administrators to know the details of the remote clients activities  
 
+<br>
+
+Win Server 2016 Remote Desktop Services are used for 3 broad purposes:  
+* To run apps on a server instead of the client  
+* To support thin clients
+* To centralize program access  
+
+<br>
+
+Thin clients  
+* Downsized PCs that have minimal Windows-based OSs that access a Win Server 2016 server so that most CPU-intensive operations are performed on the server  
+* Generally used to save money and reduce training and support requirements  
+* Also used for portable field or handheld remote devices  
+
+<br>
+
