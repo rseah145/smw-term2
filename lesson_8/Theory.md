@@ -561,3 +561,12 @@ Another element to consider before you install the RDS role is who will be allow
 
 If operating in an AD environment  
 * Consider creating a domain local group of users, such as RDS Users  
+* Next, create different global groups of users, such as a global group for each department that will access the RDS server  
+* Add the appropriate user accounts for each department's global group  
+* Finally, add the global groups to the single domain local group  
+
+<br>
+
+Activity 9-8 from textbook shows how to install the Remote Desktop Service role  
+
+Remote Desktop Services Demo (part 1) [video]()
