@@ -228,3 +228,4 @@ Activity 9-2 of textbook takes you through the initial setup of a VPN server
 
 ### Simulated VPN Setup  
 
+Diagram based on a network infrastructure configuration 
