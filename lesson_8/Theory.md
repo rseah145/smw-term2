@@ -132,3 +132,19 @@ When implementing a Win Server 2016 VPN server, there's 3 or 4 choices for remot
 
 IKEv2 is a newer version of IPsec which provides more configuration options  
 
+<br>
+
+Point-to-Point Tunneling Protocol (PPTP)  
+* Offers PPP-based authentication techniques  
+* Encrypts data carried by PPTP through using Microsoft Point-to-Point Encryption (MPPE)  
+
+<br>
+
+Layer Two Tunneling Protocol (L2TP)  
+* Works similarly to PPTP  
+* Uses Layer Two Forwarding that enables forwarding on the basis of MAC addressing  
+* Uses IP Security (IPsec) for additional authentication and for data encryption, IPsec i a set of IP-based secure communications and encryption standards created through IETF  
+
+<br>
+
+PPTP is the easiest protocol to setup, most network devices support it
