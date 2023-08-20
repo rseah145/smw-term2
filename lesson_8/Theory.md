@@ -456,3 +456,9 @@ Virtual desktops
 
 <br>
 
+In general , this way of remote access offers two additional remote access features that VPN not supports  
+
+One is allow thin client connections  
+
+The other is, it enables the server administrators to know the details of the remote clients activities  
+
