@@ -382,3 +382,23 @@ With the tool open:
 
 ## Troubleshooting VPN Installations  
 
+Troubleshooting VPN communications can be divided into hardware and software troubleshooting  
+
+<br>
+
+### Hardware solutions  
+
+Use Device Manager to ensure network adapters and WAN adapters are working properly, also use Device Manager to ensure that an adapter has no resource conflicts  
+
+For an external DSL adapter or a combined DSL adapter and router, ensure the device is properly configured and connected. Check its monitor lights for problems  
+
+Call your ISP to determine if problems are present on the ISP's WAN  
+
+<br>
+
+### Software solutions  
+
+Use the Services tool or Server Manager to ensure the following services are started:  
+* IP Helper
+* Remote Access Connection Manager  
+* IKE and Auth IP
