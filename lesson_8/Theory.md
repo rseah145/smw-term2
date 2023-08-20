@@ -430,3 +430,12 @@ Open the Remote Access Management Console and click Dashboard in the left pane
 <br>
 
 If only certain clients but not all are having connection problems, try these solutions:  
+* Ensure clients are using the same communications protocol as the server  
+* If you manage access to a VPN server by using security groups, ensure that each user account or PC account that needs access is in the appropriate group  
+
+<br>
+
+In short, troubleshooting VPN issues requires re-checking of the overall hardware connections and the system configurations  
+
+This checking requires the thorough understanding of network infrastructure, VPN protocols, Windows and/or AD operations  
+
