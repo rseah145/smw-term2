@@ -57,4 +57,4 @@ VPN is used to ensure that any data sent across a public network, such as the In
 Typical VPN use cases  
 * Ensure secured communication between 2 sites
 * Ensure secured communication between a site with remote clients to allow remote clients to access resources offered by the site
-* Se
+* Secured Internet connection to a remote client, which is a remote client establishing a VPN connection to a site, then using the gateway of the sire to access the Internet. Security between the remote client and the Internet is taken care of by security measures in the site  
