@@ -165,3 +165,27 @@ SSTP only requires port 443 to operate, thus, it is the most firewall friendly V
 Internet Key Exchange Version 2 Protocol (IKE v2)  
 * Employs IPsec in tunnel mode protocol over UDP ports 500 and 4500  
 * Encapsulates datagrams by using IPsec ESP or AH headers for transmission over the network  
+
+<br>
+
+IKE v2 Encryption:
+* AES-256, AES-192, AES-129, and 3DES encryption algorithms  
+* 3DES is not recommended  
+
+<br>
+
+IKE v2 Pros:
+* Believed to be a faster and extremely secure protocol  
+* Supports mobility (MOBIKE), much more resilient to changing network connectivity with the ability to swtich between access points/ wired to wireless connection  
+
+<br>
+
+IKE v2 Cons:
+* Proprietary (like SSTP)
+* But there are open-source implementations
+* Support by some Network Device Vendors
+
+<br>
+
+IKE v2 is the only built-in VPN protocol that supports mobility connections (e.g. remote clients are constantly moving)  
+
