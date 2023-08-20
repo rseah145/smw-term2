@@ -539,4 +539,25 @@ Simulated Remote Desktop Server setup diagram
 
 <br>
 
-##
+## Installing Remote Desktop Services  
+
+When the Remote Desktop Services role is installed, you also need to install the RDS Licensing role service to manage the number of terminal server user licenses you have obtained from Microsoft  
+
+The RDS Licensing role server can be installed when you install the Remote Desktop Services role  
+
+Licenses can be purchased either per user account or by client device  
+
+<br>
+
+When you install the RDS role, you implement Network Level Authentication (NLA)  
+* NLA enables authentication to take place before the RDS connection is established  
+* Designed to eliminate man-in-the-middle attacks  
+
+<br>
+
+Another element to consider before you install the RDS role is who will be allowed to access the RDS server. Create groups of user accounts in advance so that you can add these groups during the installation  
+
+<br>
+
+If operating in an AD environment  
+* Consider creating a domain local group of users, such as RDS Users  
