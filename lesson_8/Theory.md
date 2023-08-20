@@ -195,3 +195,4 @@ IKE v2 is the only built-in VPN protocol that supports mobility connections (e.g
 
 Note that these built-in VPN protocols can be implemented in the RAS server concurrently, meaning RAS can be configured to support remote clients using any of the 4 VPN protocols to a site  
 
+| VPN Protocol | Encryption | Ports | Compatible with | Notes |
