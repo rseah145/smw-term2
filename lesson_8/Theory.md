@@ -569,4 +569,4 @@ If operating in an AD environment
 
 Activity 9-8 from textbook shows how to install the Remote Desktop Service role  
 
-Remote Desktop Services Demo (part 1) [video]()
+Remote Desktop Services Demo (part 1) [video](https://web.microsoftstream.com/video/32f973bf-eec8-44bf-8a74-f6e36142e515)
