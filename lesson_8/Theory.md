@@ -421,4 +421,4 @@ Be certain that the VPN server is started
 
 In the Routing and Remote Access tool, check the network interface  
 
-Ensure that the IP parameters are correctly configured to provide an address pool for either
+Ensure that the IP parameters are correctly configured to provide an address pool for either a VPN server
