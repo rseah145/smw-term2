@@ -334,3 +334,20 @@ By default, the remote access policy is set to deny all
 
 Therefore, even when the RAS services is up and running, remote clients will not be able to connect to it until the Remote Access Policy is configured properly  
 
+<br>
+
+First step in evaluating access is to determine if access permission is enabled at the VPN server  
+* Default permission for this policy is set to Deny access  
+* Change the default permission to Grant acess in the default remote access policy  
+
+<br>
+
+The conditions of a remote access policy are a set of attributes that are compared with the attributes of the connection attempt  
+
+If the connection attempt matches the conditions of a remote access policy, the constraints are evaluated  
+
+<br>
+
+Settings in the remote access policy are then examined  
+* Settings include elements such as IP filters, encryption, IP settings, and others  
+
