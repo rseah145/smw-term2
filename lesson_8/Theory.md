@@ -149,3 +149,9 @@ Layer Two Tunneling Protocol (L2TP)
 
 PPTP is the easiest protocol to setup, most network devices support it, however, it is not a good for use in a VPN channel that requires long (or near permanent) sessions  
 
+<br>
+
+Secure Socket Tunneling Protocol (SSTP)  
+* Employs PPP authentication techniques  
+* Encapsulates the data packets in HTTP used through Web communications  
+* Additionally uses an SSL channel for secure communication, SSL for data encryption between server and client, 
