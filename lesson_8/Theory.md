@@ -593,4 +593,7 @@ For all Win Servers (and some Windows 10 editions), there are built-in Remote De
 * With limited number of connections  
 * With simplified configuration options  
 * Run on the same Remote Desktop Protocol  
-* [RD services Demo (part 2)](https://web.microsoftstream.com/video/575150e3-6e49-4c36-861e-f22939a0ecee)
+* [RD services Demo (part 2)](https://web.microsoftstream.com/video/575150e3-6e49-4c36-861e-f22939a0ecee)  
+
+<br>
+
