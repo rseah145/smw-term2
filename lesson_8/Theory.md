@@ -22,7 +22,7 @@ Install and configure Remote Desktop Services
 * [Using Remote Access Protocols](#using-remote-access-protocols)
 * [Configuring a VPN Server](#configuring-a-vpn-server)
 * [Troubleshooting VPN Installations](#troubleshooting-vpn-installations)
-* 
+* [Connecting Through Remote Desktop Services](#connecting-through-remote-desktop-services)
 
 <br>
 
@@ -440,3 +440,8 @@ In short, troubleshooting VPN issues requires re-checking of the overall hardwar
 
 This checking requires the thorough understanding of network infrastructure, VPN protocols, Windows and/or AD operations  
 
+<br>
+
+## Connecting Through Remote Desktop Services  
+
+Remote Desktop Services (RDS) server enables clients to run sessions-based desktops, virtual desktops, and software apps on Win Server 2016 instead of running them on the client
