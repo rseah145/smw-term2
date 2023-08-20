@@ -403,4 +403,22 @@ Use the Services tool or Server Manager to ensure the following services are sta
 * Remote Access Connection Manager  
 * IKE and AuthIP IPsec Keying Modules  
 * Routing and Remote Access  
-* Netlogon
+* Netlogon  
+* Remote Access Management service  
+* Base Filtering Engine  
+* Windows Firewall  
+* Secure Socket Tunneling Protocol service  
+
+<br>
+
+Ensure Windows Firewall is setup to allow remote access  
+
+Ensure that VPN server is enabled  
+
+Check the <b>remote access policy</b> to be sure that access permission <b>is granted</b>  
+
+Be certain that the VPN server is started  
+
+In the Routing and Remote Access tool, check the network interface  
+
+Ensure that the IP parameters are correctly configured to provide an address pool for either
