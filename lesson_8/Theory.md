@@ -581,3 +581,16 @@ There are 6 Features available in the RDS role, all of which are high on resourc
 
 ## Configuring Remote Desktop Services  
 
+After installing the RDS role and the associated role services, use Server Manager to complete a basic configuration as shown from Activity 9-9 from the textbook  
+
+### Built-in Remote Desktop Services  
+
+The installation of a full sccale Remote Desktop Services may demand a high amount of system resources, through Remote Desktop Role and features  
+
+<br>
+
+For all Win Servers (and some Windows 10 editions), there are built-in Remote Desktop Services  
+* With limited number of connections  
+* With simplified configuration options  
+* Run on the same Remote Desktop Protocol  
+* [RD services Demo (part 2)](https://web.microsoftstream.com/video/575150e3-6e49-4c36-861e-f22939a0ecee)
