@@ -242,4 +242,11 @@ The VPN server must be able to send communications through the network
 
 If you are using Windows Firewall on your server  
 * TCP and UDP ports used by VPN are unblocked by default when you configure a VPN server  
-* However, it is important to ensure they are unblocked
+* However, it is important to ensure they are unblocked (Ports used by VPN)  
+
+<br>
+
+Activity 9-3 from textbook covers this  
+
+Quick [video]() for VMs in the simulated network  
+
