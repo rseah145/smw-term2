@@ -113,3 +113,18 @@ Different in LAN and WAN is in terms of the medium, hardware devices, bandwidth 
 
 Remote Access Protocol needs to cater for LAN to WAN protocol conversion, and then WAN to LAN protocol conversion in order to allow 2 remote parties to communicate seamlessly as if both were on the same LAN  
 
+<br>
+
+Point-to-Point Protocol (PPP)  
+* Used in legacy remote communications involving modems  
+* Enables authentication of connections and encryptions for the network communications, but it is not considered to be as secure as modern options
+* Can auto negotiate communications with several network communication layers at once  
+
+<br>
+
+When implementing a Win Server 2016 VPN server, there's 3 or 4 choices for remote access tunneling protocols:
+* Point-to-Point Tunneling Protocol  
+* Layer 2 Tunneling Protocol  
+* Secure Socket Tunneling Protocol  
+* <b>IKE v2 Protocol (IPSec, tunnel mode, IKE version 2)</b>  
+
