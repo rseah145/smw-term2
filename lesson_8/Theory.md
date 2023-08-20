@@ -299,5 +299,5 @@ In basic terms:
 <br>
 
 RAS Demo 4a and 4b  
-* [The VPN Connection Configuration at the remote client]()  
+* [The VPN Connection Configuration at the remote client](https://web.microsoftstream.com/video/0382ec33-9b3c-44f5-8cb9-e67e479b0ab8)  
 * [Running RSAT via VPN]()
