@@ -162,4 +162,6 @@ Secure Socket Tunneling Protocol (SSTP)
 SSTP only requires port 443 to operate, thus, it is the most firewall friendly VPN protocol  
 <br>
 
-In
+Internet Key Exchange Version 2 Protocol (IKE v2)  
+* Employs IPsec in tunnel mode protocol over UDP ports 500 and 4500  
+* Encapsulates datagrams by using IPsec ESP or AH headers for transmission over the network  
