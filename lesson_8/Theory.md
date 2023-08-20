@@ -147,4 +147,4 @@ Layer Two Tunneling Protocol (L2TP)
 
 <br>
 
-PPTP is the easiest protocol to setup, most network devices support it
+PPTP is the easiest protocol to setup, most network devices support it, however, it is not a good 
