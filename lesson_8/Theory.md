@@ -605,4 +605,9 @@ Remote Desktop Services client PCs can sign in using the Remote Desktop Connecti
 
 <br>
 
-The general steps to start 
+The general steps to start RDC client in Windows 10 or Win Server 2016 are as follows:  
+* Click Start and click the Windows Accessories folder  
+* Click Remote Desktop Connection  
+* Enter the name of the PC to access and click Connect  
+* Provide the username and password and click OK  
+
