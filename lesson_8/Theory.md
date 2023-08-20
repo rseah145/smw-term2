@@ -228,4 +228,6 @@ Activity 9-2 of textbook takes you through the initial setup of a VPN server
 
 ### Simulated VPN Setup  
 
-Diagram for a network infrastructure configuration 
+Diagram for a network infrastructure configuration to go through a simple RAS or VPN gateway setup. This simulated network requires 4 VMs, 3 of them are 3 Windows systems and the remaining VM is a Linux system that serves as a virtual router in this setup  
+![image](../images/Pasted%20image%2020230820180935.png)  
+
