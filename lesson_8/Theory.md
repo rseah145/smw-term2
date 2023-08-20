@@ -270,3 +270,8 @@ After the VPN server is setup
 
 After the initial setup. You can configure it further from the Routing and Remote Access tool by right-clicking the VPN server in the tree and clicking Properties  
 
+<br>
+
+2 tabs of the VPN Properties menu  
+![image](../images/Pasted%20image%2020230820181825.png) ![image](../images/Pasted%20image%2020230820181828.png)  
+
