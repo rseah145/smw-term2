@@ -23,6 +23,8 @@ Install and configure Remote Desktop Services
 * [Configuring a VPN Server](#configuring-a-vpn-server)
 * [Troubleshooting VPN Installations](#troubleshooting-vpn-installations)
 * [Connecting Through Remote Desktop Services](#connecting-through-remote-desktop-services)
+* [Installing Remote Desktop Services](#installing-remote-desktop-services)
+* [Configuring Remote Desktop Services](#configuring-remote-desktop-services)
 
 <br>
 
