@@ -89,4 +89,7 @@ Caveats:
 
 <br>
 
-Typical Win Server configuration to be used as a VPN server uses 2 NICs 
+Typical Win Server configuration to be used as a VPN server uses 2 NICs, AKA multi-homed dual NIC deployment  
+
+VPN server may or may not be a part of a domain, if the Win Server is part of the domain, it can directly use the AD for client authentication  
+
