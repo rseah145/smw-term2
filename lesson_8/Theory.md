@@ -298,6 +298,14 @@ In basic terms:
 
 <br>
 
-RAS Demo 4a and 4b  
+RAS Demo 4a and 4b (Demo how a remote VPN client connects to an RAS server via PPTP)  
 * [The VPN Connection Configuration at the remote client](https://web.microsoftstream.com/video/0382ec33-9b3c-44f5-8cb9-e67e479b0ab8)  
-* [Running RSAT via VPN](https://web.microsoftstream.com/video/68260fb9-00ab-4d0f-8ccc-7d7bcca3a97a)
+* [Running RSAT via VPN](https://web.microsoftstream.com/video/68260fb9-00ab-4d0f-8ccc-7d7bcca3a97a)  
+
+<br>
+
+Activity 9-4 from the textbook shows how to setup a DHCP relay agent  
+
+Activity 9-5 from the textbook instructs in how to configure the DHCP relay agent hop count  
+
+RAS Demo 5 [Configure DHCP Relay Agent and setup PPTP only VPN](https://web.microsoftstream.com/video/5ae4a886-8024-44db-b7e8-143a1182a56d)
