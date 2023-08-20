@@ -520,3 +520,18 @@ See Table 9-7 from textbook for a description of each service
 
 <br>
 
+An RDS server employs RemoteApp  
+* A feature that enables a client to run an app without loading a remote desktop on the client PC  
+* The program appears to just be another program in a window running on the local PC  
+
+<br>
+
+A RemoteApp program is started by clients in the following ways:  
+* From an icon on the client's desktop  
+* From the client's Start menu  
+* As a link on a website via Remote Desktop Web Access  
+* As an .rdp (remote desktop protocol) file  
+
+<br>
+
+
