@@ -326,4 +326,11 @@ Elements of a Remote Access Policy
 
 <br>
 
-RAS Demo 6 - [Remote Access Policy for VPN via NPS]()
+RAS Demo 6 - [Remote Access Policy for VPN via NPS](https://web.microsoftstream.com/video/b142248f-79bb-40cc-af50-d6514744e5be) (Network Policy Service)  
+
+Remote Access Polciy can be setup to allow or deny remote access requests  
+
+By default, the remote access policy is set to deny all  
+
+Therefore, even the RAS services is up and running, remote clients will not be able to connect to it until the Remote Access Policy is configured properly  
+
