@@ -361,3 +361,7 @@ Establishing a Remote Access Policy
 
 Activity 9-6 from the textbook shows how to configure a remote access policy  
 
+Screenshot of NPS  
+![image](../images/Pasted%20image%2020230820183251.png)  
+
+
