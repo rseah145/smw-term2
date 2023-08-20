@@ -224,3 +224,7 @@ Activity 9-1 of textbook shows how to install the Network Policy, Access Service
 
 Activity 9-2 of textbook takes you through the initial setup of a VPN server  
 
+<br>
+
+### Simulated VPN Setup  
+
