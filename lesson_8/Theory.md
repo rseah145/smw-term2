@@ -280,3 +280,24 @@ At the bottom part, the cert dropdown list is used to configure the SSTP VPN
 By default, PPTP, SSTP and IKEv2 are all enabled once the Remote Access Services is up and running  
 ![image](../images/Pasted%20image%2020230820181825.png) ![image](../images/Pasted%20image%2020230820181828.png)  
 
+<br>
+
+### Configuring a DHCP Relay Agent  
+
+DHCP Relay Agent broadcasts IP configuration info between the DHCP server on a network and the client acquiring an address  
+
+VPN server can be configured as a DHCP Relay Agent by using the Routing and Remote Access tool  
+
+<br>
+
+In basic terms:  
+* The client contacts the VPN server to make a connection  
+* The VPN server, as a DHCP relay agent, contacts the DHCP server for an IP address for the client  
+* The DHCP server notifies the VPN server of the IP address  
+* The VPN server relays this IP address assignment to the client  
+
+<br>
+
+RAS Demo 4a and 4b  
+* [The VPN Connection Configuration at the remote client]()  
+* [Running RSAT via VPN]()
