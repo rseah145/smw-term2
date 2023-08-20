@@ -128,3 +128,7 @@ When implementing a Win Server 2016 VPN server, there's 3 or 4 choices for remot
 * Secure Socket Tunneling Protocol  
 * <b>IKE v2 Protocol (IPSec, tunnel mode, IKE version 2)</b>  
 
+<br>
+
+IKEv2 is a newer version of IPsec which provides more configuration options  
+
