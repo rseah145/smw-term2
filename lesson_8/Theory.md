@@ -273,5 +273,10 @@ After the initial setup. You can configure it further from the Routing and Remot
 <br>
 
 2 tabs of the VPN Properties menu  
+General tab shows the current setting of the VPN server  
+Security tab provides the configurations of L2TP/IKEv2 channel (AKA L2TP/IPsec)  
+This sample setup did not enable the IPsec protocol  
+At the bottom part, the cert dropdown list is used to configure the SSTP VPN  
+By default, PPTP, SSTP and IKEv2 are all enabled once the Remote Access Services is up and running  
 ![image](../images/Pasted%20image%2020230820181825.png) ![image](../images/Pasted%20image%2020230820181828.png)  
 
