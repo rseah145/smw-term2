@@ -332,5 +332,5 @@ Remote Access Polciy can be setup to allow or deny remote access requests
 
 By default, the remote access policy is set to deny all  
 
-Therefore, even the RAS services is up and running, remote clients will not be able to connect to it until the Remote Access Policy is configured properly  
+Therefore, even when the RAS services is up and running, remote clients will not be able to connect to it until the Remote Access Policy is configured properly  
 
