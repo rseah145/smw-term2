@@ -207,3 +207,20 @@ Note that these built-in VPN protocols can be implemented in the RAS server conc
 
 ## Configuring a VPN Server  
 
+### General steps
+
+1. Install the Network Policy and Access Services role  
+
+2. Configure a Microsoft Win Server 2016 as a network's VPN server, including configuring the right protocols to provide VPN access to clients  
+
+3. Configure a VPN server as a <b>DHCP Relay Agent</b> for TCP/IP communications  
+4. Configure the VPN server properties  
+
+5. Configure a remote access policy for security  
+
+<br>
+
+Activity 9-1 of textbook shows how to install the Network Policy, Access Services and Remote Access roles  
+
+Activity 9-2 of textbook takes you through the initial setup of a VPN server  
+
