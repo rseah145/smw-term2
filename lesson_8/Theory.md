@@ -401,4 +401,6 @@ Call your ISP to determine if problems are present on the ISP's WAN
 Use the Services tool or Server Manager to ensure the following services are started:  
 * IP Helper
 * Remote Access Connection Manager  
-* IKE and AuthIP IPsec Keying Modul
+* IKE and AuthIP IPsec Keying Modules  
+* Routing and Remote Access  
+* Netlogon
