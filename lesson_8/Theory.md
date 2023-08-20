@@ -260,3 +260,6 @@ In a production system, additional protections are usually put in place with fir
 
 RAS Demo 2, [Features of RAS](https://web.microsoftstream.com/video/3d1a4030-6bc9-41e5-8557-b7f68747d984)  
 
+After the VPN server is setup  
+* The configuration wizard will be invoked to guide you through the configuration  
+* RAS Demo 3 - [Configuration Wizard]()
