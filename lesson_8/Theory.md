@@ -478,3 +478,45 @@ Thin clients
 
 <br>
 
+Centralize control of how programs are used  
+* Highly-classified or sensitive documenta can be stored and modified only on the server  
+* Server can be configured to provide a high level of security  
+
+<br>
+
+RDS not only supports thin clients, but also other types of OSs including:  
+* Windows 10  
+* Windows Server 2016  
+* UNIX and UNIX-based X-terminals  
+* Linux  
+* Mac OS  
+* Tablet operating systems  
+
+<br>
+
+Four main components enable remote desktop server connectivity:  
+* Win Server 2016 multiuser Remote Desktop Services  
+* Remote desktop services client  
+* Remote Desktop Protocol (RDP)  
+* Remote Desktop Services administration tools  
+
+<br>
+
+See Table 9-6 from textbook for a description of the 4 main components  
+
+<br>
+
+When you install RDS, you can install different role services:  
+* Remote Desktop Session Host  
+* Remote Desktop Web Access  
+* Remote Desktop Virtualization Host  
+* Remote Desktop Licensing  
+* Remote Desktop Gateway  
+* Remote Desktop Connection Broker  
+
+<br>
+
+See Table 9-7 from textbook for a description of each service  
+
+<br>
+
