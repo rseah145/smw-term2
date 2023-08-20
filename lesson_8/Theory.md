@@ -71,4 +71,22 @@ Diagram with 3 remote client to site VPN implementations
 
 ### More theory  
 
-A VPN server uses 2 or more NICs for communication
+A VPN server uses 2 or more NICs for communication  
+* 1 NIC used to connect to the private network inside the org that uses private IP addressing  
+* The other NIC connects to the external public network  
+
+<br>
+
+To create this tunnel, the client first connects to the Internet by establishing a connection using a remote access protocol  
+
+Once connected to the Internet, the client establishes a 2nd connection with the VPN server  
+
+The client and the VPN server agree on how the data will be encapsulated and encrypted across the virtual tunnel  
+
+Caveats:
+* Do not use any of your DC to be the VPN server  
+* VPN server is public facing and it should be situated in the DMZ segment  
+
+<br>
+
+
