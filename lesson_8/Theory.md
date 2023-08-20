@@ -258,4 +258,5 @@ In a production system, additional protections are usually put in place with fir
 
 ### Configuring VPN Properties  
 
-RAS Demo 2, [Features of RAS]()
+RAS Demo 2, [Features of RAS](https://web.microsoftstream.com/video/3d1a4030-6bc9-41e5-8557-b7f68747d984)  
+
