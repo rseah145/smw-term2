@@ -21,6 +21,7 @@ Install and configure Remote Desktop Services
 * [Implementing a Virtual Private Network](#implementing-a-virtual-private-network)
 * [Using Remote Access Protocols](#using-remote-access-protocols)
 * [Configuring a VPN Server](#configuring-a-vpn-server)
+* [Troubleshooting VPN Installations](#troubleshooting-vpn-installations)
 
 <br>
 
@@ -364,4 +365,20 @@ Activity 9-6 from the textbook shows how to configure a remote access policy
 Screenshot of NPS  
 ![image](../images/Pasted%20image%2020230820183251.png)  
 
+### Monitoring VPN Users  
+
+After configuring the VPN server and running it in production, you should periodically monitor the users who are connected  
+
+Use the Routing and Remote Access tool to monitor connected users  
+
+<br>
+
+With the tool open:  
+* Expand the elements under the server name in the left pane
+* Click Remote Access Clients in the left pane  
+* The right pane shows the users who are connected, if you want to disconnect a user, right-click the user and click Disconnect  
+
+<br>
+
+## Troubleshooting VPN Installations  
 
