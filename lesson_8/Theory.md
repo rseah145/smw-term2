@@ -196,7 +196,7 @@ IKE v2 is the only built-in VPN protocol that supports mobility connections (e.g
 Note that these built-in VPN protocols can be implemented in the RAS server concurrently, meaning RAS can be configured to support remote clients using any of the 4 VPN protocols to a site  
 
 | VPN Protocol | Encryption | Ports | Compatible with | Notes |
-| :---------------| :------------| :-----| :-----------------| :---------|
+| :---------------| :------------| :------------- | :-----------------| :---------|
 | PPTP | MPPE with RC4 128-bit key | 1723 TCP | Windows, Mac OS, iPhone, Android | PPTP is a widely used VPN protocl, easy to setup. <br>Not considered for site to site VPN setup. <br>Not recommended to be used for VPN sessions that last longer than a couple of hours. |
 | L2TP | IPsec with 3DE 168-bit key | 500 UDP<br>1701 UDP<br>5500 UDP| Windows, Mac OS, Android | Considered to be more secure than PPTP. |
 | SSTP|
