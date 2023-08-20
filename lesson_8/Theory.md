@@ -82,6 +82,8 @@ Once connected to the Internet, the client establishes a 2nd connection with the
 
 The client and the VPN server agree on how the data will be encapsulated and encrypted across the virtual tunnel  
 
+<br>
+
 Caveats:
 * Do not use any of your DC to be the VPN server  
 * VPN server is public facing and it should be situated in the DMZ segment  
@@ -92,3 +94,17 @@ Typical Win Server configuration to be used as a VPN server uses 2 NICs, AKA mul
 
 VPN server may or may not be a part of a domain, if the Win Server is part of the domain, it can directly use the AD for client authentication  
 
+<br>
+
+## Using Remote Access Protocols  
+
+Remote access protocol carries the network packets over a Wide Area Network (WAN) link  
+* Encapsulates a packet, such as an IP datagram, so that it can be transmitted from a point at 1 end of a WAN to another point  
+
+<br>
+
+IP is the most commonly used transport protocol  
+
+Several rermote access protocols are used by Win Server 2016 and its remote clients  
+
+An early basic remote access protocol in use is PPP
