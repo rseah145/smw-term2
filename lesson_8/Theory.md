@@ -603,3 +603,6 @@ Remote Desktop Services client PCs can sign in using the Remote Desktop Connecti
 * The RDC client is already installed in Windows Vista through Windows 10 and in Win Server 2016  
 * [RD Service Demo (part 3: RDC)](https://web.microsoftstream.com/video/ecfbf5ee-acff-47f9-b96e-6b010cf3c36e)  
 
+<br>
+
+The general steps to start 
