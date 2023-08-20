@@ -250,6 +250,12 @@ Activity 9-3 from textbook covers this
 
 Quick [video](https://login.microsoftonline.com/common/oauth2/authorize?client_id=cf53fce8-def6-4aeb-8d30-b158e7b1cf83&response_mode=form_post&response_type=code+id_token&scope=openid+profile&state=OpenIdConnect.AuthenticationProperties%3dAQAAAAIAAAAJLnJlZGlyZWN0Smh0dHBzOi8vd2ViLm1pY3Jvc29mdHN0cmVhbS5jb20vdmlkZW8vYzJmZTZhZmYtMWI4MS00OWE4LThmODMtNTFhMDUzNDI1YWQyCG5vbmNlS2V5mwEzdDlCbG5sM1JDM3pITll5ZGhrRE1BS2VEckNZNkZyZk5LeGtabkwxN0hRbjJyMDNmLVBnQ3FNaWdUV2Q3QTRzSFprUndDMi1oZjVMY0JmMVFpVWE4dHBxRV9EWjVyYVRCTlF3Mkc0UnFjUk5RN0RvUzcwZDNvSEpmSUZPTWFuVXgxSEMzUWgxaXIxT2NGblZTUVd4Y0tFZ1hKSQ&nonce=638281231760054001.MmE4MjJlN2QtNjg2MS00ZDMxLWE3YTktOGVhMDQzMDlmNzMwOGZkZmE5MzktYzJhYi00NGExLWE2ZDMtZTc5NTI0ZGIxNzJj&nonceKey=OpenIdConnect.nonce.itHphQD%2blGxtcIzoJ7iePQvl0UmQGuzNUgBjZ5YcHis%3d&site_id=500453&redirect_uri=https%3a%2f%2fweb.microsoftstream.com%2f&post_logout_redirect_uri=https%3a%2f%2fproducts.office.com%2fmicrosoft-stream&msafed=0&prompt=none&sso_reload=true) for VMs in the simulated network  
 
-For a simple VPN setup in a lab environment, all server firewall configurations may be completed via installation wizard.  
+For a simple VPN setup in a lab environment, all server firewall configurations may be completed via installation wizard  
 
-In a production system, additional protections are usually put in place with firewall devices
+In a production system, additional protections are usually put in place with firewall devices. In this case, you need to understand the configuration requirement for various types of VPN protocols  
+
+<br>
+
+### Configuring VPN Properties  
+
+RAS Demo 2, [Features of RAS]()
