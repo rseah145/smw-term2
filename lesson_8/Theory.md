@@ -444,4 +444,15 @@ This checking requires the thorough understanding of network infrastructure, VPN
 
 ## Connecting Through Remote Desktop Services  
 
-Remote Desktop Services (RDS) server enables clients to run sessions-based desktops, virtual desktops, and software apps on Win Server 2016 instead of running them on the client
+Remote Desktop Services (RDS) server enables clients to run sessions-based desktops, virtual desktops, and software apps on Win Server 2016 instead of running them on the client  
+
+Using session-based desktops, the client accesses an RDS server to run apps on that server during a connection session  
+
+<br>
+
+Virtual desktops  
+* Are used in association with accessing virtual machines on a virtual server through Hyper-V  
+* Multiple virtual desktops can be in a pool of desktops for different purposes  
+
+<br>
+
