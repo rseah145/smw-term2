@@ -222,7 +222,7 @@ In a simple network structure a <b>single IPsec policy</b> can be designed that 
 
 In a large environment, many different IPsec policies may be designed  
 
-Factors that can increase the numebr of policies required include  
+Factors that can increase the number of policies required include  
 * PC Roles
 * Sensitivity of data traveling over the network  
 * PC OS
