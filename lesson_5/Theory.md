@@ -360,7 +360,7 @@ Goal of stage 3 is to identify and apply a short-term fix to manage the vulnerab
 
 Microsoft may provide some suggested mitigation or workarounds in their security advisories if the security update cannot be applied immediately  
 
-Such mitigations and workarounds are meant for short-term use, they do nto replace security updates  
+Such mitigations and workarounds are meant for short-term use, they do not replace security updates  
 
 <br>
 
