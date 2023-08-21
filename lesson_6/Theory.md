@@ -409,7 +409,7 @@ Choosing an IPsec Authentication Method
 
 <br>
 
-If1 endpoint supports both Pre-shared Key and Certificates authentication, whilst the other endpoint only supports Kerberos authentication, they will not be able to establish an IPsec channel  
+If 1 endpoint supports both Pre-shared Key and Certificates authentication, whilst the other endpoint only supports Kerberos authentication, they will not be able to establish an IPsec channel  
 
 <br>
 
