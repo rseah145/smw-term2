@@ -583,7 +583,7 @@ When troubleshooting IPsec policies and their precedence, list of items to remem
 
 Procedure for deleting policy objects
 * <b>Unassign</b> the IPsec policy in the GPO  
-* Wait 24 hrs to ensure that the cchange is propagated  
+* Wait 24 hrs to ensure that the change is propagated  
 * Delete the GPO  
 
 <br>
