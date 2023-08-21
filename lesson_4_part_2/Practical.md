@@ -1,4 +1,4 @@
-# Important stuff, not everything is covered
+# Only the important stuff, not everything is covered
 
 # From 4-6 onwards
 
