@@ -174,7 +174,7 @@ Internet Key Exchange Version 2 Protocol (IKE v2)
 <br>
 
 IKE v2 Encryption:
-* AES-256, AES-192, AES-129, and 3DES encryption algorithms  
+* AES-256, AES-192, AES-128, and 3DES encryption algorithms  
 * 3DES is not recommended  
 
 <br>
