@@ -160,7 +160,7 @@ Secure Socket Tunneling Protocol (SSTP)
 * Employs PPP authentication techniques  
 * Encapsulates the data packets in HTTP used through Web communications  
 * Additionally uses an SSL channel for secure communication, SSL for data encryption between server and client. SSL has evolved into TLS  
-* Viewed as more secure than PPTP or L2TP  
+* Viewed as more secure than PPTP or L2T8  
 
 <br>
 
