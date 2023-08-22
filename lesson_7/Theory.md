@@ -282,7 +282,7 @@ Configure the discretionary access control list (DACL) for each template
 
 Possible to configure the CA to archive private keys of certs at the time of issuance; enables to recover the key should it be lost  
 
-Only highly trusted individuals should be granted the privilege of arching and recovering keys  
+Only highly trusted individuals should be granted the privilege of archiving and recovering keys  
 
 Cert Services does not archive private keys by default  
 
