@@ -61,7 +61,7 @@ Before you can use digital certificates, you need to design a <b>Public Key Infr
 
 ### What is a digital cert?  
 
-Vid [src](https://www.youtube.com/watch?v=LRMBZhdFjDI){:target="_blank"} (watch from 14:21 and onwards)  
+Vid <a href="https://www.youtube.com/watch?v=LRMBZhdFjDI" target="_blank">src</a> (watch from 14:21 and onwards)  
 
 Why do we need it?  
 To hold a trustworthy public key, this key will be used for subsequent secure communication between the cert recipient and the owner of the public key, the owner of the public key is the one who knows the corresponding private key  
