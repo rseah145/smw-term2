@@ -148,7 +148,7 @@ Point-to-Point Tunneling Protocol (PPTP)
 Layer Two Tunneling Protocol (L2TP)  
 * Works similarly to PPTP  
 * Uses Layer Two Forwarding that enables forwarding on the basis of MAC addressing  
-* Uses IP Security (IPsec) for additional authentication and for data encryption, IPsec i a set of IP-based secure communications and encryption standards created through IETF  
+* Uses IP Security (IPsec) for additional authentication and for data encryption, IPsec is a set of IP-based secure communications and encryption standards created through IETF  
 
 <br>
 
