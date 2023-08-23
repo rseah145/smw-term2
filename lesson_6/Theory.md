@@ -591,7 +591,7 @@ Procedure for deleting policy objects
 <b>Persistent Policy</b> provides max. protection against attacks during PC startup
 * Adds to or overrides local or AD policy  
 * Remains in effect regardless of whether other policies are applied   
-* Provides backup security in-case IPsec policcy gets corrupted or if errors occur  
+* Provides backup security in-case IPsec policy gets corrupted or if errors occur  
 * Can be set using command line tools - netsh at the local PC
 
 <br>
