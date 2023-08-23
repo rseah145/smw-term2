@@ -7,7 +7,7 @@ In terms of the Microsoft Active Directory Authentication implementation:
 (a) State the default and the alternative authentication schemes for the Microsoft
 Active Directory. (4 marks)  
 
-Kerberos is the default authentication scheme, NTLMv2 is an alternative authentication scheme.  
+Kerberos is the default authentication scheme. NTLMv2, NTLMv1, and LAN Manager are the alternative authentication schemes.  
 
 <br>
 
